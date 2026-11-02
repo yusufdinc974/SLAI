@@ -75,6 +75,36 @@ Temel araştırma sorusu şudur:
 
 ## Ekip ve görev dağılımı
 
+## Evrim'in 1. hafta prototipi
+
+BM25 ve RRF prototipi, `retrieval/` altında Python standart kütüphanesiyle
+uygulanmıştır:
+
+```python
+from retrieval import BM25Index, reciprocal_rank_fusion
+
+bm25 = BM25Index({
+    "madde-1": "İşveren iş sağlığı ve güvenliği tedbirlerini alır.",
+    "madde-2": "Çalışanların eğitim ve denetim yükümlülüğü.",
+})
+
+bm25_results = bm25.search("iş sağlığı", top_k=5)
+hybrid_results = reciprocal_rank_fusion(
+    [bm25_results, ["madde-2", "madde-1"]],  # ikinci liste Dense sonuçlarıdır
+    top_k=5,
+)
+```
+
+Her iki yöntem de `passage_id` ve `score` alanlarına sahip aynı sonuç formatını
+kullanır. RRF ham skorları değil, sıralama konumlarını birleştirir; bu nedenle
+BM25 ve Dense skorlarının farklı ölçeklerde olması sorun oluşturmaz.
+
+Testleri çalıştırmak için:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
 ### Dilara (Kişi 1) — Document Processing ve Dense Retrieval
 
 - 6331 sayılı Kanun ve ilgili yönetmelikleri toplamak, kaynak bilgilerini
