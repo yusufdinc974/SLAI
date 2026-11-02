@@ -1,8 +1,77 @@
 # ISG RAG Projesi
 
-İş Sağlığı ve Güvenliği (İSG) mevzuatı üzerinde çalışan bir
-Retrieval-Augmented Generation (RAG) sistemi geliştirilmesi ve Dense Retrieval
-ile Hybrid Retrieval yaklaşımlarının karşılaştırılması hedeflenmektedir.
+## Proje açıklaması
+
+Bu proje, Türkiye'deki İş Sağlığı ve Güvenliği (İSG) mevzuatı üzerinde çalışan
+yapı-farkındalıklı bir Hybrid Retrieval-Augmented Generation (RAG) sistemi
+geliştirmeyi amaçlar. Sistem; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile
+24 ikincil mevzuat metnini Madde, Fıkra ve Bent hiyerarşisini koruyarak işler.
+Hedef kullanıcılar İSG uzmanları, hukuki uyum denetçileri, işverenler ve
+Türkiye'deki çalışanlardır.
+
+Temel araştırma sorusu şudur:
+
+> Yapı-farkındalıklı Hybrid RAG pipeline'ı, aynı Qwen3-8B modelinin retrieval
+> kullanılmayan temel (baseline) sürümüne göre Türkçe İSG mevzuatı sorularında
+> cevap doğruluğunu ve kaynaklara bağlılığını artırır mı?
+
+## Kullanılan yöntem
+
+1. **Mevzuatın yapısal işlenmesi:** Mevzuat, Madde/Fıkra/Bent hiyerarşisi ve
+   başlık bilgileri korunarak parçalara ayrılır. Ek tabloların metin
+   çıkarımında hizası bozulursa Markdown veya anahtar-değer JSON biçiminde
+   serileştirilir.
+2. **İndeksleme:** Parçalar Qdrant üzerinde BGE-M3 dense ve sparse vektörleri
+   ile indekslenir.
+3. **Hybrid retrieval:** Her soru için en iyi 20 hibrit sonuç alınır; reranker
+   uygulanarak en iyi 5 pasaj seçilir.
+4. **Cevap üretimi:** Seçilen pasajlar yerel Qwen3-8B modeline bağlam olarak
+   verilir. Donanım elverirse Gemma 3 12B ile çapraz kontrol yapılır.
+5. **Baseline karşılaştırması:** Aynı Qwen3-8B modeli retrieval olmadan,
+   zero-shot biçimde çalıştırılır. Böylece kazanım yalnızca model farkından
+   değil, retrieval yaklaşımından ölçülür.
+
+## Veri seti ve deney tasarımı
+
+- Korpus: 6331 sayılı Kanun ve 24 yönetmelik olmak üzere yaklaşık 1.450 madde.
+- Değerlendirme seti: 250 Türkçe soru-cevap çifti.
+- Soru türleri: 150 çoktan seçmeli ÖSYM tarzı soru ve 100 açık uçlu soru.
+- Bölünme: 50 geliştirme ve 200 test sorusu; eğitim seti kullanılmaz.
+- Tüm yöntemler aynı soru seti, korpus ve model ayarlarıyla karşılaştırılır.
+- Pilot çalışmada retrieval kullanılmayan Qwen3-8B, 20 soruda %55 doğruluk
+  göstermiş ve güncel olmayan para cezası tutarları gibi uydurma bilgiler
+  üretmiştir. Bu sonuç, RAG yaklaşımının kaynaklı ve güncel cevap üretme
+  potansiyelini test etmek için başlangıç noktasıdır.
+
+## Başarı ölçütleri
+
+- **Retrieval:** Doğru madde veya pasajın bulunup bulunmadığı.
+- **Çoktan seçmeli sorular:** Doğru seçeneğin işaretlenmesi.
+- **Açık uçlu sorular:** Doğruluk, doğru mevzuat atfı ve uydurma bilgi
+  üretmeme.
+- **Kaynaklı cevap kalitesi:** Citation F1, RAGAS ve hata sınıflandırması.
+- **Başarı hedefi:** RAG sisteminin baseline modele göre en az 5 puan daha iyi
+  sonuç vermesi ve farkın istatistiksel testlerle rastlantısal olmadığının
+  gösterilmesi.
+
+## Proje çıktıları ve yol haritası
+
+- Yapısal olarak ayrıştırılmış mevzuat korpusu.
+- 250 soruluk değerlendirme veri seti.
+- Qdrant hibrit indeksi ve reranking pipeline'ı.
+- Baseline ve RAG ölçüm sonuçları.
+- Hata analizi, demo ve yeniden üretilebilir deney yapılandırmaları.
+- Uzun vadede IEEE SIU veya ACL/EMNLP Legal NLP gibi bir çalıştaya
+  gönderilebilecek araştırma çıktısı.
+
+## Riskler ve önlemler
+
+| Risk | Önlem |
+|---|---|
+| Ek tabloların metin çıkarımında hizasını kaybetmesi | Tabloları Markdown veya anahtar-değer JSON olarak serileştirmek |
+| Gemma 3 12B, BGE-M3 ve reranker'ın T4 GPU belleğini aşması | 4-bit Qwen3-8B kullanmak; embedding ve reranking işlemlerini sırayla çalıştırmak |
+
+---
 
 ## Ekip ve görev dağılımı
 
@@ -61,7 +130,7 @@ kaynaklarla desteklenme düzeyini nasıl etkiler?
 
 - Türkçe İSG soruları, referans cevapları ve ilgili pasaj kimliklerinden oluşan
   değerlendirme veri setine katkı sağlamak.
-- 45 geliştirme ve 255 test sorusundan oluşan veri bölünmesini yönetmek.
+- 50 geliştirme ve 200 test sorusundan oluşan veri bölünmesini yönetmek.
 - Recall@1, Recall@3, Recall@5 ve MRR metriklerini uygulamak.
 - Dense, BM25 ve Hybrid sonuçlarını aynı test soruları üzerinde karşılaştırmak.
 - Soruları madde numarası, hukuki terim, anlamsal/parafraz ve diğer kategorilere
@@ -77,15 +146,15 @@ yoksa belirli kategorilerde mi yoğunlaşır?
 
 ## Ortak soru veri seti
 
-300 soruluk veri seti aşağıdaki şekilde paylaşılır:
+250 soruluk veri seti aşağıdaki şekilde paylaşılır:
 
 | Ekip üyesi | Soru katkısı | Ek sorumluluk |
 |---|---:|---|
-| Dilara | 75 soru | Mevzuat kapsamı ve kaynak kontrolü |
-| Evrim | 75 soru | Soruların ilgili pasajlarla eşleşme kontrolü |
-| Zeynep | 75 soru | Referans cevapların mevzuata uygunluk kontrolü |
-| Yusuf | 75 soru | Veri formatı, etiket tutarlılığı ve veri bölünmesi |
-| **Toplam** | **300 soru** | |
+| Dilara | 62 soru | Mevzuat kapsamı ve kaynak kontrolü |
+| Evrim | 63 soru | Soruların ilgili pasajlarla eşleşme kontrolü |
+| Zeynep | 62 soru | Referans cevapların mevzuata uygunluk kontrolü |
+| Yusuf | 63 soru | Veri formatı, etiket tutarlılığı ve veri bölünmesi |
+| **Toplam** | **250 soru** | |
 
 Her üyenin hazırladığı sorular başka bir ekip üyesi tarafından örneklem
 üzerinden çapraz kontrol edilecektir. Geliştirme ve test verileri ayrılacak;
@@ -97,7 +166,7 @@ test etiketleri sistem sonuçlarına bakılarak değiştirilmeyecektir.
 |---:|---|---|---|---|
 | 1 | Mevzuat, chunking ve Dense prototipi | BM25 ve RRF prototipi | LLM ve prompt denemeleri | Metrikler ve deney tasarımı |
 | 2 | Dense Retrieval ve chunking deneyleri | Hybrid Retrieval entegrasyonu | Uçtan uca generation pipeline'ı | Değerlendirme kodu ve veri şeması |
-| 3 | 75 soru, korpus kontrolü ve Dense testleri | 75 soru ve retrieval testleri | 75 soru ve cevap kalitesi testleri | 75 soru, etiket kontrolü ve analiz |
+| 3 | 62 soru, korpus kontrolü ve Dense testleri | 63 soru ve retrieval testleri | 62 soru ve cevap kalitesi testleri | 63 soru, etiket kontrolü ve analiz |
 | 4 | Son deneyler ve dokümantasyon | Retrieval karşılaştırması | Generation hata analizi | İstatistiksel sonuçlar ve rapor |
 
 Modüller ortak arayüzler tamamlandıkça birleştirilecek ve deneyler aynı veri
