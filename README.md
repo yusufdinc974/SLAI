@@ -222,4 +222,7 @@ Projenin sonunda Dense, BM25 ve Hybrid Retrieval yöntemlerinin hem retrieval
 başarısı hem de kaynaklı cevap kalitesi açısından karşılaştırmalı sonuçları
 sunulacaktır.
 
-*Son güncelleme: 2 Kasım 2026*
+## Teknik Dokümantasyon
+- [Belge İşleme, Chunking, Dense Embedding ve Vectorstore](docs/dilara-calisma.md)
+
+*Son güncelleme: 4 Kasım 2026*
