@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Generated data
+data/raw/
+data/processed/
+data/chunks/
+data/embeddings/
+data/qdrant/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
