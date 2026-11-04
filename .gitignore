@@ -13,7 +13,6 @@ venv/
 .env.*
 
 # Generated data
-data/raw/
 data/processed/
 data/chunks/
 data/embeddings/
