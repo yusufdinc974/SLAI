@@ -110,11 +110,11 @@ class HybridRetriever:
             show_progress_bar=False,
         ).tolist()
 
-        hits = self.client.search(
+        hits = self.client.query_points(
             collection_name=self.collection_name,
-            query_vector=query_vector,
+            query=query_vector,
             limit=top_k,
-        )
+        ).points
 
         return [
             RetrievalResult(
