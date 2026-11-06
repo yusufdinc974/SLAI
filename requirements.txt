@@ -2,6 +2,7 @@
 # Document processing
 PyMuPDF==2.1
 PyMuPDF4LLM==2.1
+python-docx==1.1.2
 
 # Dense embeddings
 sentence-transformers==6.2.0

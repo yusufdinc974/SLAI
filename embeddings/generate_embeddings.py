@@ -146,11 +146,12 @@ def main():
         print("İşlenecek yeni deney bulunamadı.")
         return
 
-    print("BGE-M3 modeli yükleniyor...")
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"BGE-M3 modeli yükleniyor (Cihaz: {device})...")
 
     model = SentenceTransformer(
         MODEL_NAME,
-        device="cpu"
+        device=device
     )
 
     model.max_seq_length = 512
