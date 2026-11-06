@@ -1,12 +1,15 @@
 # The BM25 and RRF prototypes use only the Python standard library.
 # Document processing
-PyMuPDF==2.1
-PyMuPDF4LLM==2.1
-python-docx==1.1.2
+PyMuPDF>=1.24
+python-docx>=1.1
 
 # Dense embeddings
-sentence-transformers==6.2.0
-torch==2.15.0
+# torch is intentionally NOT pinned: Colab ships a CUDA build of torch and
+# matching torchvision. Reinstalling a different torch breaks torchvision and
+# makes sentence-transformers fail to import (InterpolationMode error).
+# Locally without a GPU, install it first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3.0
 
-# Vector database
-qdrant-client==1.20.0
+# Vector database (query_points API requires >= 1.10)
+qdrant-client>=1.10
