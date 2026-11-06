@@ -77,6 +77,82 @@ Temel deney koleksiyonu (`isg_size_1000_overlap_0`, 2.193 pasaj) üzerinde BM25-
 | 1.5 | 0.90 | 18.7876 | 23.7248 |
 | 2.0 | 0.75 | 19.4047 | 24.5705 |
 
-## 6. Değerlendirme ve Çıktı Formatı
+## 6. Ekip Arkadaşları İçin Entegrasyon ve Teslim Rehberi (Kişi 3 & Kişi 4)
 
-Yusuf'un değerlendirme modülü (Recall@k, MRR) ve Zeynep'in LLM cevap üretim modülü ile entegrasyon için `retrieval/export_results.py` aracı geliştirilmiştir. Bu modül soru veri setini okuyarak her üç yöntemin sıralamalarını 5 deneyin tamamı için standart `runs.jsonl` ve `runs.csv` formatlarında dışa aktarır.
+Bölüm 3 (BM25, Dense Entegrasyonu ve Hybrid RRF) kapsamında üretilen tüm çıktı dosyaları `results/retrieval/` dizininde hazır bulunmaktadır.
+
+### 6.1. Kişi 3 (Zeynep — LLM Yanıt Üretimi ve Arayüz) Neleri Alacak?
+
+Zeynep'in LLM prompt şablonuna kaynak mevzuat pasajlarını beslemek için iki seçeneği vardır:
+
+1. **Hazır JSON Dosyaları (`llm_contexts.json`):**
+   - Konum: `results/retrieval/<deney_adi>/llm_contexts.json` (Önerilen varsayılan deney: `results/retrieval/size_1000_overlap_100/llm_contexts.json`)
+   - İçerik: Her soru için `bm25`, `dense` ve `hybrid` yöntemlerinin getirdiği ilk 5 pasajın `passage_id`, `rank`, `score`, `title` (Kanun/Yönetmelik no), `section_type` (`MADDE`), `section_number` ve tam metin (`text`) bilgisini içerir.
+
+2. **Canlı Python/UI Entegrasyonu (`HybridRetriever`):**
+   Kullanıcı arayüzünden (Streamlit/Gradio) veya `llm/` modülünden anlık soru sorulduğunda doğrudan şu kodla ilk 5 pasaj ve metinleri çekilebilir:
+   ```python
+   from retrieval import HybridRetriever
+
+   retriever = HybridRetriever.from_experiment("size_1000_overlap_100")
+   results = retriever.search_hybrid("İş sağlığı ve güvenliği kurulu hangi işyerlerinde kurulur?", top_k=5)
+
+   for rank, res in enumerate(results, start=1):
+       passage = retriever.bm25_index.passage_map[res.passage_id]
+       print(f"[{rank}] {passage['title']} - {passage['section_type']} {passage['section_number']}")
+       print(passage["text"])
+   ```
+
+---
+
+### 6.2. Kişi 4 (Yusuf — Soru Seti ve Değerlendirme Metrikleri) Neleri Alacak?
+
+Yusuf'un `Precision@5`, `Recall@5`, `MRR@5` ve `nDCG@5` metriklerini hesaplaması ve değerlendirme tablolarını oluşturması için hazır dosyalar:
+
+1. **Sıralama Çıktıları (`runs.jsonl` ve `runs.csv`):**
+   - Konumlar (5 deneyin tamamı için ayrı ayrı üretilmiştir):
+     - `results/retrieval/size_500_overlap_0/runs.jsonl` ve `runs.csv`
+     - `results/retrieval/size_1000_overlap_0/runs.jsonl` ve `runs.csv`
+     - `results/retrieval/size_1000_overlap_100/runs.jsonl` ve `runs.csv` *(Varsayılan/Önerilen)*
+     - `results/retrieval/size_1000_overlap_200/runs.jsonl` ve `runs.csv`
+     - `results/retrieval/size_1500_overlap_0/runs.jsonl` ve `runs.csv`
+   - Format (`runs.jsonl`): Her satır bir soruya (`question_id`, `question`) ait `bm25`, `dense` ve `hybrid` yöntemlerinin ilk 5 `passage_id` ve `score` listesini tutar.
+   - Format (`runs.csv`): `experiment, question_id, method, rank, passage_id, score` sütunlarından oluşur.
+
+2. **Hazır Parametre ve Deney Karşılaştırma Tabloları:**
+   - `results/retrieval/bm25_parameter_experiments.csv` (ve `.json`): BM25 `k1`, `b` ve `article_boost` deney sonuçları.
+   - `results/retrieval/rrf_parameter_experiments.csv` (ve `.json`): RRF `rrf_k`, ağırlıklandırma ve BM25 vs. Dense vs. Hybrid karşılaştırması.
+   - `results/retrieval/chunking_5_experiments_comparison.csv` (ve `.json`): 5 farklı chunking deneyinin karşılaştırma tablosu.
+
+---
+
+### 6.3. 40–50 Soruluk Resmi Soru Seti (`questions.json`) Eklendiğinde Ne Yeniden Çalıştırılacak?
+
+Yusuf 40–50 soruluk nihai değerlendirme veri setini (`data/questions/questions.json`) hazırladığında **mevcut retrieval kodlarında veya parametre analizlerinde hiçbir değişiklik yapılmasına gerek yoktur.** Sadece yeni soruların sıralama çıktılarını üretmek için şu adımlar uygulanır:
+
+1. **Soru Dosyası Formatı (`data/questions/questions.json`):**
+   ```json
+   [
+     {
+       "question_id": "q1",
+       "question": "İş sağlığı ve güvenliği kurulu hangi işyerlerinde kurulur?"
+     }
+   ]
+   ```
+2. **Yeniden Çalıştırılacak Tek Komut:**
+   Yeni soruların `BAAI/bge-m3` sorgu vektörlerini çıkarıp BM25, Dense ve Hybrid (RRF) sıralamalarını güncellemek için:
+   ```bash
+   python -m retrieval.export_results \
+     --questions data/questions/questions.json \
+     --experiment size_1000_overlap_100 \
+     --output results/retrieval/size_1000_overlap_100/runs.jsonl \
+     --csv results/retrieval/size_1000_overlap_100/runs.csv
+   ```
+   *(Tüm 5 deney için çalıştırmak istenirse `--experiment` parametresi sırayla `size_500_overlap_0`, `size_1000_overlap_0`, `size_1000_overlap_100`, `size_1000_overlap_200`, `size_1500_overlap_0` olarak verilebilir.)*
+
+3. **Değişmeyecek / Yeniden Denenmesine Gerek Olmayan Kısımlar:**
+   - `bm25_parameter_experiments.csv` (`k1`, `b` ve `article_boost` duyarlılık analizi)
+   - `rrf_parameter_experiments.csv` (`rrf_k` ve ağırlık duyarlılık analizi)
+   - `chunking_5_experiments_comparison.csv` (5 chunk boyutunun yapısal karşılaştırması)
+   Bu analizler doğrudan 20 mevzuatlık sabit korpus üzerinde doğrulandığı için raporda olduğu gibi kullanılmaya devam edilir.
+
