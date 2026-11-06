@@ -79,8 +79,21 @@ class HybridRetriever:
         for file_path in sorted(chunks_dir.glob("*.json")):
             with open(file_path, "r", encoding="utf-8") as f:
                 records = json.load(f)
-                for rec in records:
-                    passages[rec["passage_id"]] = rec
+            if not isinstance(records, list) or not all(
+                isinstance(rec, dict) and "passage_id" in rec and "text" in rec
+                for rec in records
+            ):
+                raise ValueError(
+                    f"{file_path} is not a chunk file (expected a list of "
+                    "objects with 'passage_id' and 'text'). It may be a "
+                    "data/processed document copied by mistake; regenerate "
+                    "chunks with: python -m document_processing.chunking.chunker"
+                )
+            for rec in records:
+                passages[rec["passage_id"]] = rec
+
+        if not passages:
+            raise FileNotFoundError(f"No chunks found in {chunks_dir}")
 
         if qdrant_client is None:
             from qdrant_client import QdrantClient
@@ -145,8 +158,30 @@ class HybridRetriever:
         bm25_candidates = self.search_bm25(query, top_k=candidate_top_k)
         dense_candidates = self.search_dense(query, top_k=candidate_top_k)
 
+        return self.fuse(
+            bm25_candidates,
+            dense_candidates,
+            top_k=top_k,
+            weights=weights,
+            rrf_k=rrf_k,
+        )
+
+    @staticmethod
+    def fuse(
+        bm25_results: Sequence[RetrievalResult],
+        dense_results: Sequence[RetrievalResult],
+        *,
+        top_k: int = 5,
+        weights: Sequence[float] | None = None,
+        rrf_k: int = 60,
+    ) -> list[RetrievalResult]:
+        """Fuse already-retrieved BM25 and Dense rankings with RRF.
+
+        Useful when the individual rankings are also needed (e.g. for
+        exporting all three methods) so each search runs only once.
+        """
         return reciprocal_rank_fusion(
-            [bm25_candidates, dense_candidates],
+            [list(bm25_results), list(dense_results)],
             k=rrf_k,
             weights=weights,
             top_k=top_k,
@@ -161,11 +196,7 @@ class HybridRetriever:
         """Retrieve top results across BM25, Dense, and Hybrid for comparison analysis."""
         bm25_results = self.search_bm25(query, top_k=candidate_top_k)
         dense_results = self.search_dense(query, top_k=candidate_top_k)
-        hybrid_results = reciprocal_rank_fusion(
-            [bm25_results, dense_results],
-            k=60,
-            top_k=top_k,
-        )
+        hybrid_results = self.fuse(bm25_results, dense_results, top_k=top_k)
 
         return {
             "bm25": bm25_results[:top_k],

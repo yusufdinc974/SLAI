@@ -101,6 +101,18 @@ class HybridRetrieverTests(unittest.TestCase):
                     "yok", tmp, qdrant_client=self.client, model=self.model
                 )
 
+    def test_processed_document_in_chunks_dir_gives_clear_error(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            chunk_dir = Path(tmp) / "data" / "chunks" / "size_1000_overlap_0"
+            chunk_dir.mkdir(parents=True)
+            with open(chunk_dir / "doc.json", "w", encoding="utf-8") as f:
+                json.dump({"document_id": "x", "full_text": "..."}, f)
+            with self.assertRaises(ValueError) as ctx:
+                HybridRetriever.from_experiment(
+                    "size_1000_overlap_0", tmp, qdrant_client=self.client, model=self.model
+                )
+            self.assertIn("chunker", str(ctx.exception))
+
 
 if __name__ == "__main__":
     unittest.main()
