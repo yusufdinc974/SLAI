@@ -11,6 +11,52 @@ from typing import Iterable, Mapping
 
 _TOKEN_PATTERN = re.compile(r"[^\W_]+", re.UNICODE)
 
+_ARTICLE_AFTER_PATTERN = re.compile(
+    r"(?:(geçici|ek)\s+)?madde\s+(\d+(?:\s*/\s*[a-zA-Z])?)",
+    re.IGNORECASE | re.UNICODE,
+)
+_ARTICLE_BEFORE_PATTERN = re.compile(
+    r"(\d+)\s*(?:\.|'|’)?\s*(?:nc[ıiuü]|inc[ıiuü]|unc[uü]|ünc[uü])?\s*madde",
+    re.IGNORECASE | re.UNICODE,
+)
+_LAW_NUMBER_PATTERN = re.compile(
+    r"\b(\d{4})\s*sayılı",
+    re.IGNORECASE | re.UNICODE,
+)
+
+
+def extract_legal_references(query: str) -> dict[str, set[str]]:
+    """Extract explicit article numbers and 4-digit law numbers from a Turkish query.
+
+    Recognizes forms such as ``"Madde 22"``, ``"22 nci madde"``, ``"17. madde"``,
+    ``"Geçici Madde 9"``, and ``"6331 sayılı Kanun"``.
+    """
+    normalized = query.replace("İ", "i").casefold()
+    articles: set[str] = set()
+    section_types: set[str] = set()
+
+    for prefix, number in _ARTICLE_AFTER_PATTERN.findall(normalized):
+        clean_num = re.sub(r"\s+", "", number).upper()
+        articles.add(clean_num)
+        if prefix == "geçici":
+            section_types.add("provisional_article")
+        elif prefix == "ek":
+            section_types.add("additional_article")
+        else:
+            section_types.add("article")
+
+    for number in _ARTICLE_BEFORE_PATTERN.findall(normalized):
+        articles.add(number.strip())
+        if not section_types:
+            section_types.add("article")
+
+    laws = {match.strip() for match in _LAW_NUMBER_PATTERN.findall(normalized)}
+    return {
+        "articles": articles,
+        "laws": laws,
+        "section_types": section_types,
+    }
+
 
 def tokenize(text: str) -> list[str]:
     """Normalize text into lowercase Unicode word tokens.

@@ -113,6 +113,27 @@ class HybridRetrieverTests(unittest.TestCase):
                 )
             self.assertIn("chunker", str(ctx.exception))
 
+    def test_article_and_law_number_boost_prioritizes_matching_passage(self):
+        passages = {
+            "reg": {
+                "passage_id": "reg",
+                "title": "7.5.17031",
+                "section_type": "article",
+                "section_number": "3",
+                "text": "6331 sayılı Kanunun 22 nci maddesine dayanılarak hazırlanmıştır",
+            },
+            "law22": {
+                "passage_id": "law22",
+                "title": "1.5.6331",
+                "section_type": "article",
+                "section_number": "22",
+                "text": "MADDE 22 İş sağlığı ve güvenliği kurulu elli çalışan",
+            },
+        }
+        retriever = HybridRetriever(passages, self.client, "isg_test", embedding_model=self.model)
+        boosted = retriever.search_bm25("6331 sayılı Kanun Madde 22 kurulu", top_k=2)
+        self.assertEqual(boosted[0].passage_id, "law22")
+
 
 if __name__ == "__main__":
     unittest.main()

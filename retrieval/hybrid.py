@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 from typing import Any, Mapping, Sequence
 
-from .bm25 import BM25Index, RetrievalResult
+from .bm25 import BM25Index, RetrievalResult, extract_legal_references
 from .rrf import reciprocal_rank_fusion
 
 
@@ -108,9 +108,40 @@ class HybridRetriever:
             embedding_model=model,
         )
 
-    def search_bm25(self, query: str, top_k: int = 20) -> list[RetrievalResult]:
-        """Perform lexical BM25 search."""
-        return self.bm25_index.search(query, top_k=top_k)
+    def search_bm25(
+        self,
+        query: str,
+        top_k: int = 20,
+        *,
+        article_boost: float = 10.0,
+    ) -> list[RetrievalResult]:
+        """Perform lexical BM25 search with optional metadata boost for article/law numbers."""
+        refs = extract_legal_references(query)
+        if article_boost <= 0 or (not refs["articles"] and not refs["laws"]):
+            return self.bm25_index.search(query, top_k=top_k)
+
+        total = max(top_k, self.bm25_index.passage_count)
+        base_results = self.bm25_index.search(query, top_k=total)
+        boosted: list[RetrievalResult] = []
+
+        for res in base_results:
+            meta = self.passage_data.get(res.passage_id, {})
+            bonus = 0.0
+            sec_num = str(meta.get("section_number") or "").strip().upper()
+            sec_type = str(meta.get("section_type") or "").strip()
+            title = str(meta.get("title") or "").strip()
+
+            if sec_num and sec_num in refs["articles"]:
+                if not refs["section_types"] or not sec_type or sec_type in refs["section_types"]:
+                    bonus += article_boost
+
+            if title and any(title.endswith(law) for law in refs["laws"]):
+                bonus += article_boost * 0.5
+
+            boosted.append(RetrievalResult(res.passage_id, res.score + bonus))
+
+        boosted.sort(key=lambda r: (-r.score, r.passage_id))
+        return boosted[:top_k]
 
     def search_dense(self, query: str, top_k: int = 20) -> list[RetrievalResult]:
         """Perform semantic Dense search using BGE-M3 and Qdrant."""

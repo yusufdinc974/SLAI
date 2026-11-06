@@ -1,0 +1,218 @@
+[
+  {
+    "k1": 1.2,
+    "b": 0.5,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 16.0428
+  },
+  {
+    "k1": 1.2,
+    "b": 0.5,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 24.297
+  },
+  {
+    "k1": 1.2,
+    "b": 0.5,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 40.5721
+  },
+  {
+    "k1": 1.2,
+    "b": 0.5,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 18.6049
+  },
+  {
+    "k1": 1.2,
+    "b": 0.75,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 17.0161
+  },
+  {
+    "k1": 1.2,
+    "b": 0.75,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 23.7399
+  },
+  {
+    "k1": 1.2,
+    "b": 0.75,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 39.2422
+  },
+  {
+    "k1": 1.2,
+    "b": 0.75,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 19.9899
+  },
+  {
+    "k1": 1.5,
+    "b": 0.5,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 16.8316
+  },
+  {
+    "k1": 1.5,
+    "b": 0.5,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 24.7076
+  },
+  {
+    "k1": 1.5,
+    "b": 0.5,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 42.4286
+  },
+  {
+    "k1": 1.5,
+    "b": 0.5,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 19.1874
+  },
+  {
+    "k1": 1.5,
+    "b": 0.75,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 17.9964
+  },
+  {
+    "k1": 1.5,
+    "b": 0.75,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 24.0835
+  },
+  {
+    "k1": 1.5,
+    "b": 0.75,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 40.8505
+  },
+  {
+    "k1": 1.5,
+    "b": 0.75,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 20.812
+  },
+  {
+    "k1": 1.5,
+    "b": 0.9,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 18.7876
+  },
+  {
+    "k1": 1.5,
+    "b": 0.9,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 23.7248
+  },
+  {
+    "k1": 1.5,
+    "b": 0.9,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 39.9611
+  },
+  {
+    "k1": 1.5,
+    "b": 0.9,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 21.9317
+  },
+  {
+    "k1": 2.0,
+    "b": 0.75,
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top1_source": "1.5.6331 | MADDE 22",
+    "top1_score": 19.4047
+  },
+  {
+    "k1": 2.0,
+    "b": 0.75,
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top1_source": "7.5.45087 | MADDE 5",
+    "top1_score": 24.5705
+  },
+  {
+    "k1": 2.0,
+    "b": 0.75,
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "top1_passage_id": "01bf49c4a3cefd38c4dc",
+    "top1_source": "7.5.18615 | MADDE 19",
+    "top1_score": 43.0538
+  },
+  {
+    "k1": 2.0,
+    "b": 0.75,
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "top1_passage_id": "9a95c3a191270d70616b",
+    "top1_source": "7.5.17031 | MADDE 3",
+    "top1_score": 21.9347
+  }
+]

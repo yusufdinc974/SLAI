@@ -1,0 +1,21 @@
+experiment,total_passages,question_id,case,top1_passage_id,top1_source,top1_score
+size_500_overlap_0,4089,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),9b4dd43f78453a363565,7.5.16924 | MADDE 10,18.8956
+size_500_overlap_0,4089,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),4dcf61739a098652418f,1.5.6331 | MADDE 17,18.4738
+size_500_overlap_0,4089,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),72126268978d9a7f6e23,7.5.16923 | MADDE 12,37.95
+size_500_overlap_0,4089,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),fbac5ca213d13879e16d,1.5.6331 | MADDE 22,27.2998
+size_1000_overlap_0,2193,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,17.9964
+size_1000_overlap_0,2193,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,24.0835
+size_1000_overlap_0,2193,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,40.8505
+size_1000_overlap_0,2193,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),36224b53687618e0f302,1.5.6331 | MADDE 22,27.8148
+size_1000_overlap_100,2267,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),1988af9deabab96ce994,1.5.6331 | MADDE 22,17.8328
+size_1000_overlap_100,2267,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),aef02d0c95dfeb81b6e2,7.5.45087 | MADDE 5,24.0998
+size_1000_overlap_100,2267,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),62372756d9d8edacfc5d,7.5.18615 | MADDE 19,40.2516
+size_1000_overlap_100,2267,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),1988af9deabab96ce994,1.5.6331 | MADDE 22,27.9444
+size_1000_overlap_200,2266,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),220a12feed3539e0e2fd,1.5.6331 | MADDE 22,17.7742
+size_1000_overlap_200,2266,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),1596c6fcd7e5efad4772,7.5.45087 | MADDE 5,23.5844
+size_1000_overlap_200,2266,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),2eb3bc11c588ec6aad9d,7.5.18615 | MADDE 19,40.2506
+size_1000_overlap_200,2266,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),220a12feed3539e0e2fd,1.5.6331 | MADDE 22,27.8866
+size_1500_overlap_0,1610,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),3cb3fef5bedcf2a47493,7.5.16924 | MADDE 11,14.8612
+size_1500_overlap_0,1610,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),b7029ae14e4e75a1fa23,7.5.45087 | MADDE 5,23.8158
+size_1500_overlap_0,1610,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),653711dd540cf0228ec7,7.5.18615 | MADDE 19,39.7576
+size_1500_overlap_0,1610,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),dbcfb7d753de20008c65,1.5.6331 | MADDE 22,26.6042

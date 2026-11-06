@@ -1,0 +1,25 @@
+k1,b,question_id,case,top1_passage_id,top1_source,top1_score
+1.2,0.5,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,16.0428
+1.2,0.5,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,24.297
+1.2,0.5,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,40.5721
+1.2,0.5,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,18.6049
+1.2,0.75,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,17.0161
+1.2,0.75,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,23.7399
+1.2,0.75,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,39.2422
+1.2,0.75,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,19.9899
+1.5,0.5,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,16.8316
+1.5,0.5,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,24.7076
+1.5,0.5,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,42.4286
+1.5,0.5,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,19.1874
+1.5,0.75,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,17.9964
+1.5,0.75,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,24.0835
+1.5,0.75,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,40.8505
+1.5,0.75,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,20.812
+1.5,0.9,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,18.7876
+1.5,0.9,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,23.7248
+1.5,0.9,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,39.9611
+1.5,0.9,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,21.9317
+2.0,0.75,q001,Soru 1 (İSG Kurulu Çalışan Sayısı),36224b53687618e0f302,1.5.6331 | MADDE 22,19.4047
+2.0,0.75,q002,Soru 2 (İSG Eğitim Yenileme Sıklığı),9d0f99052026c818f6bb,7.5.45087 | MADDE 5,24.5705
+2.0,0.75,q003,Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi),01bf49c4a3cefd38c4dc,7.5.18615 | MADDE 19,43.0538
+2.0,0.75,q004,Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22),9a95c3a191270d70616b,7.5.17031 | MADDE 3,21.9347

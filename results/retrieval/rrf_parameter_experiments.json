@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "rrf_k": 10,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,fde884bdba4c4283ed0f,b723442b26c3bd443e66",
+    "top1_score": 0.181818
+  },
+  {
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "rrf_k": 30,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,fde884bdba4c4283ed0f,b723442b26c3bd443e66",
+    "top1_score": 0.064516
+  },
+  {
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,fde884bdba4c4283ed0f,b723442b26c3bd443e66",
+    "top1_score": 0.032787
+  },
+  {
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:2",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,fde884bdba4c4283ed0f,b723442b26c3bd443e66",
+    "top1_score": 0.04918
+  },
+  {
+    "question_id": "q001",
+    "case": "Soru 1 (İSG Kurulu Çalışan Sayısı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "2:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,fde884bdba4c4283ed0f,b723442b26c3bd443e66",
+    "top1_score": 0.04918
+  },
+  {
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "rrf_k": 10,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top3_ids": "9d0f99052026c818f6bb,59793fe0ff9622d9fed8,03437183a6505a6d1c3c",
+    "top1_score": 0.167832
+  },
+  {
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "rrf_k": 30,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top3_ids": "9d0f99052026c818f6bb,59793fe0ff9622d9fed8,03437183a6505a6d1c3c",
+    "top1_score": 0.062561
+  },
+  {
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top3_ids": "9d0f99052026c818f6bb,59793fe0ff9622d9fed8,03437183a6505a6d1c3c",
+    "top1_score": 0.032266
+  },
+  {
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:2",
+    "top1_passage_id": "59793fe0ff9622d9fed8",
+    "top3_ids": "59793fe0ff9622d9fed8,9d0f99052026c818f6bb,ef24f136708f0cdcf3c2",
+    "top1_score": 0.048172
+  },
+  {
+    "question_id": "q002",
+    "case": "Soru 2 (İSG Eğitim Yenileme Sıklığı)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "2:1",
+    "top1_passage_id": "9d0f99052026c818f6bb",
+    "top3_ids": "9d0f99052026c818f6bb,59793fe0ff9622d9fed8,03437183a6505a6d1c3c",
+    "top1_score": 0.04866
+  },
+  {
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "rrf_k": 10,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "a816a2d7b71f8ef2a736",
+    "top3_ids": "a816a2d7b71f8ef2a736,285fd995735e9093a542,01bf49c4a3cefd38c4dc",
+    "top1_score": 0.174242
+  },
+  {
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "rrf_k": 30,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "a816a2d7b71f8ef2a736",
+    "top3_ids": "a816a2d7b71f8ef2a736,285fd995735e9093a542,01bf49c4a3cefd38c4dc",
+    "top1_score": 0.063508
+  },
+  {
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "a816a2d7b71f8ef2a736",
+    "top3_ids": "a816a2d7b71f8ef2a736,285fd995735e9093a542,01bf49c4a3cefd38c4dc",
+    "top1_score": 0.032522
+  },
+  {
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:2",
+    "top1_passage_id": "a816a2d7b71f8ef2a736",
+    "top3_ids": "a816a2d7b71f8ef2a736,285fd995735e9093a542,01bf49c4a3cefd38c4dc",
+    "top1_score": 0.048916
+  },
+  {
+    "question_id": "q003",
+    "case": "Soru 3 (Çok Tehlikeli Sınıfta İG Uzmanı Çalışma Süresi)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "2:1",
+    "top1_passage_id": "a816a2d7b71f8ef2a736",
+    "top3_ids": "a816a2d7b71f8ef2a736,285fd995735e9093a542,01bf49c4a3cefd38c4dc",
+    "top1_score": 0.048652
+  },
+  {
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "rrf_k": 10,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,e7ba9ef0ddf684c32bc0,95e2f0fe62de75774492",
+    "top1_score": 0.181818
+  },
+  {
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "rrf_k": 30,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,e7ba9ef0ddf684c32bc0,95e2f0fe62de75774492",
+    "top1_score": 0.064516
+  },
+  {
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,e7ba9ef0ddf684c32bc0,95e2f0fe62de75774492",
+    "top1_score": 0.032787
+  },
+  {
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "1:2",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,e7ba9ef0ddf684c32bc0,95e2f0fe62de75774492",
+    "top1_score": 0.04918
+  },
+  {
+    "question_id": "q004",
+    "case": "Soru 4 (Madde Numaralı Sorgu - 6331 Madde 22)",
+    "rrf_k": 60,
+    "weights_bm25_dense": "2:1",
+    "top1_passage_id": "36224b53687618e0f302",
+    "top3_ids": "36224b53687618e0f302,95e2f0fe62de75774492,e7ba9ef0ddf684c32bc0",
+    "top1_score": 0.04918
+  }
+]

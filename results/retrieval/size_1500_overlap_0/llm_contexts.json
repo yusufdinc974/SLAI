@@ -1,0 +1,594 @@
+[
+  {
+    "question_id": "q001",
+    "question": "İş sağlığı ve güvenliği kurulu kaç çalışan olan işyerlerinde kurulmalıdır?",
+    "experiment": "size_1500_overlap_0",
+    "methods": {
+      "bm25": [
+        {
+          "rank": 1,
+          "passage_id": "3cb3fef5bedcf2a47493",
+          "score": 14.861228,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 11",
+          "chapter_title": "İşyeri Sağlık ve Güvenlik Birimi, Ortak Sağlık ve Güvenlik Birimi ve Çalışan Sağlığı Merkezi ile İş Sağlığı ve Güvenliği Hizmetlerinin Yürütülmesi İçin Sağlanacak Şartlar (Değişik bölüm başlığı:RG-4/2/2024-32450)",
+          "text": "İş sağlığı ve güvenliği hizmetlerinin yürütülmesi amacıyla sağlanacak şartlar\nMADDE 11 – (1) Tam süreli işyeri hekimi ve iş güvenliği uzmanı görevlendirilmesi gerekli olmayan hallerde işveren, görevlendirdiği kişi veya OSGB’lerin görevlerini yerine getirmeleri amacı ile asgari bu maddedeki şartları sağlar.\n(2) 50 ve daha fazla çalışanı olan işyerlerinde işveren,\na) İşyeri hekimi ile diğer sağlık personeline ve iş güvenliği uzmanına 8 metrekareden az olmamak üzere toplam iki oda temin eder.\nb) İşyerinde ayrıca acil durumlarda çalışanların en yakın sağlık birimine ulaştırılmasını sağlamak üzere uygun araç bulundurulur.\n(3) 50’den az çalışanı olan işyerlerinde işveren, işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin iş sağlığı ve güvenliği hizmetini etkin verebilmesi için çalışma süresince kullanılmak üzere uygun bir yer sağlar.\n(4) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları gibi yerlerde bulunan ve 50’den az çalışanı olan işverenlerin yürütecekleri iş sağlığı ve güvenliği hizmetleri için; koordinasyon yönetim tarafından sağlanmak üzere ortaklaşa kullanılabilecek bir mekân oluşturulabilir. Oluşturulacak mekândan hizmet sunulacak toplam çalışan sayısı 50’den az olması durumunda üçüncü fıkra, 50’den fazla olması durumunda ise ikinci fıkra hükümlerine uygunluk sağlanır."
+        },
+        {
+          "rank": 2,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 13.915153,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 3,
+          "passage_id": "653711dd540cf0228ec7",
+          "score": 13.88246,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 19",
+          "chapter_title": "Diğer Sağlık Personelinin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "Diğer sağlık personelinin çalışma süreleri\nMADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.\nb) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.\nc) (Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.\n(2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir.\n(3) Diğer sağlık personelinin görevlendirilmesinde sözleşmede belirtilen süre kadar işyerinde hizmet sunulur. Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz."
+        },
+        {
+          "rank": 4,
+          "passage_id": "dfdbb014db7ff6f80882",
+          "score": 13.730926,
+          "title": "1.5.4857",
+          "section_marker": "Madde 80",
+          "chapter_title": "İş Sağlığı ve Güvenliği",
+          "text": "İş sağlığı ve güvenliği kurulu\nMadde 80 - (Mülga: 20/6/2012-6331/37 md.)"
+        },
+        {
+          "rank": 5,
+          "passage_id": "f68a040a58341df6fb26",
+          "score": 13.656102,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 23",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliğinin koordinasyonu\nMADDE 23 – (1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenler; iş hijyeni ile iş sağlığı ve güvenliği önlemlerinin uygulanmasında iş birliği yapar, yapılan işin yapısı göz önüne alınarak mesleki risklerin önlenmesi ve bu risklerden korunulması çalışmalarını koordinasyon içinde yapar, birbirlerini ve çalışan temsilcilerini bu riskler konusunda bilgilendirir.\n(2) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları, sanayi bölgeleri veya siteleri gibi yerlerde, iş sağlığı ve güvenliği konusundaki koordinasyon yönetim tarafından sağlanır. Yönetim, işyerlerinde iş sağlığı ve güvenliği yönünden diğer işyerlerini etkileyecek tehlikeler hususunda gerekli tedbirleri almaları için işverenleri uyarır. Bu uyarılara uymayan işverenleri Bakanlığa bildirir."
+        }
+      ],
+      "dense": [
+        {
+          "rank": 1,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 1.0,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "54ff8a44c97a2765bec6",
+          "score": 0.891304,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "İşverenin yükümlülüğü\nMADDE 4 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur."
+        },
+        {
+          "rank": 3,
+          "passage_id": "3e51ec041c8c3e783c84",
+          "score": 0.891036,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren alt işverenin çalışan sayıları ayrı ayrı elli ve daha fazla ise asıl işveren ve alt işveren ayrı ayrı kurul kurar. İş sağlığı ve güvenliği faaliyetlerinin yürütülmesi ve kurullarca alınan kararların uygulanması konusunda işbirliği ve koordinasyon asıl işverence sağlanır.\nb) Bir işyerinde sadece asıl işverenin çalışan sayısı elli ve daha fazla ise bu durumda kurul asıl işverence kurulur. Kurul oluşturma yükümlülüğü bulunmayan alt işveren, kurul tarafından alınan kararların uygulanması ile ilgili olarak koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) Alt işverenin çalışan sayısı elli ve daha fazla, asıl işverenin çalışan sayısı ellinin altında ise işyerinde kurul alt işverence oluşturulur. Asıl işveren alt işverenin oluşturduğu kurula işbirliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Asıl işveren ve alt işverenin çalışan sayıları ayrı ayrı ellinin altında ve toplam çalışan sayısı elliden fazla bulunduğu durumlarda ise koordinasyon asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur. Kurulun oluşumunda üyeler 6 ncı maddeye göre her iki işverenin ortak kararı ile atanır."
+        },
+        {
+          "rank": 4,
+          "passage_id": "f7e7de2ed80043694c1a",
+          "score": 0.828362,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "(3) Asıl işveren alt işveren ilişkisi bulunmayan ve aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir.\n(4) İşverenler, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular."
+        },
+        {
+          "rank": 5,
+          "passage_id": "3604aeffc21280c39338",
+          "score": 0.816172,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 5",
+          "chapter_title": "Genel Hükümler",
+          "text": "Kurulun kurulacağı diğer işyerleri\nMADDE 5 – (1) İşverene bağlı, fabrika, müessese, işletme veya işletmeler grubu gibi birden çok işyeri bulunduğu hallerde elli ve daha fazla çalışanın bulunduğu her bir işyerinde ayrı ayrı kurul kurulur.\n(2) Birinci fıkrada belirtilen durumlarda ihtiyaç duyulması halinde kurullar arasında koordinasyon ve bilgi alış verişi işverence sağlanır. İşveren, birden çok işyerinin her birinde kurulacak kurulların çalışma usullerini düzenlemek, iş ve görüş birliğini sağlamak amacıyla bu işyerlerine ait iş sağlığı ve güvenliği ile ilgili raporların, en az üç ayda bir, ilgili teknik eleman ve uzmanlarca incelenmesini sağlar. Ayrıca bu raporları göz önünde tutarak alınması gereken tedbirleri tespit eder ve uygulanmasını sağlar."
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 0.032522,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "3cb3fef5bedcf2a47493",
+          "score": 0.030282,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 11",
+          "chapter_title": "İşyeri Sağlık ve Güvenlik Birimi, Ortak Sağlık ve Güvenlik Birimi ve Çalışan Sağlığı Merkezi ile İş Sağlığı ve Güvenliği Hizmetlerinin Yürütülmesi İçin Sağlanacak Şartlar (Değişik bölüm başlığı:RG-4/2/2024-32450)",
+          "text": "İş sağlığı ve güvenliği hizmetlerinin yürütülmesi amacıyla sağlanacak şartlar\nMADDE 11 – (1) Tam süreli işyeri hekimi ve iş güvenliği uzmanı görevlendirilmesi gerekli olmayan hallerde işveren, görevlendirdiği kişi veya OSGB’lerin görevlerini yerine getirmeleri amacı ile asgari bu maddedeki şartları sağlar.\n(2) 50 ve daha fazla çalışanı olan işyerlerinde işveren,\na) İşyeri hekimi ile diğer sağlık personeline ve iş güvenliği uzmanına 8 metrekareden az olmamak üzere toplam iki oda temin eder.\nb) İşyerinde ayrıca acil durumlarda çalışanların en yakın sağlık birimine ulaştırılmasını sağlamak üzere uygun araç bulundurulur.\n(3) 50’den az çalışanı olan işyerlerinde işveren, işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin iş sağlığı ve güvenliği hizmetini etkin verebilmesi için çalışma süresince kullanılmak üzere uygun bir yer sağlar.\n(4) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları gibi yerlerde bulunan ve 50’den az çalışanı olan işverenlerin yürütecekleri iş sağlığı ve güvenliği hizmetleri için; koordinasyon yönetim tarafından sağlanmak üzere ortaklaşa kullanılabilecek bir mekân oluşturulabilir. Oluşturulacak mekândan hizmet sunulacak toplam çalışan sayısı 50’den az olması durumunda üçüncü fıkra, 50’den fazla olması durumunda ise ikinci fıkra hükümlerine uygunluk sağlanır."
+        },
+        {
+          "rank": 3,
+          "passage_id": "f68a040a58341df6fb26",
+          "score": 0.029877,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 23",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliğinin koordinasyonu\nMADDE 23 – (1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenler; iş hijyeni ile iş sağlığı ve güvenliği önlemlerinin uygulanmasında iş birliği yapar, yapılan işin yapısı göz önüne alınarak mesleki risklerin önlenmesi ve bu risklerden korunulması çalışmalarını koordinasyon içinde yapar, birbirlerini ve çalışan temsilcilerini bu riskler konusunda bilgilendirir.\n(2) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları, sanayi bölgeleri veya siteleri gibi yerlerde, iş sağlığı ve güvenliği konusundaki koordinasyon yönetim tarafından sağlanır. Yönetim, işyerlerinde iş sağlığı ve güvenliği yönünden diğer işyerlerini etkileyecek tehlikeler hususunda gerekli tedbirleri almaları için işverenleri uyarır. Bu uyarılara uymayan işverenleri Bakanlığa bildirir."
+        },
+        {
+          "rank": 4,
+          "passage_id": "f5614187e5b0cfb67b9b",
+          "score": 0.027651,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 5",
+          "chapter_title": "Hak ve Yükümlülükler",
+          "text": "İşverenin iş sağlığı ve güvenliği hizmetleri ile ilgili yükümlülükleri\nMADDE 5 – (1) (Değişik:RG-18/12/2014-29209) İşveren, işyerlerinde alınması gereken iş sağlığı ve güvenliği tedbirlerinin belirlenmesi ve uygulanmasının izlenmesi, iş kazası ve meslek hastalıklarının önlenmesi, çalışanların ilk yardım ve acil tedavi ile koruyucu sağlık ve güvenlik hizmetlerinin yürütülmesi amacıyla; çalışanları arasından ilgili yönetmeliklerde belirtilen nitelikleri haiz bir veya birden fazla işyeri hekimi, iş güvenliği uzmanı görevlendirir. On ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyeri işverenleri ayrıca diğer sağlık personeli görevlendirir. Gerekli nitelikleri haiz olması halinde tehlike sınıfı ve çalışan sayısını dikkate alarak bu hizmetin yerine getirilmesini kendisi üstlenebilir.\n(2) İşveren, işyerinde gerekli niteliklere sahip personel bulunmaması halinde birinci fıkrada sayılan yükümlülüklerinin tamamını veya bir kısmını, (Değişik ibare:RG-4/2/2024-32450) OSGB ya da ÇASMER’lerden hizmet alarak yerine getirebilir."
+        },
+        {
+          "rank": 5,
+          "passage_id": "c4ab41a7080ce949c522",
+          "score": 0.026585,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 10",
+          "chapter_title": "İşyeri Sağlık ve Güvenlik Birimi, Ortak Sağlık ve Güvenlik Birimi ve Çalışan Sağlığı Merkezi ile İş Sağlığı ve Güvenliği Hizmetlerinin Yürütülmesi İçin Sağlanacak Şartlar (Değişik bölüm başlığı:RG-4/2/2024-32450)",
+          "text": "İşyeri sağlık ve güvenlik birimi\nMADDE 10 – (1) İSGB; en az bir işyeri hekimi ile işyerinin tehlike sınıfına uygun belgeye sahip en az bir iş güvenliği uzmanının görevlendirilmesi ile oluşturulur. Bu birimde işveren diğer sağlık personeli de görevlendirebilir.\n(2) İş sağlığı ve güvenliği hizmetlerinin yürütülmesi amacıyla işveren tarafından işyerlerinde kurulacak olan iş sağlığı ve güvenliği birimlerinde aşağıdaki şartlar sağlanır.\na) İSGB, iş sağlığı ve güvenliği hizmetlerinin yürütülmesine ve çalışan personel sayısına uygun büyüklükte bir yerde kurulur. Bu birimin asıl işin yürütüldüğü mekânda ve giriş katta kurulması esastır.\nb) Bu birimlerde sekizer metrekareden az olmamak üzere bir iş güvenliği uzmanı odası ile işyeri hekimi tarafından kullanılmak üzere bir muayene odası ve 12 metrekareden az olmamak üzere bir ilkyardım ve acil müdahale odası bulunur. Tam zamanlı görevlendirilecek her işyeri hekimi ve iş güvenliği uzmanı için aynı şartlarda ayrı birer oda tahsis edilir.\nc) İSGB’ler Ek-1’de belirtilen araç ve gereçler ile donatılır ve işyerinde çalışanların acil durumlarda en yakın sağlık birimine ulaştırılmasını sağlamak üzere uygun araç bulundurulur.\n(3) İSGB’nin bölümleri aynı alanda bulunur ve bu alan çalışanlar tarafından kolaylıkla görülebilecek şekilde işaretlenir."
+        }
+      ]
+    }
+  },
+  {
+    "question_id": "q002",
+    "question": "İşveren çalışanların iş sağlığı ve güvenliği eğitimlerini hangi sıklıkla yenilemek zorundadır?",
+    "experiment": "size_1500_overlap_0",
+    "methods": {
+      "bm25": [
+        {
+          "rank": 1,
+          "passage_id": "b7029ae14e4e75a1fa23",
+          "score": 23.815762,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 5",
+          "chapter_title": "İşverenin ve Çalışanın Yükümlülükleri",
+          "text": "İşverenin yükümlülükleri\nMADDE 5- (1) İşveren, çalışanların işe başlama eğitimlerini, temel eğitimleri ve gerekli hâllerde bu Yönetmelikte yer alan diğer eğitimleri almasını sağlar.\n(2) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerine ilişkin aşağıdaki hususları sağlamakla yükümlüdür:\na) Eğitim programlarını hazırlamak ve uygulamak.\nb) Eğitimler için uygun yer, araç ve gereçleri temin etmek.\nc) Çalışanların bu programlara katılmasını sağlamak ve katılımları eğitim katılım tutanağı ile kayıt altına almak.\nç) Eğitimleri tamamlayanlar için gerekli belgeleri düzenlemek.\nd) Eğitimleri, değişen ve ortaya çıkan yeni risklere uygun olarak yenilemek, gerektiğinde ve düzenli aralıklarla eğitimlerin tekrarlanmasını sağlamak.\n(3) İşveren, çalışanlarda iş sağlığı ve güvenliğine yönelik bilgi, tutum ve davranış değişikliği oluşturabilecek nitelikte eğitimlerin verilmesini sağlamakla yükümlüdür.\n(4) İşveren, tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanları işe başlatamaz.\n(5) İşveren, iş sağlığı ve güvenliği eğitimlerinin maliyetini çalışanlara yansıtamaz."
+        },
+        {
+          "rank": 2,
+          "passage_id": "2c623db17050c7a473b3",
+          "score": 17.079922,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 5",
+          "chapter_title": "Hak ve Yükümlülükler",
+          "text": "(10) (Ek:RG-18/12/2014-29209) İşveren, sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi mesleki unvana sahip iş güvenliği uzmanlarının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar Bakanlıkça düzenlendikten sonra sektörel iş güvenliği uzmanlığı belgesine sahip olan iş güvenliği uzmanı görevlendirmek zorundadır."
+        },
+        {
+          "rank": 3,
+          "passage_id": "8d5ce17cdc8059a5741d",
+          "score": 15.295681,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 17",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "Çalışanların eğitimi\nMADDE 17 – (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni teknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan yeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla tekrarlanır.\n(2) Çalışan temsilcileri özel olarak eğitilir.\n(3) Mesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta yer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyenler çalıştırılamaz.\n(4) İş kazası geçiren veya meslek hastalığına yakalanan çalışana işe başlamadan önce, söz konusu kazanın veya meslek hastalığının sebepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim verilir. Ayrıca, herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar işe başlatılmadan önce bilgi yenileme eğitimi verilir.\n(5) Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde; yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanlar işe başlatılamaz.\n(6) Geçici iş ilişkisi kurulan işveren, iş sağlığı ve güvenliği risklerine karşı çalışana gerekli eğitimin verilmesini sağlar."
+        },
+        {
+          "rank": 4,
+          "passage_id": "203a28756253f79ca853",
+          "score": 14.454835,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 10",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "Risk değerlendirmesi, kontrol, ölçüm ve araştırma\nMADDE 10 – (1) İşveren, iş sağlığı ve güvenliği yönünden risk değerlendirmesi yapmak veya yaptırmakla yükümlüdür. Risk değerlendirmesi yapılırken aşağıdaki hususlar dikkate alınır:\na) Belirli risklerden etkilenecek çalışanların durumu.\nb) Kullanılacak iş ekipmanı ile kimyasal madde ve müstahzarların seçimi.\nc) İşyerinin tertip ve düzeni.\nç) Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika gerektiren gruplar ile kadın çalışanların durumu.\n(2) İşveren, yapılacak risk değerlendirmesi sonucu alınacak iş sağlığı ve güvenliği tedbirleri ile kullanılması gereken koruyucu donanım veya ekipmanı belirler.\n(3) İşyerinde uygulanacak iş sağlığı ve güvenliği tedbirleri, çalışma şekilleri ve üretim yöntemleri; çalışanların sağlık ve güvenlik yönünden korunma düzeyini yükseltecek ve işyerinin idari yapılanmasının her kademesinde uygulanabilir nitelikte olmalıdır.\n(4) İşveren, iş sağlığı ve güvenliği yönünden çalışma ortamına ve çalışanların bu ortamda maruz kaldığı risklerin belirlenmesine yönelik gerekli kontrol, ölçüm, inceleme ve araştırmaların yapılmasını sağlar."
+        },
+        {
+          "rank": 5,
+          "passage_id": "79c547a3f59dc637b280",
+          "score": 13.950154,
+          "title": "7.5.16924",
+          "section_marker": "MADDE 7",
+          "chapter_title": "Hak ve Yükümlülükler",
+          "text": "İşverenin sağlık ve güvenlik kayıtları ve onaylı deftere ilişkin yükümlülükleri\nMADDE 7 – (1) İşveren ilgili mevzuatta belirlenen süreler saklı kalmak kaydıyla;\na) İşyerinde yürütülen iş sağlığı ve güvenliği faaliyetlerine ilişkin her türlü kaydı,\nb) İşten ayrılma tarihinden itibaren en az 15 yıl süreyle çalışanların kişisel sağlık dosyalarını,\nsaklar.\n(2) Çalışanın işyerinden ayrılarak başka bir işyerinde çalışmaya başlaması halinde, yeni işveren çalışanın kişisel sağlık dosyasını yazılı olarak talep eder, önceki işveren dosyanın bir örneğini onaylayarak bir ay içerisinde gönderir.\n(3) Onaylı defter işyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlükleri (Mülga ibare:RG-18/12/2014-29209) (…)veya noterce her sayfası mühürlenmek suretiyle onaylanır.\n(4) Onaylı defter yapılan tespitlere göre iş güvenliği uzmanı, işyeri hekimi ile işveren tarafından birlikte veya ayrı ayrı imzalanır. Onaylı deftere yazılan tespit ve öneriler işverene tebliğ edilmiş sayılır.\n(5) Onaylı defterin asıl sureti işveren, diğer suretleri ise iş güvenliği uzmanı ve işyeri hekimi tarafından saklanır. Defterin imzalanması ve düzenli tutulmasından işveren sorumludur. Teftişe yetkili iş müfettişlerinin her istediğinde işveren onaylı defteri göstermek zorundadır."
+        }
+      ],
+      "dense": [
+        {
+          "rank": 1,
+          "passage_id": "8d5ce17cdc8059a5741d",
+          "score": 1.0,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 17",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "Çalışanların eğitimi\nMADDE 17 – (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni teknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan yeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla tekrarlanır.\n(2) Çalışan temsilcileri özel olarak eğitilir.\n(3) Mesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta yer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyenler çalıştırılamaz.\n(4) İş kazası geçiren veya meslek hastalığına yakalanan çalışana işe başlamadan önce, söz konusu kazanın veya meslek hastalığının sebepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim verilir. Ayrıca, herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar işe başlatılmadan önce bilgi yenileme eğitimi verilir.\n(5) Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde; yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanlar işe başlatılamaz.\n(6) Geçici iş ilişkisi kurulan işveren, iş sağlığı ve güvenliği risklerine karşı çalışana gerekli eğitimin verilmesini sağlar."
+        },
+        {
+          "rank": 2,
+          "passage_id": "b7029ae14e4e75a1fa23",
+          "score": 0.893238,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 5",
+          "chapter_title": "İşverenin ve Çalışanın Yükümlülükleri",
+          "text": "İşverenin yükümlülükleri\nMADDE 5- (1) İşveren, çalışanların işe başlama eğitimlerini, temel eğitimleri ve gerekli hâllerde bu Yönetmelikte yer alan diğer eğitimleri almasını sağlar.\n(2) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerine ilişkin aşağıdaki hususları sağlamakla yükümlüdür:\na) Eğitim programlarını hazırlamak ve uygulamak.\nb) Eğitimler için uygun yer, araç ve gereçleri temin etmek.\nc) Çalışanların bu programlara katılmasını sağlamak ve katılımları eğitim katılım tutanağı ile kayıt altına almak.\nç) Eğitimleri tamamlayanlar için gerekli belgeleri düzenlemek.\nd) Eğitimleri, değişen ve ortaya çıkan yeni risklere uygun olarak yenilemek, gerektiğinde ve düzenli aralıklarla eğitimlerin tekrarlanmasını sağlamak.\n(3) İşveren, çalışanlarda iş sağlığı ve güvenliğine yönelik bilgi, tutum ve davranış değişikliği oluşturabilecek nitelikte eğitimlerin verilmesini sağlamakla yükümlüdür.\n(4) İşveren, tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanları işe başlatamaz.\n(5) İşveren, iş sağlığı ve güvenliği eğitimlerinin maliyetini çalışanlara yansıtamaz."
+        },
+        {
+          "rank": 3,
+          "passage_id": "d0648ab08cdc8a03d7f9",
+          "score": 0.867348,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 7",
+          "chapter_title": "İşe Başlama Eğitimleri",
+          "text": "İşe başlama eğitimleri\nMADDE 7- (1) İşveren, çırak ve stajyerler de dâhil olmak üzere tüm çalışanların fiilen çalışmaya başlamadan önce işe başlama eğitimi almasını sağlar.\n(2) İşe başlama eğitimi; çalışanın yapacağı iş, varsa kullanacağı iş ekipmanı, çalışma ortamından kaynaklanan riskler ve işyerine özgü iş sağlığı ve güvenliği tedbirlerine ilişkin konuları içerir.\n(3) İşe başlama eğitimi, çalışanın tehlike ve risklere karşı korunmasını sağlayacak nitelikte, uygulamalı ve yüz yüze olarak verilir.\n(4) İşe başlama eğitimleri; işveren, işyerinde sağlık ve güvenlik hizmetini yürüten iş güvenliği uzmanları ile işyeri hekimleri veya işveren tarafından görevlendirilen bilgi sahibi ve deneyimli çalışanlar tarafından verilir.\n(5) İşe başlama eğitimi her çalışan için en az iki saat olarak düzenlenir. Bu eğitimlerde geçen süre temel eğitim süresinden sayılmaz.\n(6) Tamamlanan işe başlama eğitimi; eğitim veren kişi, çalışan ve işverenin veya vekilinin imzası ile tutanak altına alınır, çalışanın özlük dosyasında saklanır."
+        },
+        {
+          "rank": 4,
+          "passage_id": "7db15adedd60b2168ab4",
+          "score": 0.857876,
+          "title": "7.5.18709",
+          "section_marker": "MADDE 9",
+          "chapter_title": "İşverenin Yükümlülükleri",
+          "text": "Çalışanların eğitimi ve bilgilendirilmesi\nMADDE 9 – (1) İşveren, 15/5/2013 tarihli ve 28648 sayılı Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelikte belirtilen hususlar saklı kalmak kaydıyla çalışanların ve temsilcilerin eğitimini ve bilgilendirilmelerini sağlar.  Bu eğitim ve bilgilendirilmeler özellikle aşağıdaki hususları içerir:\na) Risk değerlendirmesi sonucunda elde edilen bilgileri.\nb) İşyerinde bulunan veya ortaya çıkabilecek tehlikeli kimyasal maddelerle ilgili bu maddelerin tanınması, sağlık ve güvenlik riskleri, meslek hastalıkları, mesleki maruziyet sınır değerleri ve diğer yasal düzenlemeler hakkında bilgileri.\nc) Çalışanların kendilerini ve diğer çalışanları tehlikeye atmamaları için gerekli önlemleri ve yapılması gerekenleri.\nç) (Değişik:RG-20/10/2023-32345) Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğe uygun olarak hazırlanan ve tedarikçilerden sağlanan Türkçe Güvenlik Bilgi Formları hakkında bilgileri.\nd) Tehlikeli kimyasal madde bulunan bölümler, kaplar, boru tesisatı ve benzeri tesisatla ilgili mevzuata uygun olarak etiketleme/kilitleme ile ilgili bilgileri.\n(2) Tehlikeli kimyasallarla yapılan çalışmalarda çalışanlara veya temsilcilerine verilecek eğitim ve bilgiler, yapılan risk değerlendirmesi sonucu ortaya çıkan riskin derecesi ve özelliğine bağlı olarak, sözlü talimat ve yazılı bilgilerle desteklenmiş eğitim şeklinde olur. Bu bilgiler değişen şartlara göre güncellenir."
+        },
+        {
+          "rank": 5,
+          "passage_id": "a579e37844dd03c4f897",
+          "score": 0.855259,
+          "title": "7.5.18318",
+          "section_marker": "MADDE 11",
+          "chapter_title": "İşverenlerin Yükümlülükleri",
+          "text": "Çalışanların eğitimi\nMADDE 11 – (Değişik:RG-18/2/2022-31754)\n(1) İşveren tarafından iş ekipmanını kullanmakla görevli çalışanlara, iş ekipmanını kullanmadan önce bunların kullanımından kaynaklanabilecek riskler ve bunlardan kaçınma yollarına ilişkin eğitim verilir. Ayrıca 8 inci maddenin birinci fıkrasının (b) bendinde belirtilen çalışanlara, işveren tarafından yeterli özel eğitim verilir."
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "passage_id": "b7029ae14e4e75a1fa23",
+          "score": 0.032522,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 5",
+          "chapter_title": "İşverenin ve Çalışanın Yükümlülükleri",
+          "text": "İşverenin yükümlülükleri\nMADDE 5- (1) İşveren, çalışanların işe başlama eğitimlerini, temel eğitimleri ve gerekli hâllerde bu Yönetmelikte yer alan diğer eğitimleri almasını sağlar.\n(2) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerine ilişkin aşağıdaki hususları sağlamakla yükümlüdür:\na) Eğitim programlarını hazırlamak ve uygulamak.\nb) Eğitimler için uygun yer, araç ve gereçleri temin etmek.\nc) Çalışanların bu programlara katılmasını sağlamak ve katılımları eğitim katılım tutanağı ile kayıt altına almak.\nç) Eğitimleri tamamlayanlar için gerekli belgeleri düzenlemek.\nd) Eğitimleri, değişen ve ortaya çıkan yeni risklere uygun olarak yenilemek, gerektiğinde ve düzenli aralıklarla eğitimlerin tekrarlanmasını sağlamak.\n(3) İşveren, çalışanlarda iş sağlığı ve güvenliğine yönelik bilgi, tutum ve davranış değişikliği oluşturabilecek nitelikte eğitimlerin verilmesini sağlamakla yükümlüdür.\n(4) İşveren, tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanları işe başlatamaz.\n(5) İşveren, iş sağlığı ve güvenliği eğitimlerinin maliyetini çalışanlara yansıtamaz."
+        },
+        {
+          "rank": 2,
+          "passage_id": "8d5ce17cdc8059a5741d",
+          "score": 0.032266,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 17",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "Çalışanların eğitimi\nMADDE 17 – (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni teknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan yeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla tekrarlanır.\n(2) Çalışan temsilcileri özel olarak eğitilir.\n(3) Mesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta yer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyenler çalıştırılamaz.\n(4) İş kazası geçiren veya meslek hastalığına yakalanan çalışana işe başlamadan önce, söz konusu kazanın veya meslek hastalığının sebepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim verilir. Ayrıca, herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar işe başlatılmadan önce bilgi yenileme eğitimi verilir.\n(5) Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde; yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanlar işe başlatılamaz.\n(6) Geçici iş ilişkisi kurulan işveren, iş sağlığı ve güvenliği risklerine karşı çalışana gerekli eğitimin verilmesini sağlar."
+        },
+        {
+          "rank": 3,
+          "passage_id": "60f3fae944d2e18e9da1",
+          "score": 0.028595,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 6",
+          "chapter_title": "İşverenin ve Çalışanın Yükümlülükleri",
+          "text": "Çalışanların yükümlülükleri\nMADDE 6- (1) Çalışanların, iş sağlığı ve güvenliği eğitimleri ile ilgili yükümlülükleri şunlardır:\na) Uygulamaya konulan eğitim programları çerçevesinde iş sağlığı ve güvenliği eğitimlerine katılmak.\nb) Eğitimleri düzenli takip etmek.\nc) Eğitimlerin verimli olması için gereken dikkat ve özeni göstermek.\nç) İşveren tarafından uygulanan ölçme ve değerlendirmelere katılmak.\nd) Eğitimlerde edindiği bilgileri yaptığı iş ve işlemlerde uygulamak ve bu konudaki talimatlara uymak."
+        },
+        {
+          "rank": 4,
+          "passage_id": "07a461d36b9b52d0893b",
+          "score": 0.028139,
+          "title": "7.5.18989",
+          "section_marker": "MADDE 15",
+          "chapter_title": "Eğitim",
+          "text": "Çalışanların eğitimi ve bilgilendirilmesi\nMADDE 15 – (1) İşveren, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 16 ve 17 nci maddelerinde ve 15/5/2013 tarihli ve 28648 sayılı Resmî Gazete’de yayımlanan Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelikte belirtilen hususlar saklı kalmak kaydıyla çalışanların ve temsilcilerinin eğitim ve bilgilendirilmelerini sağlar. Bu eğitim ve bilgilendirilmeler özellikle aşağıdaki hususları içerir.\na) Risk değerlendirmesi sonucunda elde edilen bilgiler,\nb) İşyerinde bulunan tozun çeşidinin tanınması, tozdan kaynaklanan sağlık ve güvenlik riskleri, meslek hastalıkları, mesleki maruziyet sınır değerleri ve diğer yasal düzenlemeler hakkında bilgiler,\nc) Çalışanların kendilerini ve diğer çalışanları tehlikelerden koruması için yapılması gerekenler ve alınacak önlemler,\nç) Kişisel koruyucu donanımların doğru kullanımı ve bakımı."
+        },
+        {
+          "rank": 5,
+          "passage_id": "ee3aad20199baa7e9237",
+          "score": 0.027652,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 23",
+          "chapter_title": "Temel Eğitimler ve Diğer Eğitimler",
+          "text": "Geçici iş ilişkisi bulunan işyerlerinde çalışanların iş sağlığı ve güvenliği eğitimleri\nMADDE 23- (1) 4857 sayılı Kanunun 7 nci maddesinde yer alan geçici iş ilişkisi kapsamında geçici iş ilişkisi kurulan işveren, iş sağlığı ve güvenliği risklerine karşı çalışana gerekli eğitimin verilmesini sağlar."
+        }
+      ]
+    }
+  },
+  {
+    "question_id": "q003",
+    "question": "Çok tehlikeli sınıfta yer alan işyerlerinde iş güvenliği uzmanının çalışan başına aylık çalışma süresi nedir?",
+    "experiment": "size_1500_overlap_0",
+    "methods": {
+      "bm25": [
+        {
+          "rank": 1,
+          "passage_id": "653711dd540cf0228ec7",
+          "score": 39.757642,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 19",
+          "chapter_title": "Diğer Sağlık Personelinin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "Diğer sağlık personelinin çalışma süreleri\nMADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.\nb) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.\nc) (Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.\n(2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir.\n(3) Diğer sağlık personelinin görevlendirilmesinde sözleşmede belirtilen süre kadar işyerinde hizmet sunulur. Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz."
+        },
+        {
+          "rank": 2,
+          "passage_id": "b24cecec5ffca8107dae",
+          "score": 38.242004,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 8",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "(5) İş güvenliği uzmanlarının görev alabilmeleri için; çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı, tehlikeli sınıfta yer alan işyerlerinde en az (B) sınıfı, az tehlikeli sınıfta yer alan işyerlerinde ise en az (C) sınıfı iş güvenliği uzmanlığı belgesine sahip olmaları şartı aranır. Bakanlık, iş güvenliği uzmanlarının ve işyeri hekimlerinin görevlendirilmesi konusunda sektörel alanda özel düzenleme yapabilir. (Ek cümle: 4/4/2015-6645/1 md.) Sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi meslekî unvana sahip iş güvenliği uzmanlarının görev yapacağının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar, Bakanlıkça belirlenir.\n(6) Belirlenen çalışma süresi nedeniyle işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda; işveren, işyeri sağlık ve güvenlik birimi kurar. Bu durumda, çalışanların tabi olduğu kanun hükümleri saklı kalmak kaydıyla, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma süresi dikkate alınır."
+        },
+        {
+          "rank": 3,
+          "passage_id": "7cf637d1365ce292c66a",
+          "score": 38.067148,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İş güvenliği uzmanlarının çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 20 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 40 dakika.\n(2) Az tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 1000 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 500 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 500 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 500 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir."
+        },
+        {
+          "rank": 4,
+          "passage_id": "6156663eb1b2e3c3b20a",
+          "score": 34.791839,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İşyeri Hekiminin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İşyeri hekimlerinin çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-18/12/2014-29209)  İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 5 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dakika.\n(2) Az tehlikeli sınıfta yer alan 2000 ve daha fazla çalışanı olan işyerlerinde her 2000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının 2000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-18/12/2014-29209)  1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-18/12/2014-29209)  1000  çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının (Değişik ibare:RG-18/12/2014-29209) 1000  sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir."
+        },
+        {
+          "rank": 5,
+          "passage_id": "dfcb4d26cf8201cdc64f",
+          "score": 31.499646,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 14",
+          "chapter_title": "Temel Eğitimler ve Diğer Eğitimler",
+          "text": "Temel eğitimin tekrarlanma periyodu\nMADDE 14- (1) Temel eğitimler, değişen ve ortaya çıkan yeni riskler de dikkate alınarak aşağıda belirtilen düzenli aralıklarla tekrarlanır:\na) Çok tehlikeli sınıfta yer alan işyerlerinde yılda en az bir defa.\nb) Tehlikeli sınıfta yer alan işyerlerinde iki yılda en az bir defa.\nc) Az tehlikeli sınıfta yer alan işyerlerinde üç yılda en az bir defa.\n(2) Temel eğitimlerin tekrarı; az tehlikeli, tehlikeli ve çok tehlikeli sınıfta yer alan tüm işyerleri için asgari sekiz ders saati olarak düzenlenir. Bu eğitimlerde Ek-1’de yer alan dördüncü konu başlığının; 12 nci maddenin üçüncü fıkrasına uygun eğitim yöntemi kullanılarak 13 üncü maddenin üçüncü fıkrasında belirtilen sürelerde verilmesi sağlanır.\n(3) Çalışma yeri veya iş değişikliği, iş ekipmanının değişmesi, yeni teknoloji uygulanması gibi durumlar nedeniyle ortaya çıkacak risklerle ilgili eğitimler birinci fıkrada belirtilen aralıklar beklenmeksizin verilir."
+        }
+      ],
+      "dense": [
+        {
+          "rank": 1,
+          "passage_id": "7cf637d1365ce292c66a",
+          "score": 1.0,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İş güvenliği uzmanlarının çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 20 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 40 dakika.\n(2) Az tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 1000 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 500 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 500 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 500 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "d98f6be42405b37c7c8c",
+          "score": 0.898096,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "(4) Çok tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 250 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342)  250 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 250 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir.\n(5) İş güvenliği uzmanları sözleşmede belirtilen süre kadar işyerinde hizmet sunar. (Değişik ikinci cümle: RG-11/10/2013-28792) Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz.\n(6) (Ek:RG-30/4/2015-29342) İş güvenliği uzmanları tam gün çalıştığı işyeri dışında fazla çalışma yapamaz."
+        },
+        {
+          "rank": 3,
+          "passage_id": "6156663eb1b2e3c3b20a",
+          "score": 0.862057,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İşyeri Hekiminin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İşyeri hekimlerinin çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-18/12/2014-29209)  İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 5 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dakika.\n(2) Az tehlikeli sınıfta yer alan 2000 ve daha fazla çalışanı olan işyerlerinde her 2000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının 2000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-18/12/2014-29209)  1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-18/12/2014-29209)  1000  çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının (Değişik ibare:RG-18/12/2014-29209) 1000  sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir."
+        },
+        {
+          "rank": 4,
+          "passage_id": "a04258aec1707327cc8f",
+          "score": 0.860086,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 10",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İş güvenliği uzmanlarının yetkileri\nMADDE 10 – (1) İş güvenliği uzmanının yetkileri aşağıda belirtilmiştir:\na) (Mülga:RG-30/4/2015-29342)\nb) İşyerinde belirlediği hayati tehlikenin ciddi ve önlenemez olması ve bu hususun acil müdahale gerektirmesi halinde işin durdurulması için işverene başvurmak.\nc) Görevi gereği işyerinin bütün bölümlerinde iş sağlığı ve güvenliği konusunda inceleme ve araştırma yapmak, gerekli bilgi ve belgelere ulaşmak ve çalışanlarla görüşmek.\nç) Görevinin gerektirdiği konularda işverenin bilgisi dâhilinde ilgili kurum ve kuruluşlarla işyerinin iç düzenlemelerine uygun olarak işbirliği yapmak.\n(2) Tam süreli iş sözleşmesi ile görevlendirilen iş güvenliği uzmanları, çalıştıkları işyeri ile ilgili mesleki gelişmelerini sağlamaya yönelik eğitim, seminer ve panel gibi organizasyonlara katılma hakkına sahiptir. Bu gibi organizasyonlarda geçen sürelerden bir yıl içerisinde toplam beş iş günü kadarı çalışma süresinden sayılır ve bu süreler sebebiyle iş güvenliği uzmanının ücretinden herhangi bir kesinti yapılamaz."
+        },
+        {
+          "rank": 5,
+          "passage_id": "b24cecec5ffca8107dae",
+          "score": 0.850743,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 8",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "(5) İş güvenliği uzmanlarının görev alabilmeleri için; çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı, tehlikeli sınıfta yer alan işyerlerinde en az (B) sınıfı, az tehlikeli sınıfta yer alan işyerlerinde ise en az (C) sınıfı iş güvenliği uzmanlığı belgesine sahip olmaları şartı aranır. Bakanlık, iş güvenliği uzmanlarının ve işyeri hekimlerinin görevlendirilmesi konusunda sektörel alanda özel düzenleme yapabilir. (Ek cümle: 4/4/2015-6645/1 md.) Sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi meslekî unvana sahip iş güvenliği uzmanlarının görev yapacağının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar, Bakanlıkça belirlenir.\n(6) Belirlenen çalışma süresi nedeniyle işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda; işveren, işyeri sağlık ve güvenlik birimi kurar. Bu durumda, çalışanların tabi olduğu kanun hükümleri saklı kalmak kaydıyla, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma süresi dikkate alınır."
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "passage_id": "7cf637d1365ce292c66a",
+          "score": 0.032266,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İş güvenliği uzmanlarının çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 20 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 40 dakika.\n(2) Az tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 1000 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 500 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 500 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 500 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "b24cecec5ffca8107dae",
+          "score": 0.031514,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 8",
+          "chapter_title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+          "text": "(5) İş güvenliği uzmanlarının görev alabilmeleri için; çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı, tehlikeli sınıfta yer alan işyerlerinde en az (B) sınıfı, az tehlikeli sınıfta yer alan işyerlerinde ise en az (C) sınıfı iş güvenliği uzmanlığı belgesine sahip olmaları şartı aranır. Bakanlık, iş güvenliği uzmanlarının ve işyeri hekimlerinin görevlendirilmesi konusunda sektörel alanda özel düzenleme yapabilir. (Ek cümle: 4/4/2015-6645/1 md.) Sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi meslekî unvana sahip iş güvenliği uzmanlarının görev yapacağının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar, Bakanlıkça belirlenir.\n(6) Belirlenen çalışma süresi nedeniyle işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda; işveren, işyeri sağlık ve güvenlik birimi kurar. Bu durumda, çalışanların tabi olduğu kanun hükümleri saklı kalmak kaydıyla, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma süresi dikkate alınır."
+        },
+        {
+          "rank": 3,
+          "passage_id": "6156663eb1b2e3c3b20a",
+          "score": 0.031498,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İşyeri Hekiminin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "İşyeri hekimlerinin çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-18/12/2014-29209)  İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 5 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dakika.\n(2) Az tehlikeli sınıfta yer alan 2000 ve daha fazla çalışanı olan işyerlerinde her 2000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının 2000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.\n(3) Tehlikeli sınıfta yer alan (Değişik ibare:RG-18/12/2014-29209)  1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-18/12/2014-29209)  1000  çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının (Değişik ibare:RG-18/12/2014-29209) 1000  sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir."
+        },
+        {
+          "rank": 4,
+          "passage_id": "653711dd540cf0228ec7",
+          "score": 0.031099,
+          "title": "7.5.18615",
+          "section_marker": "MADDE 19",
+          "chapter_title": "Diğer Sağlık Personelinin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "Diğer sağlık personelinin çalışma süreleri\nMADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.\nb) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.\nc) (Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.\n(2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir.\n(3) Diğer sağlık personelinin görevlendirilmesinde sözleşmede belirtilen süre kadar işyerinde hizmet sunulur. Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz."
+        },
+        {
+          "rank": 5,
+          "passage_id": "d98f6be42405b37c7c8c",
+          "score": 0.030622,
+          "title": "7.5.16923",
+          "section_marker": "MADDE 12",
+          "chapter_title": "İş Güvenliği Uzmanlarının Nitelikleri, Görev, Yetki ve Yükümlülükleri ile",
+          "text": "(4) Çok tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 250 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342)  250 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 250 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir.\n(5) İş güvenliği uzmanları sözleşmede belirtilen süre kadar işyerinde hizmet sunar. (Değişik ikinci cümle: RG-11/10/2013-28792) Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz.\n(6) (Ek:RG-30/4/2015-29342) İş güvenliği uzmanları tam gün çalıştığı işyeri dışında fazla çalışma yapamaz."
+        }
+      ]
+    }
+  },
+  {
+    "question_id": "q004",
+    "question": "6331 sayılı Kanun Madde 22 hükümlerine göre kurul yükümlülüğü nedir?",
+    "experiment": "size_1500_overlap_0",
+    "methods": {
+      "bm25": [
+        {
+          "rank": 1,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 26.604218,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "639f7fa5e8550cb4a10a",
+          "score": 20.250154,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 3",
+          "chapter_title": "Amaç, Kapsam, Dayanak ve Tanımlar",
+          "text": "Dayanak ve tanımlar\nMADDE 3 – (1) Bu Yönetmelik, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 22 ve 30 uncu maddelerine göre düzenlenmiştir.\n(2) Bu Yönetmeliğin uygulanması bakımından çalışan, işveren, kurul ve çalışan temsilcisi ve benzeri kavramlar 6331 sayılı İş Sağlığı ve Güvenliği Kanununda tanımlandığı gibidir."
+        },
+        {
+          "rank": 3,
+          "passage_id": "37803a78a762e2c6071a",
+          "score": 17.471686,
+          "title": "1.5.4857",
+          "section_marker": "Madde 22",
+          "chapter_title": "İş Sözleşmesi, Türleri ve Feshi",
+          "text": "Çalışma koşullarında değişiklik ve iş sözleşmesinin feshi\nMadde 22 - İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki niteliğindeki personel yönetmeliği ve benzeri kaynaklar ya da işyeri uygulamasıyla oluşan çalışma koşullarında esaslı bir değişikliği ancak durumu işçiye yazılı olarak bildirmek suretiyle yapabilir. Bu şekle uygun olarak yapılmayan ve işçi tarafından altı işgünü içinde yazılı olarak kabul edilmeyen değişiklikler işçiyi bağlamaz. İşçi değişiklik önerisini bu süre içinde kabul etmezse, işveren değişikliğin geçerli bir nedene dayandığını veya fesih için başka bir geçerli nedenin bulunduğunu yazılı olarak açıklamak ve bildirim süresine uymak suretiyle iş sözleşmesini feshedebilir. İşçi bu durumda 17 ila 21 inci madde hükümlerine göre dava açabilir.\nTaraflar aralarında anlaşarak çalışma koşullarını her zaman değiştirebilir. Çalışma koşullarında değişiklik geçmişe etkili olarak yürürlüğe konulamaz."
+        },
+        {
+          "rank": 4,
+          "passage_id": "c3c3e56c84fa8974a7ef",
+          "score": 17.254027,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Temel Eğitimler ve Diğer Eğitimler",
+          "text": "MADDE 22- (1) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin yedinci fıkrasında belirtilen asıl işveren alt işveren ilişkisi kurulan işyerlerinde, her işveren kendi çalışanlarının iş sağlığı ve güvenliği eğitimlerinin verilmesinden sorumludur. Bu işyerlerinde alt işverenin çalışanlarının eğitimleri ile ilgili asıl işveren alt işverence bilgilendirilir. Asıl işveren, alt işverenin çalışanlarının iş sağlığı ve güvenliği eğitimlerine dair belgeleri kontrol etmekle yükümlüdür. Ayrıca asıl işveren, alt işverenin çalışanlarına işe başlamadan önce işyerine özgü risklere ilişkin bilgi verir."
+        },
+        {
+          "rank": 5,
+          "passage_id": "cb83721dc6edd67b73ff",
+          "score": 16.852589,
+          "title": "7.5.18493",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Çeşitli ve Son Hükümler",
+          "text": "Yürütme\nMADDE 22 – (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.\n_______________\n(1) 1/10/2021 tarihli ve 31615 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 13 üncü maddesinin birinci fıkrasından sonra gelmek üzere ikinci fıkra eklenmiş ve mevcut diğer fıkralar buna göre teselsül ettirilmiştir.\nEkleri için tıklayınız.\n[TABLE 1]\n| Yönetmeliğin Yayımlandığı Resmî Gazete’nin | Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n| Tarihi | Sayısı\n| 18/6/2013 | 28681\n| Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin | Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n| Tarihi | Sayısı\n1. | 1/10/2021 | 31615\n2. | |\n[/TABLE]"
+        }
+      ],
+      "dense": [
+        {
+          "rank": 1,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 1.0,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "54ff8a44c97a2765bec6",
+          "score": 0.891304,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "İşverenin yükümlülüğü\nMADDE 4 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur."
+        },
+        {
+          "rank": 3,
+          "passage_id": "3e51ec041c8c3e783c84",
+          "score": 0.891036,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren alt işverenin çalışan sayıları ayrı ayrı elli ve daha fazla ise asıl işveren ve alt işveren ayrı ayrı kurul kurar. İş sağlığı ve güvenliği faaliyetlerinin yürütülmesi ve kurullarca alınan kararların uygulanması konusunda işbirliği ve koordinasyon asıl işverence sağlanır.\nb) Bir işyerinde sadece asıl işverenin çalışan sayısı elli ve daha fazla ise bu durumda kurul asıl işverence kurulur. Kurul oluşturma yükümlülüğü bulunmayan alt işveren, kurul tarafından alınan kararların uygulanması ile ilgili olarak koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) Alt işverenin çalışan sayısı elli ve daha fazla, asıl işverenin çalışan sayısı ellinin altında ise işyerinde kurul alt işverence oluşturulur. Asıl işveren alt işverenin oluşturduğu kurula işbirliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Asıl işveren ve alt işverenin çalışan sayıları ayrı ayrı ellinin altında ve toplam çalışan sayısı elliden fazla bulunduğu durumlarda ise koordinasyon asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur. Kurulun oluşumunda üyeler 6 ncı maddeye göre her iki işverenin ortak kararı ile atanır."
+        },
+        {
+          "rank": 4,
+          "passage_id": "f7e7de2ed80043694c1a",
+          "score": 0.828362,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "(3) Asıl işveren alt işveren ilişkisi bulunmayan ve aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir.\n(4) İşverenler, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular."
+        },
+        {
+          "rank": 5,
+          "passage_id": "3604aeffc21280c39338",
+          "score": 0.816172,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 5",
+          "chapter_title": "Genel Hükümler",
+          "text": "Kurulun kurulacağı diğer işyerleri\nMADDE 5 – (1) İşverene bağlı, fabrika, müessese, işletme veya işletmeler grubu gibi birden çok işyeri bulunduğu hallerde elli ve daha fazla çalışanın bulunduğu her bir işyerinde ayrı ayrı kurul kurulur.\n(2) Birinci fıkrada belirtilen durumlarda ihtiyaç duyulması halinde kurullar arasında koordinasyon ve bilgi alış verişi işverence sağlanır. İşveren, birden çok işyerinin her birinde kurulacak kurulların çalışma usullerini düzenlemek, iş ve görüş birliğini sağlamak amacıyla bu işyerlerine ait iş sağlığı ve güvenliği ile ilgili raporların, en az üç ayda bir, ilgili teknik eleman ve uzmanlarca incelenmesini sağlar. Ayrıca bu raporları göz önünde tutarak alınması gereken tedbirleri tespit eder ve uygulanmasını sağlar."
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "passage_id": "dbcfb7d753de20008c65",
+          "score": 0.032787,
+          "title": "1.5.6331",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Konsey, Kurul ve Koordinasyon",
+          "text": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir."
+        },
+        {
+          "rank": 2,
+          "passage_id": "c3c3e56c84fa8974a7ef",
+          "score": 0.030777,
+          "title": "7.5.45087",
+          "section_marker": "MADDE 22",
+          "chapter_title": "Temel Eğitimler ve Diğer Eğitimler",
+          "text": "MADDE 22- (1) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin yedinci fıkrasında belirtilen asıl işveren alt işveren ilişkisi kurulan işyerlerinde, her işveren kendi çalışanlarının iş sağlığı ve güvenliği eğitimlerinin verilmesinden sorumludur. Bu işyerlerinde alt işverenin çalışanlarının eğitimleri ile ilgili asıl işveren alt işverence bilgilendirilir. Asıl işveren, alt işverenin çalışanlarının iş sağlığı ve güvenliği eğitimlerine dair belgeleri kontrol etmekle yükümlüdür. Ayrıca asıl işveren, alt işverenin çalışanlarına işe başlamadan önce işyerine özgü risklere ilişkin bilgi verir."
+        },
+        {
+          "rank": 3,
+          "passage_id": "54ff8a44c97a2765bec6",
+          "score": 0.029643,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "İşverenin yükümlülüğü\nMADDE 4 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur."
+        },
+        {
+          "rank": 4,
+          "passage_id": "3e51ec041c8c3e783c84",
+          "score": 0.028531,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 4",
+          "chapter_title": "Genel Hükümler",
+          "text": "(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren alt işverenin çalışan sayıları ayrı ayrı elli ve daha fazla ise asıl işveren ve alt işveren ayrı ayrı kurul kurar. İş sağlığı ve güvenliği faaliyetlerinin yürütülmesi ve kurullarca alınan kararların uygulanması konusunda işbirliği ve koordinasyon asıl işverence sağlanır.\nb) Bir işyerinde sadece asıl işverenin çalışan sayısı elli ve daha fazla ise bu durumda kurul asıl işverence kurulur. Kurul oluşturma yükümlülüğü bulunmayan alt işveren, kurul tarafından alınan kararların uygulanması ile ilgili olarak koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) Alt işverenin çalışan sayısı elli ve daha fazla, asıl işverenin çalışan sayısı ellinin altında ise işyerinde kurul alt işverence oluşturulur. Asıl işveren alt işverenin oluşturduğu kurula işbirliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Asıl işveren ve alt işverenin çalışan sayıları ayrı ayrı ellinin altında ve toplam çalışan sayısı elliden fazla bulunduğu durumlarda ise koordinasyon asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur. Kurulun oluşumunda üyeler 6 ncı maddeye göre her iki işverenin ortak kararı ile atanır."
+        },
+        {
+          "rank": 5,
+          "passage_id": "639f7fa5e8550cb4a10a",
+          "score": 0.016129,
+          "title": "7.5.17031",
+          "section_marker": "MADDE 3",
+          "chapter_title": "Amaç, Kapsam, Dayanak ve Tanımlar",
+          "text": "Dayanak ve tanımlar\nMADDE 3 – (1) Bu Yönetmelik, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 22 ve 30 uncu maddelerine göre düzenlenmiştir.\n(2) Bu Yönetmeliğin uygulanması bakımından çalışan, işveren, kurul ve çalışan temsilcisi ve benzeri kavramlar 6331 sayılı İş Sağlığı ve Güvenliği Kanununda tanımlandığı gibidir."
+        }
+      ]
+    }
+  }
+]
