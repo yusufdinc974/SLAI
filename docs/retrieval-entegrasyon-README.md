@@ -114,7 +114,7 @@ for rank, res in enumerate(results, start=1):
 - `bm25_parameter_experiments.csv`, `rrf_parameter_experiments.csv` ve `chunking_5_experiments_comparison.csv` dosyalarındaki parametre duyarlılık analizleri sabit korpus davranışı olduğu için değiştirmeye gerek yoktur.
 
 ### B. Sadece Yeni Sorular İçin `runs.jsonl` ve `runs.csv` Üretmek
-1. Eğer yerel bilgisayarda `data/qdrant/` ve `data/chunks/` henüz çıkarılmadıysa bir kez `embeddings.zip` içerisinden çıkarılır ve `python -m vectorstore.main` çalıştırılır.
+1. Eğer yerel bilgisayarda `data/qdrant/` ve `data/chunks/` henüz çıkarılmadıysa bir kez `embeddings.zip`veya 'data.zip' içerisinden çıkarılır ve `python -m vectorstore.main` çalıştırılır.
 2. `data/questions/questions.json` dosyası şu formatta kaydedilir:
    ```json
    [
