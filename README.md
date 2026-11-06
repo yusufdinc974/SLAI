@@ -224,5 +224,6 @@ sunulacaktır.
 
 ## Teknik Dokümantasyon
 - [Belge İşleme, Chunking, Dense Embedding ve Vectorstore](docs/dilara-calisma.md)
+- [BM25, Dense Entegrasyonu ve Hybrid Retrieval (RRF)](docs/evrim-calisma.md)
 
-*Son güncelleme: 4 Kasım 2026*
+*Son güncelleme: 6 Kasım 2026*

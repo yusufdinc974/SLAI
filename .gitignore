@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -17,6 +17,8 @@ data/processed/
 data/chunks/
 data/embeddings/
 data/qdrant/
+ISG_Veriler/
+*.zip
 
 # IDE
 .vscode/
