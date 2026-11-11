@@ -1,0 +1,21 @@
+{
+  "benchmark_name": "ISG-RAG-150",
+  "version": "1.0-draft-frozen",
+  "question_count": 150,
+  "split_counts": {
+    "frozen_test": 120,
+    "dev": 30
+  },
+  "source_documents": 20,
+  "dataset_file": "benchmark_150_frozen.json",
+  "sha256": "f582b5b79d41e80278584c07b4f9f42406e160a8376586f5269176d1e04619a9",
+  "frozen_at": "2026-11-11",
+  "owner_currentness_assertion": "The user states that the 20 source JSON documents are current official downloads.",
+  "gold_answer_review": "The user reports that a human reviewed the answers and found no errors.",
+  "limitations": [
+    "This is a 150-item benchmark, not the 250-item target stated in the proposal.",
+    "The question set currently contains 30 dev and 120 frozen_test items.",
+    "Question wording and answer semantics have not been independently re-reviewed in this step.",
+    "The dataset uses source-grounded short-answer QA, not multiple-choice questions."
+  ]
+}

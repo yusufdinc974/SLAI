@@ -19,7 +19,6 @@ data/embeddings/
 data/qdrant/
 ISG_Veriler/
 *.zip
-
 # IDE
 .vscode/
 .idea/
