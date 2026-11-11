@@ -28,6 +28,12 @@ class LoadQuestionsTests(unittest.TestCase):
                                '{"question_id": 1, "question": "a"}\n\n{"question_id": 2, "question": "b"}\n')
             self.assertEqual([q["question_id"] for q in load_questions(path)], ["1", "2"])
 
+    def test_loads_csv(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = self._write(tmp, "q.csv",
+                               "question_id,category,question,gold_refs\nq1,Mevzuat,İSG kurulu,fad54922e43a:article:22\n")
+            self.assertEqual(load_questions(path), [{"question_id": "q1", "question": "İSG kurulu"}])
+
     def test_rejects_duplicates_and_missing_fields(self):
         with tempfile.TemporaryDirectory() as tmp:
             dup = self._write(tmp, "d.jsonl",

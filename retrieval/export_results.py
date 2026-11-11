@@ -30,13 +30,16 @@ METHODS = ("bm25", "dense", "hybrid")
 
 
 def load_questions(path: str | Path) -> list[dict[str, str]]:
-    """Load questions from a JSON list or a JSONL file."""
+    """Load questions from a JSON list, JSONL, or CSV file."""
     path = Path(path)
-    text = path.read_text(encoding="utf-8").strip()
+    text = path.read_text(encoding="utf-8-sig").strip()
     if not text:
         return []
 
-    if text.startswith("["):
+    if path.suffix.lower() == ".csv":
+        with path.open("r", encoding="utf-8-sig", newline="") as f:
+            records = list(csv.DictReader(f))
+    elif text.startswith("["):
         records = json.loads(text)
     else:
         records = [json.loads(line) for line in text.splitlines() if line.strip()]

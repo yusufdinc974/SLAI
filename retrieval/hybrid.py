@@ -145,13 +145,13 @@ class HybridRetriever:
             )
 
             if art_match and law_match:
-                bonus += article_boost * 2.5
+                bonus += article_boost * 3.5
             elif art_match and not refs["laws"]:
                 bonus += article_boost
             elif art_match and refs["laws"]:
                 bonus += article_boost * 0.25
             elif law_match:
-                bonus += article_boost * 0.5
+                bonus += article_boost * 2.0
 
             boosted.append(RetrievalResult(res.passage_id, res.score + bonus))
 

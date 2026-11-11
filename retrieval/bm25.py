@@ -23,15 +23,43 @@ _LAW_NUMBER_PATTERN = re.compile(
     r"\b(\d{4})\s*sayılı",
     re.IGNORECASE | re.UNICODE,
 )
+_ANNEX_PATTERN = re.compile(
+    r"\bek[-\s]*(1|2|3|4|5|6|i|ii|iii|iv|v|vi)\b",
+    re.IGNORECASE | re.UNICODE,
+)
+_ROMAN_TO_INT = {"i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
+
+_REGULATION_TITLE_PATTERNS: list[tuple[str, tuple[str, ...]]] = [
+    ("16924", ("iş sağlığı ve güvenliği hizmetleri yönetmeliği", "isg hizmetleri yönetmeliği")),
+    ("18540", ("kişisel koruyucu donanımların işyerlerinde kullanılması", "kişisel koruyucu donanımların iş yerlerinde kullanılması")),
+    ("18627", ("elle taşıma işleri yönetmeliği",)),
+    ("18928", ("yapı işlerinde iş sağlığı ve güvenliği yönetmeliği",)),
+    ("18709", ("kimyasal maddelerle çalışmalarda sağlık ve güvenlik", "kimyasal maddelerle çalışmalarda sağlık ve güvenliği")),
+    ("16923", ("iş güvenliği uzmanlarının görev, yetki, sorumluluk",)),
+    ("18615", ("işyeri hekimi ve diğer sağlık personelinin görev", "iş yeri hekimi ve diğer sağlık personelinin görev")),
+    ("18759", ("titreşimle ilgili risklerden korunmalarına dair yönetmelik",)),
+    ("5510", ("sosyal sigortalar ve genel sağlık sigortası kanunu",)),
+    ("18858", ("maden işyerlerinde iş sağlığı ve güvenliği yönetmeliği", "maden iş yerlerinde iş sağlığı ve güvenliği yönetmeliği")),
+    ("18989", ("tozla mücadele yönetmeliği",)),
+    ("18493", ("işyerlerinde acil durumlar hakkında yönetmelik", "iş yerlerinde acil durumlar hakkında yönetmelik")),
+    ("17031", ("iş sağlığı ve güvenliği kurulları hakkında yönetmelik",)),
+    ("4857", ("iş kanunu'na", "iş kanunu’na", "iş kanununa", "iş kanunu'nda", "iş kanunu’nda", "iş kanunu'nun", "iş kanunu’nun", "iş kanunu kapsamında")),
+    ("18647", ("gürültü ile ilgili risklerden korunmalarına dair yönetmelik",)),
+    ("risk değerlendirme", ("risk değerlendirmesi yönetmeliği",)),
+    ("17288", ("ekranlı araçlarla çalışmalarda sağlık ve güvenlik", "ekranlı araçlarla çalışmalarda sağlık ve güvenliği")),
+    ("18318", ("iş ekipmanlarının kullanımında sağlık ve güvenlik", "iş ekipmanlarının kullanımında sağlık ve güvenliği")),
+    ("45087", ("eğitimlerinin usul ve esasları hakkında yönetmelik",)),
+    ("6331", ("iş sağlığı ve güvenliği kanunu",)),
+]
 
 
 def extract_legal_references(query: str) -> dict[str, set[str]]:
-    """Extract explicit article numbers and 4-digit law numbers from a Turkish query.
+    """Extract explicit article numbers and law/regulation identifiers from a Turkish query.
 
     Recognizes forms such as ``"Madde 22"``, ``"22 nci madde"``, ``"17. madde"``,
-    ``"Geçici Madde 9"``, and ``"6331 sayılı Kanun"``.
+    ``"Geçici Madde 9"``, ``"Ek-3"``, and ``"6331 sayılı Kanun"``.
     """
-    normalized = query.replace("İ", "i").casefold()
+    normalized = query.replace("İ", "i").replace("I", "ı").casefold()
     articles: set[str] = set()
     section_types: set[str] = set()
 
@@ -50,7 +78,17 @@ def extract_legal_references(query: str) -> dict[str, set[str]]:
         if not section_types:
             section_types.add("article")
 
+    for annex_raw in _ANNEX_PATTERN.findall(normalized):
+        annex_key = annex_raw.strip().lower()
+        annex_num = _ROMAN_TO_INT.get(annex_key, annex_key)
+        articles.add(annex_num)
+        section_types.add("annex")
+
     laws = {match.strip() for match in _LAW_NUMBER_PATTERN.findall(normalized)}
+    for title_code, patterns in _REGULATION_TITLE_PATTERNS:
+        if any(pat in normalized for pat in patterns):
+            laws.add(title_code)
+
     return {
         "articles": articles,
         "laws": laws,
@@ -152,6 +190,8 @@ class BM25Index:
                     1 - self.b
                     + self.b * document_length / self._average_document_length
                 )
+                if term in {"a", "b", "c", "d", "e", "i", "ii", "iii", "iv"}:
+                    query_frequency = 1
                 score += (
                     idf
                     * (term_frequency * (self.k1 + 1) / denominator)
