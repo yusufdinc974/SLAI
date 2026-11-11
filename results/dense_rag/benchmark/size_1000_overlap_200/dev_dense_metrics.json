@@ -1,0 +1,323 @@
+{
+  "split": "dev",
+  "evaluated_questions": 30,
+  "missing_result_ids": [],
+  "extra_result_ids": [],
+  "metrics": {
+    "Recall@5": 0.3333,
+    "MRR@10": 0.1574,
+    "Answer Exact Match (diagnostic)": 0.0,
+    "Answer Token F1 (diagnostic)": 0.0,
+    "Human Answer Correctness": null,
+    "Citation Accuracy": 0.0
+  },
+  "notes": [
+    "Retrieval relevance is judged by exact gold document_id + article number.",
+    "Recall@5 and MRR@10 require retrieved_passages in rank order.",
+    "Exact Match and Token F1 are lexical diagnostics, not semantic correctness.",
+    "Use human_answer_correct=0/1 for reviewed semantic answer correctness.",
+    "Citation accuracy checks whether at least one predicted citation matches the gold document and article; paragraph is checked when supplied."
+  ],
+  "per_question": [
+    {
+      "question_id": "ISG-QA-004",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 1.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-008",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-011",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-019",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.2,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-037",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-040",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.5,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-042",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-045",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.125,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-046",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.25,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-056",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.1111111111111111,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-062",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-069",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.5,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-076",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-088",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.2,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-092",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-093",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-104",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-105",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.25,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-107",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-109",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.2,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-110",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-112",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-117",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.14285714285714285,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-127",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.3333333333333333,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-128",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.14285714285714285,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-129",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.14285714285714285,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-136",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.125,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-140",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-142",
+      "split": "dev",
+      "recall_at_5": 1.0,
+      "reciprocal_rank_at_10": 0.5,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    },
+    {
+      "question_id": "ISG-QA-149",
+      "split": "dev",
+      "recall_at_5": 0.0,
+      "reciprocal_rank_at_10": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "citation_accuracy": 0.0,
+      "human_answer_correct": null
+    }
+  ]
+}
