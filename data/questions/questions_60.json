@@ -13,7 +13,10 @@
     "suggested_gold_2": "da6c8e8ca63d:article:2 (33.68)",
     "suggested_gold_3": "0ae621d66d8b:article:2 (33.68)",
     "suggested_top1_snippet": "Kapsam ve istisnalar MADDE 2 – (1) Bu Kanun; kamu ve özel sektöre ait bütün işlere ve işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine, çırak ve stajyerler de dâhil olmak üzere tüm çalışanlarına faaliyet",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 2 uyarınca bu Kanun; kamu ve özel sektöre ait bütün işlere ve işyerlerine, işveren ve işveren vekillerine, çırak ve stajyerler dâhil tüm çalışanlara faaliyet konularına bakılmaksızın uygulanır. Ancak; (a) Fabrika, bakım merkezi, dikimevi ve benzeri장ler hariç Türk Silahlı Kuvvetleri, genel kolluk kuvvetleri ve MİT faaliyetleri, (b) Afet ve acil durum birimlerinin müdahale faaliyetleri, (c) Ev hizmetleri, (ç) Çalışan istihdam etmeksizin kendi nam ve hesabına mal ve hizmet üretenler, (d) Hükümlü ve tutuklulara yönelik infaz koruma, iyileştirme ve işyurdu faaliyetleri kapsam dışındadır.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 2",
+    "supporting_passage": "Kapsam ve istisnalar\nMADDE 2 – (1) Bu Kanun; kamu ve özel sektöre ait bütün işlere ve işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine, çırak ve stajyerler de dâhil olmak üzere tüm çalışanlarına faaliyet konularına bakılmaksızın uygulanır.\n(2) Ancak aşağıda belirtilen faaliyetler ve kişiler hakkında bu Kanun hükümleri uygulanmaz:\na) Fabrika, bakım merkezi, dikimevi ve benzeri işyerlerindekiler hariç Türk Silahlı Kuvvetleri, genel kolluk kuvvetleri ve Milli İstihbarat Teşkilatı Müsteşarlığının faaliyetleri.\nb) Afet ve acil durum birimlerinin müdahale faaliyetleri.\nc) Ev hizmetleri.\nç) Çalışan istihdam etmeksizin kendi nam ve hesabına mal ve hizmet üretimi yapanlar.\nd) Hükümlü ve tutuklulara yönelik infaz hizmetleri sırasında, iyileştirme kapsamında yapılan işyurdu, eğitim, güvenlik ve meslek edindirme faaliyetleri.\ne) (Ek: 10/9/2014-6552/15 md.; İptal: Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.)"
   },
   {
     "question_id": "q02",
@@ -30,7 +33,10 @@
     "suggested_gold_2": "fad54922e43a:article:19 (21.83)",
     "suggested_gold_3": "070595224074:article:4 (20.62)",
     "suggested_top1_snippet": "(3) Çalışanların iş sağlığı ve güvenliği alanındaki yükümlülükleri, işverenin sorumluluklarını etkilemez. (4) İşveren, iş sağlığı ve güvenliği tedbirlerinin maliyetini çalışanlara yansıtamaz.",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 4 uyarınca işveren; mesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması, organizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik tedbirlerinin değişen şartlara uygun hale getirilmesi ve mevcut durumun iyileştirilmesi için çalışmalar yapar. İşyerinde alınan İSG tedbirlerine uyulup uyulmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar; risk değerlendirmesi yapar veya yaptırır; çalışana görev verirken sağlık ve güvenlik yönünden işe uygunluğunu göz önüne alır; hayati ve özel tehlike bulunan yerlere yeterli bilgi ve talimatı olmayanların girmemesi için tedbir alır. İSG tedbirlerinin maliyeti çalışanlara yansıtılamaz.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 4",
+    "supporting_passage": "İşverenin genel yükümlülüğü\nMADDE 4 – (1) İşveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlü olup bu çerçevede;\na) Mesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması, organizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik tedbirlerinin değişen şartlara uygun hale getirilmesi ve mevcut durumun iyileştirilmesi için çalışmalar yapar.\nb) İşyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar.\nc) Risk değerlendirmesi yapar veya yaptırır.\nç) Çalışana görev verirken, çalışanın sağlık ve güvenlik yönünden işe uygunluğunu göz önüne alır.\nd) Yeterli bilgi ve talimat verilenler dışındaki çalışanların hayati ve özel tehlike bulunan yerlere girmemesi için gerekli tedbirleri alır.\n(2) İşyeri dışındaki uzman kişi ve kuruluşlardan hizmet alınması, işverenin sorumluluklarını ortadan kaldırmaz."
   },
   {
     "question_id": "q03",
@@ -47,7 +53,10 @@
     "suggested_gold_2": "944abf247108:article:9 (29.78)",
     "suggested_gold_3": "944abf247108:article:8 (28.61)",
     "suggested_top1_snippet": "Çalışmaktan kaçınma hakkı MADDE 13 – (1) Ciddi ve yakın tehlike ile karşı karşıya kalan çalışanlar kurula, kurulun bulunmadığı işyerlerinde ise işverene başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmas",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 13'e göre ciddi ve yakın tehlike ile karşı karşıya kalan çalışanlar İSG kuruluna (kurul yoksa işverene) başvurarak durumun tespitini ve tedbir alınmasını talep edebilir. Kurul acilen toplanır, işveren ise derhal kararını verir ve durumu tutanakla tespit eder. Karar çalışana ve çalışan temsilcisine yazılı bildirilir. Kurul veya işverenin çalışanın talebi yönünde karar vermesi halinde çalışan, gerekli tedbirler alınıncaya kadar çalışmaktan kaçınabilir. Önlemlerin alınmaması ve ciddi/yakın tehlikenin önlenemez olduğu durumlarda çalışanlar kurula/işverene başvurmadan da işyerini terk edebilir. Bu dönemdeki ücret ve kanundan/sözleşmeden doğan hakları saklıdır.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 13",
+    "supporting_passage": "Çalışmaktan kaçınma hakkı\nMADDE 13 – (1) Ciddi ve yakın tehlike ile karşı karşıya kalan çalışanlar kurula, kurulun bulunmadığı işyerlerinde ise işverene başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmasına karar verilmesini talep edebilir. Kurul acilen toplanarak, işveren ise derhâl kararını verir ve durumu tutanakla tespit eder. Karar, çalışana ve çalışan temsilcisine yazılı olarak bildirilir.\n(2) Kurul veya işverenin çalışanın talebi yönünde karar vermesi hâlinde çalışan, gerekli tedbirler alınıncaya kadar çalışmaktan kaçınabilir. Çalışanların çalışmaktan kaçındığı dönemdeki ücreti ile kanunlardan ve iş sözleşmesinden doğan diğer hakları saklıdır.\n(3) Çalışanlar ciddi ve yakın tehlikenin önlenemez olduğu durumlarda birinci fıkradaki usule uymak zorunda olmaksızın işyerini veya tehlikeli bölgeyi terk ederek belirlenen güvenli yere gider. Çalışanların bu hareketlerinden dolayı hakları kısıtlanamaz."
   },
   {
     "question_id": "q04",
@@ -64,7 +73,10 @@
     "suggested_gold_2": "fad54922e43a:article:30 (21.69)",
     "suggested_gold_3": "7002b35f317b:temporary_article:14 (18.66)",
     "suggested_top1_snippet": "İş kazası ve meslek hastalıklarının kayıt ve bildirimi MADDE 14 – (1) İşveren; a) Bütün iş kazalarının ve meslek hastalıklarının kaydını tutar, gerekli incelemeleri yaparak bunlar ile ilgili raporları düzenler. b) İşyeri",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 14 uyarınca işveren, bütün iş kazalarının ve meslek hastalıklarının kaydını tutar ve raporlarını düzenler. İşveren; iş kazalarını kazadan sonraki 3 iş günü içinde, sağlık hizmeti sunucuları veya işyeri hekimi tarafından kendisine bildirilen meslek hastalıklarını ise öğrendiği tarihten itibaren 3 iş günü içinde Sosyal Güvenlik Kurumu'na (SGK) bildirir. Ayrıca sağlık hizmeti sunucuları kendilerine intikal eden iş kazalarını, yetkilendirilmiş sağlık hizmeti sunucuları ise meslek hastalığı tanısı koydukları vakaları en geç 10 gün içinde SGK'ya bildirir.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 14",
+    "supporting_passage": "İş kazası ve meslek hastalıklarının kayıt ve bildirimi\nMADDE 14 – (1) İşveren;\na) Bütün iş kazalarının ve meslek hastalıklarının kaydını tutar, gerekli incelemeleri yaparak bunlar ile ilgili raporları düzenler.\nb) İşyerinde meydana gelen ancak yaralanma veya ölüme neden olmadığı halde işyeri ya da iş ekipmanının zarara uğramasına yol açan veya çalışan, işyeri ya da iş ekipmanını zarara uğratma potansiyeli olan olayları inceleyerek bunlar ile ilgili raporları düzenler.\n(2) İşveren, aşağıdaki hallerde belirtilen sürede Sosyal Güvenlik Kurumuna bildirimde bulunur:\na) İş kazalarını kazadan sonraki üç iş günü içinde.\nb) Sağlık hizmeti sunucuları veya işyeri hekimi tarafından kendisine bildirilen meslek hastalıklarını, öğrendiği tarihten itibaren üç iş günü içinde.\n(3) İşyeri hekimi veya sağlık hizmeti sunucuları; meslek hastalığı ön tanısı koydukları vakaları, Sosyal Güvenlik Kurumu tarafından yetkilendirilen sağlık hizmeti sunucularına sevk eder."
   },
   {
     "question_id": "q05",
@@ -82,7 +94,10 @@
     "suggested_gold_2": "944abf247108:article:3 (22.67)",
     "suggested_gold_3": "eeaf9bff5ce5:article:22 (21.69)",
     "suggested_top1_snippet": "İş sağlığı ve güvenliği kurulu MADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzer",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 22 uyarınca, 50 ve daha fazla çalışanın bulunduğu ve 6 aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere İş Sağlığı ve Güvenliği Kurulu oluşturmak zorundadır.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 22",
+    "supporting_passage": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular."
   },
   {
     "question_id": "q06",
@@ -102,7 +117,10 @@
     "suggested_gold_2": "fad54922e43a:article:28 (22.66)",
     "suggested_gold_3": "fad54922e43a:article:13 (22.08)",
     "suggested_top1_snippet": "(2) İş sağlığı ve güvenliği bakımından teftişe yetkili üç iş müfettişinden oluşan heyet, iş sağlığı ve güvenliği bakımından teftişe yetkili iş müfettişinin tespiti üzerine gerekli incelemeleri yaparak, tespit tarihinden",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 25 uyarınca; işyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit edildiğinde, ayrıca çok tehlikeli sınıfta yer alan maden, metal, yapı işleri ile tehlikeli kimyasallarla çalışılan işlerin yapıldığı veya büyük endüstriyel kaza olabilecek işyerlerinde risk değerlendirmesi yapılmamış olması halinde iş durdurulur. İşin durdurulması kararı, Bakanlık iş müfettişlerinden oluşan 3 kişilik heyet tarafından rapor tarihinden itibaren 2 gün içinde verilir ve mülki idare amiri tarafından 24 saat içinde uygulanır.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 25",
+    "supporting_passage": "İşin durdurulması\nMADDE 25 – (1) İşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit edildiğinde; bu tehlike giderilinceye kadar, hayati tehlikenin niteliği ve bu tehlikeden doğabilecek riskin etkileyebileceği alan ile çalışanlar dikkate alınarak, işyerinin bir bölümünde veya tamamında iş durdurulur. Ayrıca çok tehlikeli sınıfta yer alan maden, metal ve yapı işleri ile tehlikeli kimyasallarla çalışılan işlerin yapıldığı veya büyük endüstriyel kazaların olabileceği işyerlerinde, risk değerlendirmesi yapılmamış olması durumunda iş durdurulur."
   },
   {
     "question_id": "q07",
@@ -120,7 +138,10 @@
     "suggested_gold_2": "a0330acd6b52:article:25 (44.24)",
     "suggested_gold_3": "a0330acd6b52:article:6 (26.47)",
     "suggested_top1_snippet": "İşçinin haklı nedenle derhal fesih hakkı Madde 24 - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir: I. Sağlık seb",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "4857 sayılı İş Kanunu Madde 24/I uyarınca; (a) İş sözleşmesinin konusu olan işin yapılması işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olursa, (b) İşçinin sürekli olarak yakından ve doğrudan buluşup görüştüğü işveren yahut başka bir işçi bulaşıcı veya işçinin işi ile bağdaşmayan bir hastalığa tutulursa, işçi sürenin bitiminden önce veya bildirim süresini beklemeksizin iş sözleşmesini haklı nedenle derhal feshedebilir.",
+    "gold_citation": "4857 sayılı İş Kanunu, Madde 24",
+    "supporting_passage": "İşçinin haklı nedenle derhal fesih hakkı\nMadde 24 - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:\nI. Sağlık sebepleri:\na) İş sözleşmesinin konusu olan işin yapılması işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olursa. b) İşçinin sürekli olarak yakından ve doğrudan buluşup görüştüğü işveren yahut başka bir işçi bulaşıcı veya işçinin işi ile bağdaşmayan bir hastalığa tutulursa. II. Ahlak ve iyiniyet kurallarına uymayan haller ve benzerleri:\na) İşveren iş sözleşmesi yapıldığı sırada bu sözleşmenin esaslı noktalarından biri hakkında yanlış vasıflar veya şartlar göstermek yahut gerçeğe uygun olmayan bilgiler vermek veya sözler söylemek suretiyle işçiyi yanıltırsa. b) İşveren işçinin veya ailesi üyelerinden birinin şeref ve namusuna dokunacak şekilde sözler söyler, davranışlarda bulunursa veya işçiye cinsel tacizde bulunursa."
   },
   {
     "question_id": "q08",
@@ -139,7 +160,10 @@
     "suggested_gold_2": "a0330acd6b52:article:19 (34.06)",
     "suggested_gold_3": "a0330acd6b52:article:24 (31.52)",
     "suggested_top1_snippet": "İşverenin haklı nedenle derhal fesih hakkı Madde 25 - Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir: I- Sağlı",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "4857 sayılı İş Kanunu Madde 25/I-a uyarınca işçinin kendi kastından, derli toplu olmayan yaşayışından yahut içkiye düşkünlüğünden doğacak bir hastalığa veya engelliğe uğraması halinde, bu sebeple doğacak devamsızlığın ardı ardına 3 iş günü veya bir ayda 5 iş gününden fazla sürmesi şartıyla işverenin iş sözleşmesini haklı nedenle derhal fesih hakkı doğar.",
+    "gold_citation": "4857 sayılı İş Kanunu, Madde 25",
+    "supporting_passage": "İşverenin haklı nedenle derhal fesih hakkı\nMadde 25 - Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:\nI- Sağlık sebepleri:\na) İşçinin kendi kastından veya derli toplu olmayan yaşayışından yahut içkiye düşkünlüğünden doğacak bir hastalığa yakalanması veya engelli hâle gelmesi durumunda, bu sebeple doğacak devamsızlığın ardı ardına üç iş günü veya bir ayda beş iş gününden fazla sürmesi. b) İşçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve işyerinde çalışmasında sakınca bulunduğunun Sağlık Kurulunca saptanması durumunda. (a) alt bendinde sayılan sebepler dışında işçinin hastalık, kaza, doğum ve gebelik gibi hallerde işveren için iş sözleşmesini bildirimsiz fesih hakkı; belirtilen hallerin işçinin işyerindeki çalışma süresine göre 17 nci maddedeki bildirim sürelerini altı hafta aşmasından sonra doğar."
   },
   {
     "question_id": "q09",
@@ -158,7 +182,10 @@
     "suggested_gold_2": "a0330acd6b52:article:104 (27.83)",
     "suggested_gold_3": "a0330acd6b52:article:69 (26.32)",
     "suggested_top1_snippet": "Çalışma süresi Madde 63 - Genel bakımdan çalışma süresi haftada en çok kırkbeş saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır. (Ek cümle: 10/9/2014-6",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "4857 sayılı İş Kanunu Madde 63'e göre genel bakımdan çalışma süresi haftada en çok 45 saattir ve günlük çalışma süresi her ne şekilde olursa olsun 11 saati aşamaz. Madde 69'a göre çalışma hayatında 'gece' en geç saat 20.00'de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla 11 saat süren dönemdir; işçilerin gece çalışmaları 7,5 saati geçemez (ancak turizm, özel güvenlik, sağlık hizmeti ve petrol arama/sondaj işlerinde işçinin yazılı onayıyla 7,5 saatin üzerinde gece çalışması yapılabilir).",
+    "gold_citation": "4857 sayılı İş Kanunu, Madde 63; 4857 sayılı İş Kanunu, Madde 69",
+    "supporting_passage": "Çalışma süresi\nMadde 63 - Genel bakımdan çalışma süresi haftada en çok kırkbeş saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır. (Ek cümle: 10/9/2014-6552/7 md.; Değişik cümle: 4/4/2015-6645/36 md.) Yer altı maden işlerinde çalışan işçilerin çalışma süresi; günde en çok yedi buçuk, haftada en çok otuz yedi buçuk saattir. Tarafların anlaşması ile haftalık normal çalışma süresi, işyerlerinde haftanın çalışılan günlerine, günde onbir saati aşmamak koşulu ile farklı şekilde dağıtılabilir. Bu halde, iki aylık süre içinde işçinin haftalık ortalama çalışma süresi, normal haftalık çalışma süresini aşamaz. Denkleştirme süresi toplu iş sözleşmeleri ile dört aya kadar artırılabilir. (Ek cümle: 6/5/2016-6715/3 md.) Turizm sektöründe dört aylık süre içinde işçinin haftalık ortalama çalışma süresi, normal haftalık çalışma süresini aşamaz; denkleştirme süresi toplu iş sözleşmeleri ile altı aya kadar artırılabilir.\n\nGece süresi ve gece çalışmaları\nMadde 69 - Çalışma hayatında \"gece\" en geç saat 20.00'de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla onbir saat süren dönemdir. Bazı işlerin niteliğine ve gereğine göre yahut yurdun bazı bölgelerinin özellikleri bakımından, çalışma hayatına ilişkin \"gece\" başlangıcının daha geriye alınması veya yaz ve kış saatlerinin ayarlanması, yahut gün döneminin başlama ve bitme saatlerinin belirtilmesi suretiyle birinci fıkradaki hükmün uygulama şekillerini tespit etmek yahut bazı gece çalışmalarına herhangi bir oranda fazla ücret ödenmesi usulünü koymak veyahut gece işletilmelerinde ekonomik bir zorunluluk bulunmayan işyerlerinde işçilerin gece çalışmalarını yasak etmek üzere yönetmelikler çıkartılabilir. İşçilerin gece çalışmaları yedibuçuk saati geçemez."
   },
   {
     "question_id": "q10",
@@ -176,7 +203,10 @@
     "suggested_gold_2": "a0330acd6b52:article:7 (33.05)",
     "suggested_gold_3": "7002b35f317b:temporary_article:6 (31.16)",
     "suggested_top1_snippet": "İş kazasının tanımı, bildirilmesi ve soruşturulması MADDE 13- İş kazası; a) Sigortalının işyerinde bulunduğu sırada, b) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan iş nedeniyle sigortalı kendi ad",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "5510 sayılı Kanun Madde 13'e göre iş kazası; sigortalının (a) işyerinde bulunduğu sırada, (b) işveren tarafından yürütülmekte olan iş nedeniyle, (c) bir işverene bağlı olarak çalışan sigortalının görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda, (d) emziren kadın sigortalının iş mevzuatı gereğince çocuğuna süt vermek için ayrılan zamanlarda, (e) sigortalıların işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında meydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle getiren olaydır.",
+    "gold_citation": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Madde 13",
+    "supporting_passage": "İş kazasının tanımı, bildirilmesi ve soruşturulması\nMADDE 13- İş kazası;\na) Sigortalının işyerinde bulunduğu sırada,\nb) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan iş nedeniyle sigortalı kendi adına ve hesabına bağımsız çalışıyorsa yürütmekte olduğu iş nedeniyle,\nc) Bir işverene bağlı olarak çalışan sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,\nd) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt vermek için ayrılan zamanlarda,\ne) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,\nmeydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle getiren olaydır."
   },
   {
     "question_id": "q11",
@@ -195,7 +225,10 @@
     "suggested_gold_2": "7002b35f317b:article:21 (28.23)",
     "suggested_gold_3": "7002b35f317b:article:57 (26.62)",
     "suggested_top1_snippet": "Meslek hastalığı, işten ayrıldıktan sonra meydana çıkmış ve sigortalı olarak çalıştığı işten kaynaklanmış ise, sigortalının bu Kanunla sağlanan haklardan yararlanabilmesi için, eski işinden fiilen ayrılmasıyla hastalığın",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "5510 sayılı Kanun Madde 14 uyarınca meslek hastalığı; sigortalının çalıştığı veya yaptığı işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğradığı geçici veya sürekli hastalık, bedensel veya ruhsal engellilik halleridir. Meslek hastalığının işten ayrıldıktan sonra ortaya çıkması halinde sigortalılık haklarından yararlanabilmek için, eski işinden fiilen ayrılmasıyla hastalığın meydana çıkması arasında bu hastalık için Kurum yönetmeliğinde belirtilen yükümlülük süresinden daha uzun bir zamanın geçmemiş olması şarttır.",
+    "gold_citation": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Madde 14",
+    "supporting_passage": "Meslek hastalığının tanımı, bildirilmesi ve soruşturulması\nMADDE 14- Meslek hastalığı, sigortalının çalıştığı veya yaptığı işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğradığı geçici veya sürekli hastalık, bedensel veya ruhsal engellilik halleridir. Sigortalının çalıştığı işten dolayı meslek hastalığına tutulduğunun;\na) Kurumca yetkilendirilen sağlık hizmet sunucuları tarafından usûlüne uygun olarak düzenlenen sağlık kurulu raporu ve dayanağı tıbbî belgelerin incelenmesi,\nb) Kurumca gerekli görüldüğü hallerde, işyerindeki çalışma şartlarını ve buna bağlı tıbbî sonuçlarını ortaya koyan denetim raporları ve gerekli diğer belgelerin incelenmesi,\nsonucu Kurum Sağlık Kurulu tarafından tespit edilmesi zorunludur."
   },
   {
     "question_id": "q12",
@@ -213,7 +246,10 @@
     "suggested_gold_2": "7002b35f317b:article:14 (29.66)",
     "suggested_gold_3": "7002b35f317b:temporary_article:14 (28.87)",
     "suggested_top1_snippet": "İş kazası ve meslek hastalığı ile hastalık bakımından işverenin ve üçüncü kişilerin sorumluluğu MADDE 21- İş kazası ve meslek hastalığı, işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına ayk",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "5510 sayılı Kanun Madde 21 uyarınca; iş kazası ve meslek hastalığı, işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına aykırı bir hareketi sonucu meydana gelmişse, Kurumca sigortalıya veya hak sahiplerine yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değeri toplamı, kusuru oranında işverene (veya kusurlu üçüncü kişilere) rücu edilir (ödettirilir). İş 단ında zamanında bildirilmeyen iş kazaları için bildirim tarihine kadar yapılan harcamalar da işverenden tahsil edilir.",
+    "gold_citation": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Madde 21",
+    "supporting_passage": "İş kazası ve meslek hastalığı ile hastalık bakımından işverenin ve üçüncü kişilerin sorumluluğu\nMADDE 21- İş kazası ve meslek hastalığı, işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına aykırı bir hareketi sonucu meydana gelmişse, Kurumca sigortalıya veya hak sahiplerine bu Kanun gereğince yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değeri toplamı, sigortalı veya hak sahiplerinin işverenden isteyebilecekleri tutarlarla sınırlı olmak üzere, Kurumca işverene ödettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır. İş kazasının, 13 üncü maddenin ikinci fıkrasının (a) bendinde belirtilen sürede işveren tarafından Kuruma bildirilmemesi halinde, bildirim tarihine kadar geçen süre için sigortalıya ödenecek geçici iş göremezlik ödeneği, Kurumca işverenden tahsil edilir."
   },
   {
     "question_id": "q13",
@@ -231,7 +267,10 @@
     "suggested_gold_2": "eeaf9bff5ce5:article:13 (38.90)",
     "suggested_gold_3": "eeaf9bff5ce5:article:5 (35.26)",
     "suggested_top1_snippet": "Temel eğitimin tekrarlanma periyodu MADDE 14- (1) Temel eğitimler, değişen ve ortaya çıkan yeni riskler de dikkate alınarak aşağıda belirtilen düzenli aralıklarla tekrarlanır: a) Çok tehlikeli sınıfta yer alan işyerlerin",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik Madde 13 ve 14 uyarınca temel İSG eğitimlerinin asgari süreleri ve tekrarlanma periyotları; Az tehlikeli işyerlerinde en az 8 saat (en geç 3 yılda bir), Tehlikeli işyerlerinde en az 12 saat (en geç 2 yılda bir), Çok tehlikeli işyerlerinde ise en az 16 saat (en geç yılda bir) olarak uygulanır.",
+    "gold_citation": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 13; Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 14",
+    "supporting_passage": "Temel eğitimin süresi\nMADDE 13- (1) Temel eğitimler, işyeri tehlike sınıfına göre her çalışana asgari olarak aşağıda belirtilen sürelerde verilir:\na) Az tehlikeli sınıfta yer alan işyerleri için en az sekiz ders saati.\nb) Tehlikeli sınıfta yer alan işyerleri için en az on iki ders saati.\nc) Çok tehlikeli sınıfta yer alan işyerleri için en az on altı ders saati.\n(2) Birinci fıkrada belirtilen eğitim sürelerinin Ek-1’de yer alan konulara göre dağılımında işyerinde yürütülen faaliyetler ile çalışanların ihtiyaçları esas alınır.\n(3) Ek-1’de yer alan dördüncü konu başlığına ayrılan süre, toplam temel eğitim süresi içerisinde az tehlikeli sınıfta yer alan işyerleri için iki ders saatinden, tehlikeli sınıfta yer alan işyerleri için üç ders saatinden ve çok tehlikeli sınıfta yer alan işyerleri için dört ders saatinden az olamaz.\n\nTemel eğitimin tekrarlanma periyodu\nMADDE 14- (1) Temel eğitimler, değişen ve ortaya çıkan yeni riskler de dikkate alınarak aşağıda belirtilen düzenli aralıklarla tekrarlanır:\na) Çok tehlikeli sınıfta yer alan işyerlerinde yılda en az bir defa.\nb) Tehlikeli sınıfta yer alan işyerlerinde iki yılda en az bir defa.\nc) Az tehlikeli sınıfta yer alan işyerlerinde üç yılda en az bir defa.\n(2) Temel eğitimlerin tekrarı; az tehlikeli, tehlikeli ve çok tehlikeli sınıfta yer alan tüm işyerleri için asgari sekiz ders saati olarak düzenlenir. Bu eğitimlerde Ek-1’de yer alan dördüncü konu başlığının; 12 nci maddenin üçüncü fıkrasına uygun eğitim yöntemi kullanılarak 13 üncü maddenin üçüncü fıkrasında belirtilen sürelerde verilmesi sağlanır.\n(3) Çalışma yeri veya iş değişikliği, iş ekipmanının değişmesi, yeni teknoloji uygulanması gibi durumlar nedeniyle ortaya çıkacak risklerle ilgili eğitimler birinci fıkrada belirtilen aralıklar beklenmeksizin verilir."
   },
   {
     "question_id": "q14",
@@ -248,7 +287,10 @@
     "suggested_gold_2": "da6c8e8ca63d:article:12 (50.49)",
     "suggested_gold_3": "569f2ec68e96:article:6 (44.49)",
     "suggested_top1_snippet": "3) (Değişik:RG-18/12/2014-29209) Çalışanın kişisel özellikleri, işyerinin tehlike sınıfı ve işin niteliği öncelikli olarak göz önünde bulundurularak uluslararası standartlar ile işyerinde yapılan risk değerlendirmesi son",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği Madde 12 uyarınca yapılmış olan risk değerlendirmesi; çok tehlikeli işyerlerinde en geç 2 yılda bir, tehlikeli işyerlerinde en geç 4 yılda bir, az tehlikeli işyerlerinde ise en geç 6 yılda bir yenilenir.",
+    "gold_citation": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği, Madde 12",
+    "supporting_passage": "Risk değerlendirmesinin yenilenmesi\nMADDE 12 – (1) Yapılmış olan risk değerlendirmesi; tehlike sınıfına göre çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde sırasıyla en geç iki, dört ve altı yılda bir yenilenir.\n(2) Aşağıda belirtilen durumlarda ortaya çıkabilecek yeni risklerin, işyerinin tamamını veya bir bölümünü etkiliyor olması göz önünde bulundurularak risk değerlendirmesi tamamen veya kısmen yenilenir.\na) İşyerinin taşınması veya binalarda değişiklik yapılması.\nb) İşyerinde uygulanan teknoloji, kullanılan madde ve ekipmanlarda değişiklikler meydana gelmesi.\nc) Üretim yönteminde değişiklikler olması.\nç) İş kazası, meslek hastalığı veya ramak kala olay meydana gelmesi.\nd) Çalışma ortamına ait sınır değerlere ilişkin bir mevzuat değişikliği olması.\ne) Çalışma ortamı ölçümü ve sağlık gözetim sonuçlarına göre gerekli görülmesi.\nf) İşyeri dışından kaynaklanan ve işyerini etkileyebilecek yeni bir tehlikenin ortaya çıkması."
   },
   {
     "question_id": "q15",
@@ -268,7 +310,10 @@
     "suggested_gold_2": "905c347cc31e:article:5 (39.00)",
     "suggested_gold_3": "905c347cc31e:article:10 (33.78)",
     "suggested_top1_snippet": "Acil çıkış kapıları dışarıya doğru açılır. Acil çıkış kapıları; acil durumlarda çalışanların hemen ve kolayca açabilecekleri şekilde olur. 13.5. Acil çıkış kapıları kilitli olmaz. Acil çıkış yolları ve kapıları ile bural",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik Madde 11 uyarınca işveren; söndürme, kurtarma ve koruma ekiplerinin her biri için çok tehlikeli sınıfta her 30 çalışana kadar, tehlikeli sınıfta her 40 çalışana kadar, az tehlikeli sınıfta ise her 50 çalışana kadar uygun donanıma sahip ve özel eğitimli en az birer destek elemanı görevlendirir. 10'dan az çalışanı olan işyerlerinde bu ekipler için toplam bir destek elemanı görevlendirilmesi yeterlidir.",
+    "gold_citation": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik, Madde 11",
+    "supporting_passage": "Acil durum ekipleri ve görevleri\nMADDE 11 – (Başlığı ile Birlikte Değişik:RG-1/10/2021-31615)\n(1) İşveren; işyerlerinde aşağıda yer alan acil durum ekiplerini oluşturur:\na) Söndürme ekibi.\nb) Kurtarma ekibi.\nc) Koruma ekibi.\nç) İlk yardım ekibi."
   },
   {
     "question_id": "q16",
@@ -286,7 +331,10 @@
     "suggested_gold_2": "eeaf9bff5ce5:article:14 (55.85)",
     "suggested_gold_3": "eeaf9bff5ce5:article:13 (46.19)",
     "suggested_top1_snippet": "Acil durum planının yenilenmesi MADDE 14 – (1) İşyerinde (Ek ibare:RG-1/10/2021-31615) veya yakın çevresinde, belirlenmiş olan acil durumları etkileyebilecek veya yeni acil durumların ortaya çıkmasına neden olacak değişi",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik Madde 13 ve 14 uyarınca; acil durum planları çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde sırasıyla en geç 2, 4 ve 6 yılda bir yenilenir. Acil durum tatbikatları ise tüm tehlike sınıflarında yılda en az 1 defa yapılır (maden işyerlerinde ise 6 ayda en az 1 defa yapılır).",
+    "gold_citation": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik, Madde 13; İşyerlerinde Acil Durumlar Hakkında Yönetmelik, Madde 14",
+    "supporting_passage": "Tatbikat\nMADDE 13 – (1) (Değişik:RG-1/10/2021-31615) Hazırlanan acil durum planının uygulama adımlarının düzenli olarak takip edilebilmesi ve uygulanabilirliğinden emin olunması için işyerlerinde, ikinci fıkrada belirtilen süreleri aşmamak kaydıyla belirlenen periyotlarla tatbikat yapılır, denetlenir ve gözden geçirilerek gerekli düzeltici ve önleyici tedbirler alınır. Gerçekleştirilen tatbikatın tarihi, görülen eksiklikler ve bu eksiklikler doğrultusunda yapılacak düzenlemeleri içeren tatbikat formu hazırlanır. Tatbikat formu hazırlanırken kullanılabilecek örnek form Ek-2’de yer almaktadır.\n(2) (Ek:RG-1/10/2021-31615)(1) Tatbikat 19/9/2013 tarihli ve 28770 sayılı Resmî Gazete’de yayımlanan Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği kapsamındaki işyerleri için anılan Yönetmelik hükümlerine göre, diğer işyerleri için en geç yılda bir yapılır.\n\nAcil durum planının yenilenmesi\nMADDE 14 – (1) İşyerinde (Ek ibare:RG-1/10/2021-31615) veya yakın çevresinde, belirlenmiş olan acil durumları etkileyebilecek veya yeni acil durumların ortaya çıkmasına neden olacak değişikliklerin meydana gelmesi halinde (Mülga ibare:RG-1/10/2021-31615) acil durum planı tamamen veya kısmen yenilenir.\n(2) Birinci fıkrada belirtilen durumlardan bağımsız olarak, hazırlanmış olan acil durum planları; tehlike sınıfına göre çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde sırasıyla en geç iki, dört ve altı yılda bir yenilenir."
   },
   {
     "question_id": "q17",
@@ -304,7 +352,10 @@
     "suggested_gold_2": "672c4073d152:article:12 (55.24)",
     "suggested_gold_3": "672c4073d152:article:19 (46.49)",
     "suggested_top1_snippet": "İş güvenliği uzmanlarının çalışma süreleri MADDE 12 – (1) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar: a) A",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik Madde 12 uyarınca çalışan başına aylık asgari çalışma süreleri; az tehlikeli sınıfta en az 10 dakika (her 1000 çalışana 1 tam gün uzman), tehlikeli sınıfta en az 20 dakika (her 500 çalışana 1 tam gün uzman), çok tehlikeli sınıfta ise en az 40 dakikadır (her 250 çalışana 1 tam gün uzman görevlendirilir).",
+    "gold_citation": "İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 12",
+    "supporting_passage": "İş güvenliği uzmanlarının çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 20 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 40 dakika.\n(2) Az tehlikeli sınıfta yer alan (Değişik ibare:RG-30/4/2015-29342) 1000 ve daha fazla çalışanı olan işyerlerinde her (Değişik ibare:RG-30/4/2015-29342) 1000 çalışan için tam gün çalışacak en az bir iş güvenliği uzmanı görevlendirilir. Çalışan sayısının (Değişik ibare:RG-30/4/2015-29342) 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar iş güvenliği uzmanı ek olarak görevlendirilir."
   },
   {
     "question_id": "q18",
@@ -322,7 +373,10 @@
     "suggested_gold_2": "672c4073d152:intro:0 (51.19)",
     "suggested_gold_3": "070595224074:article:13 (44.76)",
     "suggested_top1_snippet": "(3) OSGB’lerin denetimleri esnasında tespit edilen bulgularda ihmali bulunan; iş güvenliği uzmanına İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, işyeri hekimleri ve diğer sağlık p",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik Madde 12 uyarınca işyeri hekimlerinin çalışan başına aylık asgari çalışma süreleri; az tehlikeli sınıfta en az 5 dakika (her 2000 çalışana 1 tam gün hekim), tehlikeli sınıfta en az 10 dakika (her 1000 çalışana 1 tam gün hekim), çok tehlikeli sınıfta ise en az 15 dakikadır (her 750 çalışana 1 tam gün işyeri hekimi görevlendirilir).",
+    "gold_citation": "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 12",
+    "supporting_passage": "İşyeri hekimlerinin çalışma süreleri\nMADDE 12 – (1) (Değişik:RG-18/12/2014-29209)  İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 5 dakika.\nb) Tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 10 dakika.\nc) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dakika.\n(2) Az tehlikeli sınıfta yer alan 2000 ve daha fazla çalışanı olan işyerlerinde her 2000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının 2000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir."
   },
   {
     "question_id": "q19",
@@ -339,7 +393,10 @@
     "suggested_gold_2": "fad54922e43a:temporary_article:4 (32.55)",
     "suggested_gold_3": "672c4073d152:article:12 (32.54)",
     "suggested_top1_snippet": "Diğer sağlık personelinin çalışma süreleri MADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar: a) (Değişik:RG-18/12/2014-29209)",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik Madde 19 uyarınca çok tehlikeli sınıfta yer alan ve 10 ve daha fazla çalışanı olan işyerlerinde diğer sağlık personeli (DSP) görevlendirilmesi zorunludur (tam süreli işyeri hekimi görevlendirilen işyerlerinde DSP zorunluluğu yoktur). Çalışan başına aylık asgari çalışma süreleri: 10–49 çalışan arasında 10 dakika, 50–249 çalışan arasında 15 dakika, 250 ve üzeri çalışanda ise 20 dakikadır.",
+    "gold_citation": "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 19",
+    "supporting_passage": "Diğer sağlık personelinin çalışma süreleri\nMADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.\nb) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.\nc) (Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.\n(2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir."
   },
   {
     "question_id": "q20",
@@ -357,7 +414,10 @@
     "suggested_gold_2": "fad54922e43a:article:30 (27.43)",
     "suggested_gold_3": "944abf247108:article:13 (22.83)",
     "suggested_top1_snippet": "(4) Birden fazla iş güvenliği uzmanı ve işyeri hekiminin bulunduğu işyerlerinde işveren tarafından görevlendirme yapılır. İş güvenliği uzmanının görevlendirilmesinde o işyerinin tehlike sınıfına uygun uzmanlar arasından",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik Madde 9 uyarınca kurullar kural olarak ayda en az 1 kere toplanır. Ancak kurul, işyerinin tehlike sınıfını dikkate alarak, tehlikeli işyerlerinde bu sürenin 2 ay, az tehlikeli işyerlerinde ise 3 ay olarak belirlenmesine karar verebilir (çok tehlikeli işyerlerinde süre uzatılamaz, ayda en az 1 kez toplanır).",
+    "gold_citation": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik, Madde 9",
+    "supporting_passage": "Çalışma usulleri\nMADDE 9 – (1) Kurul inceleme, izleme ve uyarmayı öngören bir düzen içinde ve aşağıdaki esasları göz önünde bulundurarak çalışır. a) Kurullar ayda en az bir kere toplanır. Ancak kurul, işyerinin tehlike sınıfını dikkate alarak, tehlikeli işyerlerinde bu sürenin iki ay, az tehlikeli işyerlerinde ise üç ay olarak belirlenmesine karar verebilir. b) Toplantının gündemi, yeri, günü ve saati toplantıdan en az kırk sekiz saat önce kurul üyelerine bildirilir. Gündem, sorunların ve varsa iş sağlığı ve güvenliğine ilişkin projelerin önem sırasına göre belirlenir. Kurul üyeleri gündemde değişiklik isteyebilirler. Bu istek kurulca uygun görüldüğünde gündem buna göre değiştirilir. c) Ölümlü, uzuv kayıplı veya ağır iş kazası halleri veya özel bir tedbiri gerektiren önemli hallerde kurul üyelerinden herhangi biri kurulu olağanüstü toplantıya çağırabilir. Bu konudaki tekliflerin kurul başkanına veya sekreterine yapılması gerekir."
   },
   {
     "question_id": "q21",
@@ -374,7 +434,10 @@
     "suggested_gold_2": "fad54922e43a:article:30 (32.59)",
     "suggested_gold_3": "944abf247108:article:3 (25.33)",
     "suggested_top1_snippet": "Çalışan temsilcisi MADDE 20 – (1) İşveren; işyerinin değişik bölümlerindeki riskler ve çalışan sayılarını göz önünde bulundurarak dengeli dağılıma özen göstermek kaydıyla, çalışanlar arasında yapılacak seçim veya seçimle",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 20 uyarınca işyerinde görevlendirilecek çalışan temsilcisi sayısı; 2 ile 50 arasında çalışanı bulunan işyerlerinde 1, 51 ile 100 arasında 2, 101 ile 500 arasında 3, 501 ile 1000 arasında 4, 1001 ile 2000 arasında 5, 2001 ve 통 üzerinde çalışanı bulunan işyerlerinde 6'dır.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 20",
+    "supporting_passage": "Çalışan temsilcisi\nMADDE 20 – (1) İşveren; işyerinin değişik bölümlerindeki riskler ve çalışan sayılarını göz önünde bulundurarak dengeli dağılıma özen göstermek kaydıyla, çalışanlar arasında yapılacak seçim veya seçimle belirlenemediği durumda atama yoluyla, aşağıda belirtilen sayılarda çalışan temsilcisini görevlendirir:\na) İki ile elli arasında çalışanı bulunan işyerlerinde bir.\nb) Ellibir ile yüz arasında çalışanı bulunan işyerlerinde iki.\nc) Yüzbir ile beşyüz arasında çalışanı bulunan işyerlerinde üç.\nç) Beşyüzbir ile bin arasında çalışanı bulunan işyerlerinde dört.\nd) Binbir ile ikibin arasında çalışanı bulunan işyerlerinde beş.\ne) İkibinbir ve üzeri çalışanı bulunan işyerlerinde altı.\n(2) Birden fazla çalışan temsilcisinin bulunması durumunda baş temsilci, çalışan temsilcileri arasında yapılacak seçimle belirlenir."
   },
   {
     "question_id": "q22",
@@ -391,7 +454,10 @@
     "suggested_gold_2": "bba00c499372:article:5 (77.19)",
     "suggested_gold_3": "bba00c499372:article:11 (62.92)",
     "suggested_top1_snippet": "Maruziyet sınır değerleri ve maruziyet eylem değerleri MADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet sınır değerleri ve maruziyet eylem değerleri aşağıda verilmiştir: a) El-kol titreşimi için; 1) Sekiz",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik Madde 5 uyarınca; en düşük maruziyet eylem değeri LEX,8saat = 80 dB(A) (tepe basıncı 112 Pa / 135 dB(C)), en yüksek maruziyet eylem değeri LEX,8saat = 85 dB(A) (tepe basıncı 140 Pa / 137 dB(C)), maruziyet sınır değeri ise LEX,8saat = 87 dB(A) (tepe basıncı 200 Pa / 140 dB(C)) olarak belirlenmiştir.",
+    "gold_citation": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 5",
+    "supporting_passage": "Maruziyet eylem değerleri ve maruziyet sınır değerleri\nMADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet eylem değerleri ve maruziyet sınır değerleri aşağıda verilmiştir:\na) En düşük maruziyet eylem değerleri: (LEX, 8saat) = 80 dB(A) veya (Ptepe) = 112 Pa [135 dB(C) re. 20 µPa] (20 µPa referans alındığında 135 dB (C) olarak hesaplanan değer).\nb) En yüksek maruziyet eylem değerleri: (LEX, 8saat) = 85 dB(A) veya (Ptepe) = 140 Pa [137 dB(C) re. 20 µPa].\nc) Maruziyet sınır değerleri: (LEX, 8saat) = 87 dB(A) veya (Ptepe) = 200 Pa [140 dB(C) re. 20 µPa].\n(2) Maruziyet sınır değerleri uygulanırken, çalışanların maruziyetinin tespitinde, çalışanın kullandığı kişisel kulak koruyucu donanımların koruyucu etkisi de dikkate alınır.\n(3) Maruziyet eylem değerlerinde kulak koruyucularının etkisi dikkate alınmaz."
   },
   {
     "question_id": "q23",
@@ -407,7 +473,10 @@
     "suggested_gold_2": "6b0f0b8672ef:article:4 (60.66)",
     "suggested_gold_3": "bba00c499372:article:5 (44.73)",
     "suggested_top1_snippet": "Maruziyet sınır değerleri ve maruziyet eylem değerleri MADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet sınır değerleri ve maruziyet eylem değerleri aşağıda verilmiştir: a) El-kol titreşimi için; 1) Sekiz",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların Titreşimle İlgili Risklerden Korunmalarına Dair Yönetmelik Madde 5 uyarınca; (a) El-kol titreşimi için sekiz saatlik çalışma süresi günlük maruziyet sınır değeri 5 m/s², günlük maruziyet eylem değeri 2,5 m/s²'dir. (b) Bütün vücut titreşimi için sekiz saatlik çalışma süresi günlük maruziyet sınır değeri 1,15 m/s², günlük maruziyet eylem değeri ise 0,5 m/s²'dir.",
+    "gold_citation": "Çalışanların Titreşimle İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 5",
+    "supporting_passage": "Maruziyet sınır değerleri ve maruziyet eylem değerleri\nMADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet sınır değerleri ve maruziyet eylem değerleri aşağıda verilmiştir:\na) El-kol titreşimi için;\n1) Sekiz saatlik çalışma süresi için günlük maruziyet sınır değeri: 5 m/s2.\n2) Sekiz saatlik çalışma süresi için günlük maruziyet eylem değeri: 2,5 m/s2.\nb) Bütün vücut titreşimi için;\n1) Sekiz saatlik çalışma süresi için günlük maruziyet sınır değeri: 1,15 m/s2.\n2) Sekiz saatlik çalışma süresi için günlük maruziyet eylem değeri: 0,5 m/s2."
   },
   {
     "question_id": "q24",
@@ -499,7 +568,10 @@
     "suggested_gold_2": "44c7f586ce82:annex:4 (32.97)",
     "suggested_gold_3": "",
     "suggested_top1_snippet": "Basınçlı kap ve tesisatların periyodik kontrolleri yetkili olan; makine mühendisleri, metalürji ve malzeme mühendisleri, mekatronik mühendisleri, kimya mühendisleri, imalat mühendisleri, uçak mühendisleri, makine veya me",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği Ek-III uyarınca standartlarda aksi belirtilmemişse azami periyodik kontrol periyotları; basınçlı kap ve tesisatlar için 1 yıl, kaldırma ve iletme ekipmanları için 1 yıl, elektrik tesisatı, topraklama tesisatı ve paratoner için 1 yıl (akümülatör ve transformatörler için 1 yıl, yangın tesisatı için 1 yıl, havalandırma tesisatı için 1 yıl) olarak uygulanır.",
+    "gold_citation": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Madde 17",
+    "supporting_passage": "Yürütme\nMADDE 17 – (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.\n____________\n(1) Bu değişiklik 25/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(2) Bu değişiklik 25/4/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(3) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Diğer Hususlar” iken metne işlendiği şekilde değiştirilmiştir.\n(4) Bu değişiklik 31/12/2022 tarihinde yürürlüğe girer.\n(5) Bu değişiklik 31/12/2023 tarihinde yürürlüğe girer."
   },
   {
     "question_id": "q25",
@@ -520,7 +592,10 @@
     "suggested_gold_2": "7655229a277b:annex:3 (23.10)",
     "suggested_gold_3": "a0330acd6b52:article:29 (22.88)",
     "suggested_top1_snippet": "olsun evli olmayan, evli olmakla beraber sonradan boşanan veya dul kalan kızlarının, her birine %25'i, c) (b) bendinde belirtilen çocuklardan sigortalının ölümü ile anasız ve babasız kalan veya sonradan bu duruma düşenle",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 22 ve İSG Kurulları Hakkında Yönetmelik Madde 4 uyarınca; 6 aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde, asıl işveren ve alt işverenlerin ayrı ayrı çalışan sayısı 50'nin altında olsa dahi toplam çalışan sayısı 50'den fazlaysa (25+20+35=80 çalışan), koordinasyon asıl işverence (ana müteahhitçe) sağlanmak kaydıyla asıl işveren ve alt işverenler tarafından birlikte bir İSG Kurulu oluşturulur.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 22; İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik, Madde 4",
+    "supporting_passage": "İş sağlığı ve güvenliği kurulu\nMADDE 22 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n\nİşverenin yükümlülüğü\nMADDE 4 – (1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur."
   },
   {
     "question_id": "q26",
@@ -541,7 +616,10 @@
     "suggested_gold_2": "de9a7cd61751:annex:1 (20.84)",
     "suggested_gold_3": "a0330acd6b52:article:56 (19.09)",
     "suggested_top1_snippet": "Sigortalı kadına veya sigortalı olmayan eşinin doğum yapması nedeniyle sigortalı erkeğe emzirme ödeneği verilebilmesi için, Kanunun 4 üncü maddesinin birinci fıkrasının; a) (a) bendi kapsamında olanlar için doğumdan önce",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "4857 sayılı İş Kanunu Madde 69 ve 74 uyarınca gebe çalışanlar; gebeliklerinin doktor raporuyla tespitinden itibaren doğuma kadar gece postalarında (20.00–06.00 arası) çalıştırılamazlar ve günde 7,5 saatten fazla çalıştırılamazlar (fazla mesai yaptırılamaz). Gebelik süresince periyodik kontroller için ücretli izin verilir. Doğumdan önce 8 ve doğumdan sonra 8 hafta olmak üzere toplam 16 hafta (çoğul gebelikte 18 hafta) çalıştırılmamaları esastır ve doğum sonrası 1 yaşından küçük çocuklarını emzirmeleri için günde toplam 1,5 saat süt izni verilir.",
+    "gold_citation": "4857 sayılı İş Kanunu, Madde 74; 4857 sayılı İş Kanunu, Madde 69",
+    "supporting_passage": "Analık halinde çalışma ve süt izni\nMadde 74 - Kadın işçilerin doğumdan önce sekiz ve doğumdan sonra onaltı hafta olmak üzere toplam yirmidört haftalık süre için çalıştırılmamaları esastır. Çoğul gebelik halinde doğumdan önce çalıştırılmayacak sekiz haftalık süreye iki hafta süre eklenir. Ancak, sağlık durumu uygun olduğu takdirde, doktorun onayı ile kadın işçi isterse doğumdan önceki iki haftaya kadar işyerinde çalışabilir. Bu durumda, kadın işçinin çalıştığı süreler doğum sonrası sürelere eklenir. (Ek cümle: 13/2/2011-6111/76 md.) Kadın işçinin erken doğum yapması halinde ise doğumdan önce kullanamadığı çalıştırılmayacak süreler, doğum sonrası sürelere eklenmek suretiyle kullandırılır. (Ek cümleler: 29/1/2016-6663/22 md.) Doğumda veya doğum sonrasında annenin ölümü hâlinde, doğum sonrası kullanılamayan süreler babaya kullandırılır.\n\nGece süresi ve gece çalışmaları\nMadde 69 - Çalışma hayatında \"gece\" en geç saat 20.00'de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla onbir saat süren dönemdir. Bazı işlerin niteliğine ve gereğine göre yahut yurdun bazı bölgelerinin özellikleri bakımından, çalışma hayatına ilişkin \"gece\" başlangıcının daha geriye alınması veya yaz ve kış saatlerinin ayarlanması, yahut gün döneminin başlama ve bitme saatlerinin belirtilmesi suretiyle birinci fıkradaki hükmün uygulama şekillerini tespit etmek yahut bazı gece çalışmalarına herhangi bir oranda fazla ücret ödenmesi usulünü koymak veyahut gece işletilmelerinde ekonomik bir zorunluluk bulunmayan işyerlerinde işçilerin gece çalışmalarını yasak etmek üzere yönetmelikler çıkartılabilir. İşçilerin gece çalışmaları yedibuçuk saati geçemez."
   },
   {
     "question_id": "q27",
@@ -563,7 +641,10 @@
     "suggested_gold_2": "bba00c499372:article:4 (41.81)",
     "suggested_gold_3": "bba00c499372:article:9 (34.80)",
     "suggested_top1_snippet": "(4) Günlük gürültü maruziyetinin günden güne belirgin şekilde farklılık gösterdiğinin kesin olarak tespit edildiği işlerde, maruziyet sınır değerleri ile maruziyet eylem değerlerinin uygulanmasında günlük gürültü maruziy",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik Madde 5, 8 ve 11 uyarınca; 86 dB(A) maruziyet düzeyi en yüksek maruziyet eylem değerini (85 dB(A)) aştığı için işveren; kulak koruyucu donanımları sadece hazır bulundurmakla kalmayıp çalışanların bunları fiilen kullanmalarını sağlamak ve denetlemek zorundadır. Ayrıca gürültüye bağlı maruziyeti azaltacak teknik/organizasyonel önlem programı uygulamalı, alanı işaretlemeli ve çalışanlara periyodik işitme testi (odyometrik muayene) ile sağlık gözetimi yaptırmalıdır.",
+    "gold_citation": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 5; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 8; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 11",
+    "supporting_passage": "Maruziyet eylem değerleri ve maruziyet sınır değerleri\nMADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet eylem değerleri ve maruziyet sınır değerleri aşağıda verilmiştir:\na) En düşük maruziyet eylem değerleri: (LEX, 8saat) = 80 dB(A) veya (Ptepe) = 112 Pa [135 dB(C) re. 20 µPa] (20 µPa referans alındığında 135 dB (C) olarak hesaplanan değer).\nb) En yüksek maruziyet eylem değerleri: (LEX, 8saat) = 85 dB(A) veya (Ptepe) = 140 Pa [137 dB(C) re. 20 µPa].\nc) Maruziyet sınır değerleri: (LEX, 8saat) = 87 dB(A) veya (Ptepe) = 200 Pa [140 dB(C) re. 20 µPa].\n(2) Maruziyet sınır değerleri uygulanırken, çalışanların maruziyetinin tespitinde, çalışanın kullandığı kişisel kulak koruyucu donanımların koruyucu etkisi de dikkate alınır.\n(3) Maruziyet eylem değerlerinde kulak koruyucularının etkisi dikkate alınmaz.\n\nMaruziyetin önlenmesi ve azaltılması\nMADDE 8 – (1) İşveren, risklerin kaynağında kontrol edilebilirliğini ve teknik gelişmeleri dikkate alarak, gürültüye maruziyetten kaynaklanan risklerin kaynağında yok edilmesini veya en aza indirilmesini sağlar ve 8, 9, 10 ve 11 inci maddelere göre hangi tedbirlerin alınacağını belirler.\n(2) İşveren, maruziyetin önlenmesi veya azaltılmasında, Kanunun 5 inci maddesinde yer alan risklerden korunma ilkelerine uyar ve özellikle;\na) Gürültüye maruziyetin daha az olduğu başka çalışma yöntemlerinin seçilmesi,\nb) Yapılan işe göre mümkün olan en düşük düzeyde gürültü yayan uygun iş ekipmanının seçilmesi,\nc) İşyerinin ve çalışılan yerlerin uygun şekilde tasarlanması ve düzenlenmesi,\nç) İş ekipmanını doğru ve güvenli bir şekilde kullanmaları için çalışanlara gerekli bilgi ve eğitimin verilmesi,\nd) Gürültünün teknik yollarla\n\nÇalışanların bilgilendirilmesi ve eğitimi\nMADDE 11 – (1) İşveren, işyerinde 5 inci maddede belirtilen en düşük maruziyet eylem değerlerine eşit veya bu değerlerin üzerindeki gürültüye maruz kalan çalışanların veya temsilcilerinin gürültü maruziyeti ile ilgili olarak ve özellikle;\na) Gürültüden kaynaklanabilecek riskler,\nb) Gürültüden kaynaklanabilecek riskleri önlemek veya en aza indirmek amacıyla alınan tedbirler ve bu tedbirlerin uygulanacağı şartlar,\nc) 5 inci maddede belirtilen maruziyet sınır değerleri ve maruziyet eylem değerleri,\nç) Gürültüden"
   },
   {
     "question_id": "q28",
@@ -583,7 +664,10 @@
     "suggested_gold_2": "eeaf9bff5ce5:article:19 (29.24)",
     "suggested_gold_3": "eeaf9bff5ce5:article:7 (25.76)",
     "suggested_top1_snippet": "Çalışanların eğitimi MADDE 17 – (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâli",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 15 ve Madde 17 ile İSG Eğitimleri Yönetmeliği Madde 6 uyarınca; iş kazası veya meslek hastalığı nedeniyle 45 gün raporlu kalan çalışana işe dönüşünde; (1) Çalışmaya ara verme süresi 6 ayı aşmadığı için temel eğitimin tamamının yenilenmesi gerekmese de iş kazası geçirdiği için kazanın nedenleri ve korunma yollarını içeren ilave eğitim verilmesi zorunludur, (2) İş kazası veya sağlık nedeniyle tekrarlanan işten uzaklaşmalarından sonra işe dönüşünde talep etmesi halinde ve işin devamında işe uygunluğunun tespiti için işyeri hekimi tarafından sağlık muayenesi yapılması gerekir.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 15; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 17; Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 6",
+    "supporting_passage": "Sağlık gözetimi\nMADDE 15 – (1) İşveren;\na) Çalışanların işyerinde maruz kalacakları sağlık ve güvenlik risklerini dikkate alarak sağlık gözetimine tabi tutulmalarını sağlar.\nb) Aşağıdaki hallerde çalışanların sağlık muayenelerinin yapılmasını sağlamak zorundadır:\n1) İşe girişlerinde.\n2) İş değişikliğinde.\n3) İş kazası, meslek hastalığı veya sağlık nedeniyle tekrarlanan işten uzaklaşmalarından sonra işe dönüşlerinde talep etmeleri hâlinde.\n4) İşin devamı süresince, çalışanın ve işin niteliği ile işyerinin tehlike sınıfına göre Bakanlıkça belirlenen düzenli aralıklarla.\n(2) Tehlikeli ve çok tehlikeli sınıfta yer alan işlerde çalışacaklar, yapacakları işe uygun olduklarını belirten sağlık raporu olmadan işe başlatılamaz.\n\nÇalışanların eğitimi\nMADDE 17 – (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni teknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan yeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla tekrarlanır.\n(2) Çalışan temsilcileri özel olarak eğitilir.\n(3) Mesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta yer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyenler çalıştırılamaz.\n(4) İş kazası geçiren veya meslek hastalığına yakalanan çalışana işe başlamadan önce, söz konusu kazanın veya meslek hastalığının sebepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim verilir. Ayrıca, herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar işe başlatılmadan önce bilgi yenileme eğitimi verilir.\n\nÇalışanların yükümlülükleri\nMADDE 6- (1) Çalışanların, iş sağlığı ve güvenliği eğitimleri ile ilgili yükümlülükleri şunlardır:\na) Uygulamaya konulan eğitim programları çerçevesinde iş sağlığı ve güvenliği eğitimlerine katılmak.\nb) Eğitimleri düzenli takip etmek.\nc) Eğitimlerin verimli olması için gereken dikkat ve özeni göstermek.\nç) İşveren tarafından uygulanan ölçme ve değerlendirmelere katılmak.\nd) Eğitimlerde edindiği bilgileri yaptığı iş ve işlemlerde uygulamak ve bu konudaki talimatlara uymak."
   },
   {
     "question_id": "q29",
@@ -729,7 +813,10 @@
     "suggested_gold_2": "e9f806d28502:article:17 (23.66)",
     "suggested_gold_3": "7655229a277b:annex:3 (19.65)",
     "suggested_top1_snippet": "b) İş sağlığı ve güvenliği hizmetleri ile ilgili olarak; 1) Çalışan sayısı ve tehlike sınıfı göz önünde bulundurularak hangi işyerlerinde işyeri sağlık ve güvenlik biriminin kurulacağı, bu birimlerin fiziki şartları ile",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Yapı İşlerinde İSG Yönetmeliği Ek-4 ve İş Ekipmanları Yönetmeliği uyarınca; cephe iskeleleri kurulmadan, kullanıma alınmadan önce, haftada en az bir kez, üzerinde değişiklik yapıldığında veya sismik sarsıntı/fırtına sonrasında uzman kişi tarafından kontrol edilmeli ve yapı iş defterine/kontrole kaydedilmelidir. Yüksekte çalışmalarda toplu koruma önlemlerine (korkuluk, güvenlik ağı) öncelik verilmeli, düşme riski devam ediyorsa çalışanlar yaşam hattına bağlı tam vücut emniyet kemeri kullanmalıdır.",
+    "gold_citation": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Ek-4; İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Madde 17",
+    "supporting_passage": "EK – 4\nYAPI ALANLARI İÇİN ASGARİ SAĞLIK VE GÜVENLİK ŞARTLARI\nBu ekte yer alan yükümlülükler, yapı alanının özelliğinin, yapılan iş ile tehlikelerinin ve çalışma şartlarının gerektirdiği durumlarda uygulanır. A) Yapı alanındaki çalışma yerleri için genel asgari şartlar\nYüksekte çalışma\n1– Seviye farkı bulunan ve düşme sonucu yaralanma ihtimalinin oluşabileceği her türlü alanda yapılan çalışma; yüksekte çalışma olarak kabul edilir. 2– Yüksekte yapılan çalışmalarda aşağıdaki hususlara uyulur:\na) Yüksekte yapılması zorunlu olmayan montaj ve benzeri çalışmaların mümkün olduğunca öncelikle yerde yapılması sağlanır. b) Yapılacak çalışmaların önceden planlanması ve organize edilmesi, bu planlama yapılırken yüksekten düşme ile ilgili hususlara acil durum planında yer verildiğinden emin olunması sağlanır. c) Çalışanların, çalışma yerlerine güvenli bir şekilde ulaşmaları uygun araç ve ekipmanlarla sağlanır.\n\nYürütme\nMADDE 17 – (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.\n____________\n(1) Bu değişiklik 25/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(2) Bu değişiklik 25/4/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(3) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Diğer Hususlar” iken metne işlendiği şekilde değiştirilmiştir.\n(4) Bu değişiklik 31/12/2022 tarihinde yürürlüğe girer.\n(5) Bu değişiklik 31/12/2023 tarihinde yürürlüğe girer."
   },
   {
     "question_id": "q30",
@@ -798,7 +885,10 @@
     "suggested_gold_2": "7002b35f317b:article:25 (17.30)",
     "suggested_gold_3": "a0330acd6b52:article:101 (16.84)",
     "suggested_top1_snippet": "Asbestle Çalışma 76– Asbest içermesi muhtemel yapıların söküm, yıkım, tamir ve bakım işlerinde aşağıdaki hususlara uyulur: a)Çalışmaya başlamadan önce, asbest içerebilecek malzemeleri belirlemek için bina veya tesis sahi",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Yapı İşlerinde İSG Yönetmeliği Ek-4 uyarınca yıkım ve söküm işlerine başlamadan önce yapı içinde asbest ve tehlikeli maddelerin varlığı araştırılır. Asbest bulunması halinde söküm işlemine başlamadan önce iş planı hazırlanarak Çalışma ve İş Kurumu İl Müdürlüğüne bildirim yapılır; çalışma planında asbestin türü ve miktarı, çalışanların korunması için alınacak önlemler, kullanılacak KKD'ler ve atıkların bertaraf prosedürü yer almalı ve yıkım uzman kişinin gözetiminde yürütülmelidir.",
+    "gold_citation": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Ek-4",
+    "supporting_passage": "EK – 4\nYAPI ALANLARI İÇİN ASGARİ SAĞLIK VE GÜVENLİK ŞARTLARI\nBu ekte yer alan yükümlülükler, yapı alanının özelliğinin, yapılan iş ile tehlikelerinin ve çalışma şartlarının gerektirdiği durumlarda uygulanır. A) Yapı alanındaki çalışma yerleri için genel asgari şartlar\nYüksekte çalışma\n1– Seviye farkı bulunan ve düşme sonucu yaralanma ihtimalinin oluşabileceği her türlü alanda yapılan çalışma; yüksekte çalışma olarak kabul edilir. 2– Yüksekte yapılan çalışmalarda aşağıdaki hususlara uyulur:\na) Yüksekte yapılması zorunlu olmayan montaj ve benzeri çalışmaların mümkün olduğunca öncelikle yerde yapılması sağlanır. b) Yapılacak çalışmaların önceden planlanması ve organize edilmesi, bu planlama yapılırken yüksekten düşme ile ilgili hususlara acil durum planında yer verildiğinden emin olunması sağlanır. c) Çalışanların, çalışma yerlerine güvenli bir şekilde ulaşmaları uygun araç ve ekipmanlarla sağlanır."
   },
   {
     "question_id": "q31",
@@ -815,7 +905,10 @@
     "suggested_gold_2": "0ae621d66d8b:article:5 (31.99)",
     "suggested_gold_3": "0ae621d66d8b:article:4 (29.89)",
     "suggested_top1_snippet": "İş ve işin yapıldığı yerin organizasyonu MADDE 6 – (1) İşveren, yükün elle taşınmasının kaçınılmaz olduğu durumlarda; a) İşin mümkün olduğu kadar sağlık ve güvenlik şartlarına uygun yapılabilmesi için işyerinde gerekli d",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Elle Taşıma İşleri Yönetmeliği Madde 5 ve 6 uyarınca işveren; öncelikle yüklerin elle taşınmasına gerek duyulmayacak şekilde iş organizasyonu yapmak ve mekanik sistemler (transpalet, forklift, konveyör) kullanmakla yükümlüdür. Elle taşımanın kaçınılmaz olduğu durumlarda Ek-1'deki risk faktörlerini değerlendirerek yük ağırlığını azaltmalı, kavrama kolaylığı sağlamalı, çalışma ortamını ve raf yüksekliklerini ergonomik düzenlemeli, çalışanlara doğru kaldırma teknikleri konusunda uygulamalı eğitim vermeli ve sağlık gözetimi yapmalıdır.",
+    "gold_citation": "Elle Taşıma İşleri Yönetmeliği, Madde 5; Elle Taşıma İşleri Yönetmeliği, Madde 6",
+    "supporting_passage": "Genel yükümlülük\nMADDE 5 – (1) İşveren;\na) İşyerinde yüklerin elle taşınmasına gerek duyulmayacak şekilde iş organizasyonu yapmak ve yükün uygun yöntemlerle, özellikle mekanik sistemler kullanılarak taşınmasını sağlamak için gerekli tedbirleri almakla yükümlüdür.\nb) Yükün elle taşınmasının kaçınılmaz olduğu durumlarda, ek-1`de yer alan hususları dikkate alarak elle taşımadan kaynaklanan riskleri azaltmak için uygun yöntemler kullanılmasını sağlar ve gerekli düzenlemeleri yapar.\n\nİş ve işin yapıldığı yerin organizasyonu\nMADDE 6 – (1) İşveren, yükün elle taşınmasının kaçınılmaz olduğu durumlarda;\na) İşin mümkün olduğu kadar sağlık ve güvenlik şartlarına uygun yapılabilmesi için işyerinde gerekli düzenlemeleri yapar.\nb) Yapılan işteki sağlık ve güvenlik koşullarını değerlendirirken ek-1`de yer alan hususları ve yüklerin özelliklerini de göz önünde bulundurur.\nc) Özellikle çalışanların sırt ve bel incinme risklerini önlemek veya azaltmak için, ek-1`de yer alan hususlar doğrultusunda çalışma ortamının özellikleri ve yapılan işin gereklerine uygun önlemleri alır."
   },
   {
     "question_id": "q32",
@@ -837,7 +930,10 @@
     "suggested_gold_2": "de9a7cd61751:annex:1 (25.16)",
     "suggested_gold_3": "de9a7cd61751:article:9 (21.83)",
     "suggested_top1_snippet": "Ara dinlenmesi Madde 68 - Günlük çalışma süresinin ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanmak suretiyle işçilere; a) Dört saat veya daha kısa süreli işlerde onbeş dakika, b) Dört saatten",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik Madde 5, 9 ve Ek-1 uyarınca işveren; yansıma ve parlamaları önleyen yükseklik/eğim ayarlı ekran, ekrandan ayrı ve mat yüzeyli klavye, yeterli diz mesafesi olan çalışma masası ile yüksekliği ve sırt eğimi ayarlanabilir, 5 tekerlekli, kol dayama destekli ergonomik sandalye sağlamalıdır. Uzun süreli ekranlı çalışmalarda göz yorgunluğunu ve kas-iskelet ağrılarını azaltmak için uygun ara dinlenmeleri verilmeli veya iş değişimi yapılmalı; işe girişte ve periyodik olarak göz muayeneleri yaptırılmalıdır.",
+    "gold_citation": "Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 5; Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 9; Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Ek-1",
+    "supporting_passage": "İşverenin yükümlülükleri\nMADDE 5 – (1) İşveren, işyerinde gerçekleştireceği risk değerlendirmesinde; çalışma merkezlerinde ekranlı araçların kullanımından kaynaklanan riskleri, özellikle görme, fiziksel sorunlar ve mental stresle ilgili riskleri de dikkate alarak, bu risklerin etkileri, yol açabileceği ilave etkiler ile risklerin bir arada olmasından kaynaklanabilecek olumsuz etkilerin ortadan kaldırılması veya en aza indirilmesi için her türlü sağlık ve güvenlik önlemlerini alır.\n(2) Bu Yönetmelik kapsamında alınacak önlemlerin maliyeti çalışanlara yansıtılamaz.\n(3) Ekranlı araçlarla çalışmalarda aranacak asgari gerekler ek-1’de yer almaktadır.\n\nGözlerin korunması\nMADDE 9 – (1) İşyerinde, ekranlı araçlarla çalışmaya başlamadan önce ve ekranlı araçlarla çalışmadan kaynaklanabilecek görme zorlukları yaşandığında çalışanların göz muayeneleri yapılır.\n(2) Ekranlı araçlarla çalışmalarda operatörlerin gözlerinin korunması için;\na) Ekranlı araçlarla çalışmaya başlamadan önce,\nb) Yapılan risk değerlendirmesi sonuçlarına göre işyeri hekimince belirlenecek düzenli aralıklarla,\nc) Ekranlı araçlarla çalışmadan kaynaklanabilecek görme zorlukları yaşandığında,\ngöz muayeneleri yapılır.\n(3) Birinci ve ikinci fıkrada belirtilen muayene sonuçlarına göre gerekiyorsa operatörlere/çalışanlara yaptıkları işe uygun araç ve gereç verilir.\n\nEk– 1\nEKRANLI ARAÇLARLA ÇALIŞMALARDA ARANACAK ASGARİ GEREKLER\n1. Ekipman\na) Genel hususlar\nBu tür ekipmanların kullanımı çalışanlar için risk kaynağı olmamalıdır. b) Monitör\nEkran, operatörün/çalışanın çalışma pozisyonuna uygun mesafede ve göz hizasında olmalıdır. Ekranda görünen karakterler, kolayca seçilir şekil ve formda, uygun büyüklükte olmalı, satır ve karakterler arasında yeterli boşluk bulunmalıdır. Ekran görüntüsü stabil olmalı, görüntü titrememeli ve benzeri olumsuzluklar bulunmamalıdır. Parlaklık ve karakterler ile arka plan arasındaki kontrast, operatör/çalışan tarafından kolaylıkla ayarlanabilmelidir. Ekran, operatörün/çalışanın ihtiyacına göre kolaylıkla her yöne döndürülerek ayarlanabilir olmalıdır. Ekran, ayrı bir kaide veya ayarlanabilir bir masa üzerinde kullanılabilir olmalıdır. Ekranda kullanıcıyı rahatsız edebilecek yansıma ve parlamalar olmamalıdır."
   },
   {
     "question_id": "q33",
@@ -895,7 +991,10 @@
     "suggested_gold_2": "7655229a277b:annex:3 (37.62)",
     "suggested_gold_3": "7655229a277b:temporary_article:3 (19.49)",
     "suggested_top1_snippet": "EK MADDE 1 – (Ek:RG-24/9/2014-29129) (1)  (Değişik:RG-10/3/2015-29291) (3) (1) İşveren; yeraltı kömür madenlerinde faaliyet alanının herhangi bir yerinde iş sağlığı ve güvenliğini etkileyecek olayın (göçük, gaz ve toz pa",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Maden İşyerlerinde İSG Yönetmeliği Ek Madde 1 ve Ek-3 uyarınca; yeraltı kömür madenlerinde tüm çalışanlara oksijen ferdi kurtarıcı maske verilmeli ve yedek istasyonlar kurulmalıdır. Tüm yeraltı çalışma alanlarını çıkışa bağlayan, yanmaya/kopmaya dayanıklı ve reflektörlü/konik işaretli kesintisiz hayat hattı tesis edilmelidir. Ayrıca ocak büyüklüğü ve tahliye mesafesine göre temiz hava, su, iletişim ve ilk yardım donanımına sahip sığınma odaları veya ferdi kurtarıcı değişim istasyonları kurulmalıdır.",
+    "gold_citation": "Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Ek Madde 1; Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Ek-3",
+    "supporting_passage": "EK MADDE 1 – (Ek:RG-24/9/2014-29129) (1)  (Değişik:RG-10/3/2015-29291) (3)\n(1) İşveren; yeraltı kömür madenlerinde faaliyet alanının herhangi bir yerinde iş sağlığı ve güvenliğini etkileyecek olayın (göçük, gaz ve toz patlaması, zehirli veya boğucu gaz intişarı ve benzeri) meydana gelmesi durumunda tüm çalışanların acil durum planında belirtilen kaçış güzergâhlarına uygun olarak sağlıklı ve güvenli bir şekilde yer üstüne intikalini sağlamak için;\na) Faaliyet alanları ile yeryüzüne çıkış ağzı arasında oksijenli ferdi kurtarıcı değişim (Mülga ibare:RG-24/3/2016-29663) (...) istasyonları kurmak zorundadır. Bu iki nokta arasında oksijenli ferdi kurtarıcı değişim (Mülga ibare:RG-24/3/2016-29663) (...) istasyonu kurulup kurulmayacağına, kurulacaksa hangi mesafeler arasında olacağına aşağıda belirtilen Tablo-1 ve Tablo-2’deki şartlar çerçevesinde tercih edilen oksijenli ferdi kurtarıcıların özellikleri dikkate alınarak karar verir.\n\nEK- 3\nYERALTI MADEN İŞLERİNİN YAPILDIĞI İŞYERLERİNDE UYGULANACAK\nASGARİ ÖZEL HÜKÜMLER\n1. Yeraltı çalışma planları (imalat haritası)\n1.1. Yeraltı çalışmalarını açıkça gösterecek (Değişik ibare:RG-10/3/2015-29291) şeklinde üç boyutlu bir yeraltı çalışma planı hazırlanır. Yollar, üretim alanları ile çalışmayı ve güvenliği etkileyebileceği beklenen diğer özellikler bu planın üzerinde gösterilir ve bu planlar kolayca ulaşılabilir şekilde muhafaza edilir. Planlar sağlık ve güvenlik yönünden gerekli olduğu sürece saklanır. (Ek cümle:RG-10/3/2015-29291) Ayrıca bu plan ölçekli olarak elektronik ortamda da üç boyutlu olarak hazırlanır. 1.2. Yeraltı çalışma planları en geç ayda bir güncelleştirilir ve işyerinde bulundurulur. 1.3. Eski çalışma yerleri, ocak içinde veya çevresinde su bulunması muhtemel tabakalar, faylar ve su kaynakları gibi doğal ve arızi su birikintilerinin durumu, genişliği ve derinliğiyle ilgili bütün bilgiler, ayrıntılı olarak imalat haritalarına işlenir. 2."
   },
   {
     "question_id": "q34",
@@ -926,7 +1025,10 @@
     "suggested_gold_2": "569f2ec68e96:article:9 (20.86)",
     "suggested_gold_3": "872473eead50:article:5 (18.95)",
     "suggested_top1_snippet": "g) İkame yöntemi uygulanarak, tehlikeli kimyasal madde yerine çalışanların sağlık ve güvenliği yönünden tehlikesiz veya daha az tehlikeli olan kimyasal madde kullanılır. Yapılan işin özelliği nedeniyle ikame yöntemi kull",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik Madde 6, 7 ve 12 uyarınca; tüm tehlikeli kimyasalların Türkçe Güvenlik Bilgi Formları (GBF/MSDS) tedarik edilerek çalışanların erişimine sunulmalıdır. Öncelikle tehlikeli kimyasalın daha az tehlikeli olanla değiştirilmesi (ikame) uygulanmalı; mümkün değilse kapalı sistem ve lokal/genel havalandırma kurulmalı, ortam ölçümleri yapılmalı, uygun KKD verilmeli ve çalışanların periyodik sağlık gözetimleri ile maruziyet kayıtları düzenli tutulmalıdır.",
+    "gold_citation": "Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 6; Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 7; Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 12",
+    "supporting_passage": "Risk değerlendirmesi\nMADDE 6 – (1) İşveren, işyerinde tehlikeli kimyasal madde bulunup bulunmadığını tespit etmek ve tehlikeli kimyasal madde bulunması halinde, çalışanların sağlık ve güvenliği yönünden olumsuz etkilerini belirlemek üzere, 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği hükümlerine uygun şekilde risk değerlendirmesi yapmakla yükümlüdür.\n\nTehlikeli kimyasal maddelerle çalışmalarda alınması gereken önlemler\nMADDE 7 – (1) Tehlikeli kimyasal maddelerle çalışmalarda çalışanların sağlık ve güvenliği yönünden riskler aşağıdaki önlemlerle ortadan kaldırılır veya en az düzeye indirilir:\na) İşyerinde uygun düzenleme ve iş organizasyonu yapılır. b) Tehlikeli kimyasal maddelerle çalışmalar, en az sayıda çalışan ile yapılır. c) Çalışanların maruz kalacakları madde miktarlarının ve maruziyet sürelerinin mümkün olan en az düzeyde olması sağlanır. ç) İşyerinde kullanılması gereken kimyasal madde miktarı en az düzeyde tutulur. d) İşyeri bina ve eklentileri her zaman düzenli ve temiz tutulur. e) Çalışanların kişisel temizlikleri için uygun ve yeterli şartlar sağlanır. f) Tehlikeli kimyasal maddelerin, atık ve artıkların işyerinde en uygun şekilde işlenmesi, kullanılması, taşınması ve depolanması için gerekli düzenlemeler yapılır.\n\nSağlık gözetimi\nMADDE 12 – (1) 6331 sayılı Kanunun 15 inci maddesi uyarınca;\na) Yapılan risk değerlendirmesi sonucunda sağlık yönünden risk altında olduğu saptanan çalışanlar uygun sağlık gözetimine tabi tutulur. b) İşyerinde koruyucu önlemlerin alınmasında sağlık gözetimi sonuçları dikkate alınır ve bu gözetimler özellikle;\n1) Belirli bir hastalık veya sağlık yönünden olumsuz bir etkilenmeye neden olduğu bilinen tehlikeli kimyasal maddeye maruziyetin söz konusu olduğu,\n2) Çalışanların özel çalışma şartlarında hastalık veya etkilenmenin ortaya çıkma olasılığının bulunduğu,\n3) Çalışanlar üzerinde yapılacak tetkiklerin oluşturduğu riskin kabul edilebilir düzeyde olduğu,\ndurumlarda yapılır. c) Bu gözetimler, hastalık ve etkilenmeyi tespit edecek geçerli tekniklerin bulunduğu durumlarda yapılır. ç) Ek-2’de belirtilen biyolojik sınır değeri bulunan tehlikeli kimyasal maddelerle çalışmalarda, aynı ek’teki prosedüre uygun sağlık gözetimi yapılır."
   },
   {
     "question_id": "q35",
@@ -952,7 +1054,10 @@
     "suggested_gold_2": "5c5255eb260d:article:11 (25.47)",
     "suggested_gold_3": "672c4073d152:article:11 (23.12)",
     "suggested_top1_snippet": "İşverenin sağlık ve güvenlik kayıtları ve onaylı deftere ilişkin yükümlülükleri MADDE 7 – (1) İşveren ilgili mevzuatta belirlenen süreler saklı kalmak kaydıyla; a) İşyerinde yürütülen iş sağlığı ve güvenliği faaliyetleri",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 8/2 ve İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik Madde 11/3 uyarınca; iş güvenliği uzmanı, işverene yazılı olarak (onaylı defterle) bildirdiği tedbirlerden acil durdurma gerektiren haller ile yangın, patlama, göçme, kimyasal sızıntı gibi hayati tehlike arz edenlerin makul bir süre içinde işveren tarafından yerine getirilmemesi hâlinde, durumu işyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlüğüne yazılı olarak bildirmekle yükümlüdür.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 8; İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği, Madde 7; İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 11",
+    "supporting_passage": "İşyeri hekimleri ve iş güvenliği uzmanları\nMADDE 8 – (1) İşyeri hekimi ve iş güvenliği uzmanlarının hak ve yetkileri, görevlerini yerine getirmeleri nedeniyle kısıtlanamaz. Bu kişiler, görevlerini mesleğin gerektirdiği etik ilkeler ve mesleki bağımsızlık içerisinde yürütür.\n(2) (Değişik: 4/4/2015-6645/1 md.) İşverene iş sağlığı ve güvenliği ile ilgili konularda rehberlik ve danışmanlık yapmak üzere görevlendirilen işyeri hekimi ve iş güvenliği uzmanı, görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde bulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve tavsiyeleri belirler ve işverene yazılı olarak bildirir. Eksiklik ve aksaklıkların düzeltilmesinden, tedbir ve tavsiyelerin yerine getirilmesinden işveren sorumludur.\n\nİşverenin sağlık ve güvenlik kayıtları ve onaylı deftere ilişkin yükümlülükleri\nMADDE 7 – (1) İşveren ilgili mevzuatta belirlenen süreler saklı kalmak kaydıyla;\na) İşyerinde yürütülen iş sağlığı ve güvenliği faaliyetlerine ilişkin her türlü kaydı,\nb) İşten ayrılma tarihinden itibaren en az 15 yıl süreyle çalışanların kişisel sağlık dosyalarını,\nsaklar.\n(2) Çalışanın işyerinden ayrılarak başka bir işyerinde çalışmaya başlaması halinde, yeni işveren çalışanın kişisel sağlık dosyasını yazılı olarak talep eder, önceki işveren dosyanın bir örneğini onaylayarak bir ay içerisinde gönderir.\n(3) Onaylı defter işyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlükleri (Mülga ibare:RG-18/12/2014-29209) (…)veya noterce her sayfası mühürlenmek suretiyle onaylanır.\n(4) Onaylı defter yapılan tespitlere göre iş güvenliği uzmanı, işyeri hekimi ile işveren tarafından birlikte veya ayrı ayrı imzalanır. Onaylı deftere yazılan tespit ve öneriler işverene tebliğ edilmiş sayılır.\n\nİş güvenliği uzmanlarının yükümlülükleri\nMADDE 11 – (1) İş güvenliği uzmanları, bu Yönetmelikte belirtilen görevlerini yaparken, işin normal akışını mümkün olduğu kadar aksatmamak ve verimli bir çalışma ortamının sağlanmasına katkıda bulunmak, işverenin ve işyerinin meslek sırları, ekonomik ve ticari durumları ile ilgili bilgileri gizli tutmakla yükümlüdürler.\n(2) İş güvenliği uzmanları, iş sağlığı ve güvenliği hizmetlerinin yürütülmesindeki ihmallerinden dolayı, hizmet sundukları işverene karşı sorumludur.\n(3) (Değişik:RG-30/4/2015-29342) İş güvenliği uzmanı, işverene yazılı olarak bildirilen iş sağlığı ve güvenliğiyle ilgili alınması gereken tedbirlerden acil durdurma gerektiren haller ile yangın, patlama, göçme, kimyasal sızıntı gibi hayati tehlike arz edenleri, belirlenecek makul bir süre içinde işveren tarafından yerine getirilmemesi hâlinde, işyerinin bağlı bulunduğu çalışma ve iş kurumu il müdürlüğüne yazılı olarak bildirmekle yükümlüdürler."
   },
   {
     "question_id": "q36",
@@ -972,7 +1077,10 @@
     "suggested_gold_2": "7002b35f317b:article:13 (27.55)",
     "suggested_gold_3": "fad54922e43a:article:14 (25.18)",
     "suggested_top1_snippet": "İş kazası ve meslek hastalığı halinde durum, kendilerince veya işverenlerince kolluk kuvvetlerine derhal, Kuruma da en geç üç iş günü içinde bildirilir. Bu madde kapsamındaki sigortalılar, 82 nci maddeye göre belirlenen",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "5510 sayılı Kanun Madde 13/1-e uyarınca sigortalıların işverence sağlanan bir taşıtla (servis aracıyla) işin yapıldığı yere gidiş-gelişi sırasında meydana gelen kazalar iş kazası sayılır. 6331 sayılı Kanun Madde 14 ve 5510 sayılı Kanun Madde 13 uyarınca işveren, bu iş kazasını derhal o yer yetkili kolluk kuvvetlerine (polis/jandarma) ve kazadan sonraki en geç 3 iş günü içinde Sosyal Güvenlik Kurumu'na (SGK) bildirmek zorundadır.",
+    "gold_citation": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Madde 13; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 14",
+    "supporting_passage": "İş kazasının tanımı, bildirilmesi ve soruşturulması\nMADDE 13- İş kazası;\na) Sigortalının işyerinde bulunduğu sırada,\nb) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan iş nedeniyle sigortalı kendi adına ve hesabına bağımsız çalışıyorsa yürütmekte olduğu iş nedeniyle,\nc) Bir işverene bağlı olarak çalışan sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,\nd) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt vermek için ayrılan zamanlarda,\ne) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,\nmeydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle getiren olaydır.\n\nİş kazası ve meslek hastalıklarının kayıt ve bildirimi\nMADDE 14 – (1) İşveren;\na) Bütün iş kazalarının ve meslek hastalıklarının kaydını tutar, gerekli incelemeleri yaparak bunlar ile ilgili raporları düzenler.\nb) İşyerinde meydana gelen ancak yaralanma veya ölüme neden olmadığı halde işyeri ya da iş ekipmanının zarara uğramasına yol açan veya çalışan, işyeri ya da iş ekipmanını zarara uğratma potansiyeli olan olayları inceleyerek bunlar ile ilgili raporları düzenler.\n(2) İşveren, aşağıdaki hallerde belirtilen sürede Sosyal Güvenlik Kurumuna bildirimde bulunur:\na) İş kazalarını kazadan sonraki üç iş günü içinde.\nb) Sağlık hizmeti sunucuları veya işyeri hekimi tarafından kendisine bildirilen meslek hastalıklarını, öğrendiği tarihten itibaren üç iş günü içinde.\n(3) İşyeri hekimi veya sağlık hizmeti sunucuları; meslek hastalığı ön tanısı koydukları vakaları, Sosyal Güvenlik Kurumu tarafından yetkilendirilen sağlık hizmeti sunucularına sevk eder."
   },
   {
     "question_id": "q37",
@@ -986,7 +1094,10 @@
     "suggested_gold_2": "569f2ec68e96:article:15 (27.29)",
     "suggested_gold_3": "569f2ec68e96:article:4 (26.27)",
     "suggested_top1_snippet": "Asbestle Çalışma 76– Asbest içermesi muhtemel yapıların söküm, yıkım, tamir ve bakım işlerinde aşağıdaki hususlara uyulur: a)Çalışmaya başlamadan önce, asbest içerebilecek malzemeleri belirlemek için bina veya tesis sahi",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Bu soru 'Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik' kapsamındadır ve 20 belgelik mevcut korpusumuzda yer almamaktadır (Korpusta yer almayan mevzuat — Genel mevzuat bilgisi: Asbest için 8 saatlik zaman ağırlıklı ortalama sınır değer TWA = 0,1 lif/cm³'tür ve sağlık/maruziyet kayıtları maruziyetin sona ermesinden itibaren en az 40 yıl süreyle saklanır).",
+    "gold_citation": "Korpusta yer almayan mevzuat (20 belge kapsamı dışı)",
+    "supporting_passage": ""
   },
   {
     "question_id": "q38",
@@ -1005,7 +1116,10 @@
     "suggested_gold_2": "569f2ec68e96:article:6 (43.83)",
     "suggested_gold_3": "6b0f0b8672ef:article:5 (40.54)",
     "suggested_top1_snippet": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını, b) Biyolojik sınır değeri: Kimyasal maddenin ve metabolitinin uygun biyolojik ortamdaki konsantrasyonunun ve etki göstergesinin üst sınırını",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik Madde 4 uyarınca; (1) Mesleki maruziyet sınır değeri: Başka şekilde belirtilmedikçe, 8 saatlik sürede, çalışanların solunum bölgesindeki havada bulunan kimyasal madde konsantrasyonunun zaman ağırlıklı ortalamasının üst sınırını (TWA) veya 15 dakikalık kısa süreli maruziyet üst sınırını (STEL) ifade eder. (2) Biyolojik sınır değeri: Kimyasal maddenin, metabolitinin veya etkisini belirleyecek bir maddenin uygun biyolojik ortamdaki konsantrasyonunun üst sınırını ifade eder.",
+    "gold_citation": "Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 4",
+    "supporting_passage": "Tanımlar\nMADDE 4 – (Değişik:RG-20/10/2023-32345)"
   },
   {
     "question_id": "q39",
@@ -1023,7 +1137,10 @@
     "suggested_gold_2": "bba00c499372:article:9 (34.39)",
     "suggested_gold_3": "081cdbc5a663:article:7 (34.13)",
     "suggested_top1_snippet": "c) Kişisel koruyucu donanımların kullanım şartları ve özellikle kullanılma süreleri; riskin derecesi, maruziyet sıklığı, her bir çalışanın iş yaptığı yerin özellikleri ve kişisel koruyucu donanımın performansı dikkate al",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmelik Madde 6 uyarınca; işyerinde kullanılan KKD'ler Kişisel Koruyucu Donanım Yönetmeliği'ne uygun tasarlanmalı ve üzerinde CE işareti ile Türkçe kullanım kılavuzu bulunmalıdır. KKD'ler riskin kendisine ek risk oluşturmadan uygun olmalı, çalışanın ergonomik gereksinimlerine ve sağlık durumuna uymalı, işveren tarafından çalışanlara hiçbir maliyet yansıtılmadan ücretsiz temin edilmeli, hijyenik şartlarda muhafaza edilmeli ve bakımı/değişimi ücretsiz yapılmalıdır.",
+    "gold_citation": "Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmelik, Madde 6",
+    "supporting_passage": "Genel hükümler\nMADDE 6 – (1) Kişisel koruyucu donanımların işyerlerinde kullanımı ile ilgili olarak aşağıdaki hususlara uyulur;\na) İşyerinde kullanılan kişisel koruyucu donanım, Kişisel Koruyucu Donanım Yönetmeliği hükümlerine uygun olarak tasarlanır ve üretilir. Tüm kişisel koruyucu donanımlar;\n1) Kendisi ek risk oluşturmadan ilgili riski önlemeye uygun olur. 2) İşyerinde var olan koşullara uygun olur. 3) Kullananın ergonomik gereksinimlerine ve sağlık durumuna uygun olur. 4) Gerekli ayarlamalar yapıldığında kullanana tam uyar. 5) Kişisel Koruyucu Donanım Yönetmeliği kapsamına giren ürünlerde uygun şekilde CE işareti ve Türkçe kullanım kılavuzu bulundurur. b) Birden fazla riskin bulunduğu ve çalışanın bu risklere karşı aynı anda birden fazla kişisel koruyucu donanımı kullanmasını gerektiren durumlarda, bir arada kullanılmaya uygun olan ve bir arada kullanıldığında söz konusu risklere karşı koruyuculuğu etkilenmeyen kişisel koruyucu donanımlar seçilir."
   },
   {
     "question_id": "q40",
@@ -1039,7 +1156,10 @@
     "suggested_gold_2": "de9a7cd61751:article:10 (38.75)",
     "suggested_gold_3": "de9a7cd61751:article:1 (26.51)",
     "suggested_top1_snippet": "Kapsam MADDE 2 – (1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına giren ve ekranlı araçlarla çalışmaların yapıldığı tüm işyerlerini kapsar. (2) Bu Yönetmelik hükümleri; a) Hare",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik Madde 2/2 uyarınca bu Yönetmelik hükümleri; (a) Hareketli makine ve araçların kumanda kabinlerinde ve sürücü mahallerinde, (b) Taşıma araçlarında bilgisayar sistemlerinin kullanıldığı durumlarda, (c) Toplumun kullanıma açık bilgisayar sistemlerinde, (ç) İşyerinde kullanımı sürekli olmayan seyyar sistemlerde, (d) Hesap makineleri, yazar kasalar ve benzeri veri veya ölçüm sonuçlarını gösteren küçük ekranlı cihazlarda, (e) Ekranlı daktilolarda uygulanmaz.",
+    "gold_citation": "Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, Madde 2",
+    "supporting_passage": "Kapsam\nMADDE 2 – (1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına giren ve ekranlı araçlarla çalışmaların yapıldığı tüm işyerlerini kapsar.\n(2) Bu Yönetmelik hükümleri;\na) Hareketli makine ve araçların kumanda kabinlerinde ve sürücü mahallinde,\nb) Taşıma araçlarında aracın kumandasındaki bilgisayar sistemlerinde,\nc) Toplumun kullanımına açık bilgisayar sistemlerinde,\nç) İşyerinde kullanımı sürekli olmayan taşınabilir sistemlerde,\nd) Hesap makineleri, yazar kasa ve benzeri veri veya ölçüm sonuçlarını gösteren küçük ekranlı cihazlarda,\ne) Ekranlı daktilolarda,\nuygulanmaz."
   },
   {
     "question_id": "q41",
@@ -1057,7 +1177,10 @@
     "suggested_gold_2": "0ae621d66d8b:article:7 (50.98)",
     "suggested_gold_3": "0ae621d66d8b:article:1 (42.55)",
     "suggested_top1_snippet": "Ek-1 YÜKLE İLGİLİ RİSK FAKTÖRLERİ 1. Yükün özellikleri Yük; - Çok ağır veya çok büyükse, - Kaba veya kavranılması zorsa, - Dengesiz veya içindekiler yer değiştiriyorsa, - Vücuttan uzakta tutulmasını veya vücudun eğilmesi",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Elle Taşıma İşleri Yönetmeliği Ek-1 ve Ek-2 uyarınca; (1) Yükle ilgili risk faktörleri: Yükün çok ağır veya çok büyük olması, kaba veya kavranılmasının zor olması, dengesiz olması veya içindekilerin yer değiştirmesi, vücuttan uzakta tutulmasını veya gövdenin eğilip bükülmesini gerektirmesi, çarpma halinde yaralanmaya neden olabilecek dış görünümde olmasıdır. (2) Bireysel risk faktörleri: Çalışanın yapılacak işi yürütmeye fiziki yapısının uygun olmaması, uygun olmayan giysi, ayakkabı veya diğer kişisel eşyalar kullanması, yeterli ve uygun bilgi ve eğitime sahip olmamasıdır.",
+    "gold_citation": "Elle Taşıma İşleri Yönetmeliği, Ek-1; Elle Taşıma İşleri Yönetmeliği, Ek-2",
+    "supporting_passage": "Ek-1\nYÜKLE İLGİLİ RİSK FAKTÖRLERİ\n1. Yükün özellikleri\nYük;\n- Çok ağır veya çok büyükse,\n- Kaba veya kavranılması zorsa,\n- Dengesiz veya içindekiler yer değiştiriyorsa,\n- Vücuttan uzakta tutulmasını veya vücudun eğilmesini veya bükülmesini gerektiren bir konumdaysa,\n- Özellikle bir çarpma halinde yaralanmaya neden olabilecek yoğunluk ve şekildeyse,\nelle taşınması, bilhassa sırt ve bel incinmesi riskine neden olabilir. 2. Fiziksel güç gereksinimi\nİş;\n- Çok yorucu ise,\n- Sadece vücudun bükülmesi ile yapılabiliyorsa,\n- Yükün ani hareketi ile sonuçlanıyorsa,\n- Vücut dengesiz bir pozisyonda iken yapılıyorsa,\nbedenen çalışma şekli ve harcanan güç, bilhassa sırt ve bel incinmesi riskine neden olabilir. 3.\n\nEk-2\nBİREYSEL RİSK FAKTÖRLERİ\nÇalışanlar;\n- Yapılacak işi yürütmeye fiziki yapılarının uygun olmaması,\n- Uygun olmayan giysi, ayakkabı veya diğer kişisel eşyaları kullanmaları,\n- Yeterli ve uygun bilgi ve eğitime sahip olmamaları,\ndurumunda risk altında olabilirler."
   },
   {
     "question_id": "q42",
@@ -1076,7 +1199,10 @@
     "suggested_gold_2": "44c7f586ce82:article:15 (31.82)",
     "suggested_gold_3": "44c7f586ce82:article:4 (31.71)",
     "suggested_top1_snippet": "Sağlık ve güvenlik koordinatörlerinin görevlendirilmesi, sağlık ve güvenlik planı ve bildirim MADDE 8 – (1) Aynı yapı alanında birden fazla işveren veya alt işverenin bulunması durumunda, işveren veya proje sorumlusu, sa",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Yapı İşlerinde İSG Yönetmeliği Madde 8, 9 ve 10 uyarınca; aynı yapı alanında birden fazla işveren veya alt işverenin bulunması durumunda işveren veya proje sorumlusu, proje hazırlık aşamasında 'hazırlık koordinatörü' ve uygulama aşamasında 'uygulama koordinatörü' görevlendirir. Sağlık ve güvenlik planı, yapı alanına ilişkin İSG kurallarını ve özel tedbirleri belirleyen, işe başlamadan önce hazırlanan plandır.",
+    "gold_citation": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 8; Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 9; Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 10",
+    "supporting_passage": "Sağlık ve güvenlik koordinatörlerinin görevlendirilmesi, sağlık ve güvenlik planı ve bildirim\nMADDE 8 – (1) Aynı yapı alanında birden fazla işveren veya alt işverenin bulunması durumunda, işveren veya proje sorumlusu, sağlık ve güvenlik konularında bir veya daha fazla sağlık ve güvenlik koordinatörü görevlendirir.\n(2) İşveren veya proje sorumlusu, yapı işine başlamadan önce projenin hazırlık aşamasında, sağlık ve güvenlik planını hazırlar veya hazırlanmasını sağlar.\n(3) Yapı işinde dördüncü fıkrada belirtilen bildirim gerektiren işler haricinde ve Ek-2’deki listede belirtilen riskleri içeren çalışmaların bulunmaması halinde sağlık ve güvenlik koordinatörü görevlendirilmeyebilir.\n\nProje hazırlık aşamasında genel prensipler\nMADDE 9 – (1) İşveren veya proje sorumlusu, projenin tasarımının yapılması ve hazırlanmasının çeşitli aşamalarında, özellikle de aşağıda belirtilen durumlarda,\nKanunun 5 inci maddesinde belirtilen risklerden korunma ilkelerini göz önünde bulundurur:\na) Yapı işinin, aynı anda veya birbiri ardına gerçekleşen farklı unsur ve aşamalarını planlamak amacıyla mimari, teknik ve organizasyonel konulara ilişkin karar alırken,\nb) İşin ya da iş aşamalarının tamamlanması için ilgili meslek disiplinindeki kriterler de dikkate alınarak gereken süreyi hesaplarken.\n(2) Birinci fıkranın (b) bendine göre süre hesaplanırken, gerekli hallerde sağlık ve güvenlik planları ile sağlık ve güvenlik dosyaları da dikkate alınır.\n\nSağlık ve güvenlik koordinatörlerinin proje hazırlık aşamasındaki görevleri\nMADDE 10 – (1) Sağlık ve güvenlik koordinatörleri proje hazırlık aşamasında;\na) Bu Yönetmeliğin 9 uncu maddesindeki yükümlülüklerin yerine getirilmesini koordine eder.\nb) Sağlık ve güvenlik planını hazırlar veya hazırlanmasını sağlar. Yapı alanında Ek-2’de belirtilen işler yapılıyorsa, bu işlerle ilgili özel tedbirlerin planda yer almasını sağlar.\nc) Proje süresince, birbirini takip eden veya daha sonra yapılacak işler sırasında dikkate alınmak üzere sağlık ve güvenlik bilgilerini içeren sağlık ve güvenlik dosyası hazırlar. Aynı dosyanın proje tamamlandıktan sonra temizlik, bakım, tadilat, yenileme, yıkım işleri gibi her türlü yapı işinin güvenli bir şekilde yerine getirilmesi için ihtiyaç duyulan bilgileri de içermesi sağlanır."
   },
   {
     "question_id": "q43",
@@ -1093,7 +1219,10 @@
     "suggested_gold_2": "44c7f586ce82:article:1 (33.15)",
     "suggested_gold_3": "a0330acd6b52:article:29 (29.80)",
     "suggested_top1_snippet": "(4) İşveren veya proje sorumlusu; 1) Yapı işinin 30 işgününden fazla süreceği ve devamlı olarak 20’den fazla çalışan istihdam edileceği, 2) İşin büyüklüğü 500 yevmiyeden fazla çalışma gerektireceği, durumlarda yapı işine",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Yapı İşlerinde İSG Yönetmeliği Madde 8/4 uyarınca; yapı işinin 30 iş gününden fazla süreceği ve devamlı olarak 20'den fazla çalışanın istihdam edileceği ya da işin büyüklüğünün 500 yevmiyeden fazla çalışma gerektireceği durumlarda, yapı işine başlamadan önce Çalışma ve İş Kurumu İl Müdürlüğüne yapı işi bildirimi yapılması zorunludur.",
+    "gold_citation": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 8",
+    "supporting_passage": "Sağlık ve güvenlik koordinatörlerinin görevlendirilmesi, sağlık ve güvenlik planı ve bildirim\nMADDE 8 – (1) Aynı yapı alanında birden fazla işveren veya alt işverenin bulunması durumunda, işveren veya proje sorumlusu, sağlık ve güvenlik konularında bir veya daha fazla sağlık ve güvenlik koordinatörü görevlendirir.\n(2) İşveren veya proje sorumlusu, yapı işine başlamadan önce projenin hazırlık aşamasında, sağlık ve güvenlik planını hazırlar veya hazırlanmasını sağlar.\n(3) Yapı işinde dördüncü fıkrada belirtilen bildirim gerektiren işler haricinde ve Ek-2’deki listede belirtilen riskleri içeren çalışmaların bulunmaması halinde sağlık ve güvenlik koordinatörü görevlendirilmeyebilir."
   },
   {
     "question_id": "q44",
@@ -1112,7 +1241,10 @@
     "suggested_gold_2": "fad54922e43a:article:8 (24.81)",
     "suggested_gold_3": "fad54922e43a:article:30 (24.51)",
     "suggested_top1_snippet": "Temel eğitimin konuları MADDE 9- (1) Temel eğitim, Ek-1’de yer alan konuları asgari olarak içerir. (2) Eğitim konularının içeriği; katılımcıların eğitim seviyelerine uygun, çalışanların görev yaptıkları alandaki iş ve ça",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Maden İşyerlerinde İSG Yönetmeliği Madde 5 ve 6 uyarınca; Sağlık ve güvenlik dokümanı, maden işyerlerinde çalışanların maruz kaldığı tehlikeleri, risk değerlendirmesini ve çalışma yerleri ile ekipmanların güvenli tasarım/kullanım şartlarını gösteren dokümandır. Çalışmaya başlanmadan önce hazırlanır ve işyerinde önemli değişiklikler, ilaveler veya dönüşümler yapıldığında ya da iş kazası/ramak kala olay sonrasında revize edilir.",
+    "gold_citation": "Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 5; Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Madde 6",
+    "supporting_passage": "İşverenin genel yükümlülükleri\nMADDE 5 – (1) İşveren aşağıdaki hususları yerine getirmekle yükümlüdür:\na) Çalışanların sağlık ve güvenliklerini sağlamak amacıyla;\n1) İşyerleri, çalışanların sağlık ve güvenliklerini tehlikeye atmayacak şekilde tasarlanır, inşa edilir, teçhiz edilir, hizmete alınır, işletilir ve bakımı yapılır.\n2) İşyerinde yapılacak her türlü çalışma, yetkili kişinin nezaretinde ve sorumluluğu altında yapılır.\n3) Özel riski bulunan işler yalnızca bu işlerle ilgili özel eğitim alan ehil kişiler tarafından ve talimatlara uygun olarak yapılır.\n4) Tüm güvenlik talimatları çalışanların anlayacağı şekilde hazırlanır.\n5) 18/6/2013 tarihli ve 28681 sayılı Resmî Gazete’de yayımlanan İşyerlerinde Acil Durumlar Hakkında Yönetmeliğe uygun olarak yeterli ilk yardım donanımı sağlanır ve (Değişik ibare:RG-24/3/2016-29663) en geç 6 ayda bir olmak üzere düzenli olarak gerekli tatbikatlar yapılır.\n\nÇalışanların yükümlülükleri\nMADDE 6 – (1) Çalışanlar, iş sağlığı ve güvenliği bakımından, ilgili mevzuatın öngördüğü esaslara ve işverenin bunlara uygun olarak vereceği emir ve talimata uymak zorundadırlar."
   },
   {
     "question_id": "q45",
@@ -1167,7 +1299,10 @@
     "suggested_gold_2": "7655229a277b:annex:3 (29.31)",
     "suggested_gold_3": "7655229a277b:intro:0 (28.48)",
     "suggested_top1_snippet": "Yürürlükten kaldırılan yönetmelikler MADDE 14 – (1) 11/3/1997 tarihli ve 22930 sayılı Resmî Gazete’de yayımlanan Grizulu Ocaklarda Elektrik Enerjisi Kullanılması Hakkında Yönetmelik, 13/4/1997 tarihli ve 22963 sayılı Res",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Maden İşyerlerinde İSG Yönetmeliği Ek-3 uyarınca grizulu maden ocaklarında; genel havalandırma veya çalışma alanlarında metan (CH4) oranı %1'i geçtiğinde patlatma yapılamaz ve elektrik enerjisi kesilir; metan oranı %1,5'e ulaştığında elektrikli ekipmanların (güvenlik ve haberleşme cihazları hariç) enerjisi kesilir; metan oranı %2'yi geçtiğinde ise çalışılan yerler ve tehlike altındaki tüm bölgeler derhal tahliye edilir.",
+    "gold_citation": "Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Ek-3",
+    "supporting_passage": "EK- 3\nYERALTI MADEN İŞLERİNİN YAPILDIĞI İŞYERLERİNDE UYGULANACAK\nASGARİ ÖZEL HÜKÜMLER\n1. Yeraltı çalışma planları (imalat haritası)\n1.1. Yeraltı çalışmalarını açıkça gösterecek (Değişik ibare:RG-10/3/2015-29291) şeklinde üç boyutlu bir yeraltı çalışma planı hazırlanır. Yollar, üretim alanları ile çalışmayı ve güvenliği etkileyebileceği beklenen diğer özellikler bu planın üzerinde gösterilir ve bu planlar kolayca ulaşılabilir şekilde muhafaza edilir. Planlar sağlık ve güvenlik yönünden gerekli olduğu sürece saklanır. (Ek cümle:RG-10/3/2015-29291) Ayrıca bu plan ölçekli olarak elektronik ortamda da üç boyutlu olarak hazırlanır. 1.2. Yeraltı çalışma planları en geç ayda bir güncelleştirilir ve işyerinde bulundurulur. 1.3. Eski çalışma yerleri, ocak içinde veya çevresinde su bulunması muhtemel tabakalar, faylar ve su kaynakları gibi doğal ve arızi su birikintilerinin durumu, genişliği ve derinliğiyle ilgili bütün bilgiler, ayrıntılı olarak imalat haritalarına işlenir. 2."
   },
   {
     "question_id": "q46",
@@ -1267,7 +1402,10 @@
     "suggested_gold_2": "44c7f586ce82:annex:4 (36.81)",
     "suggested_gold_3": "e9f806d28502:article:17 (34.95)",
     "suggested_top1_snippet": "Yürürlükten kaldırılan yönetmelik MADDE 15 – (1) 11/2/2004 tarihli ve 25370 sayılı Resmî Gazete’de yayımlanan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği yürürlükten kaldırılmıştır.",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği Madde 13 ve 14 uyarınca; periyodik kontroller, ekipmanın türüne göre ilgili branşlardan mühendisler, teknoloji fakültesi mezunları, teknik öğretmenler ve yüksek tekniker/teknikerler tarafından yapılır. Periyodik kontrol yapacak kişilerin Bakanlığın EKİPNET sistemine kayıt olarak EKİPNET kayıt numarası alması zorunludur; kayıt numarası bulunmayan kişilerin düzenlediği periyodik kontrol raporları geçersiz sayılır.",
+    "gold_citation": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Madde 13; İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Madde 14; İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Madde 17",
+    "supporting_passage": "Periyodik kontrolleri yapmaya yetkili kişilerin bildirimi\nMADDE 13 – (Değişik:RG-18/2/2022-31754)\n(1) Bu Yönetmelik kapsamında periyodik kontrolleri yapmaya yetkili kişiler, EKİPNET üzerinden kayıt yaparak bilgilerini Bakanlığa bildirir.\n(2) Bildirimde beyan esastır. Bu kişilere Bakanlıkça kayıt numarası verilir.\n(3) Yapılan inceleme sonucunda bildirim veya başvurularda bulunan bilgilerin doğru veya uygun olmadığı tespit edilen kişilerin kaydı on yıl süreyle askıya alınır, bu kişiler Bakanlığın internet sitesinde ilan edilir. Bu kişiler on yılın sonunda, bu madde kapsamında yeniden başvuru yapabilir.\n(4) Bildirimlerde istenecek bilgi ve belgeler ile kayıt işlemlerine ilişkin usul ve esaslar Bakanlıkça çıkarılacak Tebliğ ile belirlenir.\n\nAkreditasyon, yetkilendirme ve eğitim\nMADDE 14 – (Başlığı ile Birlikte Değişik:RG-18/2/2022-31754)\n(1) Bu Yönetmelik kapsamında; periyodik kontrol yapacak muayene kuruluşlarına akreditasyon, kişilere yetkilendirme ve eğitim zorunluluğu getirmeye ve bu kişi ve kuruluşlara yönelik denetim yapmaya Bakanlık yetkilidir.\n(2) Eğitim, temel eğitim ile sonrasında düzenlenecek ileri ve uygulamalı eğitimleri kapsar. Tüm eğitimlerin içerikleri, süresi, eğitici ve eğitim kurumlarında aranacak nitelikler, devam zorunluluğu, sınav ve başarı kriterleri gibi konulara yönelik usul ve esaslar Bakanlıkça belirlenir. Belirlenen şartlarda eğitimlerini başarıyla tamamlayan kişiler; periyodik kontrol yapmaya yetkili kişi unvanını almaya hak kazanır.\n(3) Birinci fıkra kapsamında kişilere getirilecek zorunluluklar iş ekipmanları esas alınarak Bakanlıkça çıkarılacak Tebliğ ile belirlenir.\n\nYürütme\nMADDE 17 – (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.\n____________\n(1) Bu değişiklik 25/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(2) Bu değişiklik 25/4/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n(3) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Diğer Hususlar” iken metne işlendiği şekilde değiştirilmiştir.\n(4) Bu değişiklik 31/12/2022 tarihinde yürürlüğe girer.\n(5) Bu değişiklik 31/12/2023 tarihinde yürürlüğe girer."
   },
   {
     "question_id": "q47",
@@ -1281,7 +1419,10 @@
     "suggested_gold_2": "fad54922e43a:article:30 (45.14)",
     "suggested_gold_3": "44c7f586ce82:annex:4 (38.07)",
     "suggested_top1_snippet": "Dinlenme yerlerinde sigara içmeyenleri sigara dumanından korumak üzere gerekli düzenleme yapılır. 22.8.4. Çalışma süresince, işin gereği olarak düzenli ve sık ara veriliyorsa ve ayrı bir dinlenme yeri yoksa çalışanların",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Bu soru 'Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına Dair Yönetmelik' kapsamındadır ve 20 belgelik mevcut korpusumuzda yer almamaktadır (Korpusta yer almayan mevzuat — Genel mevzuat bilgisi: Yaşları ve medeni halleri ne olursa olsun, 100–150 kadın çalışanı olan işyerlerinde emzirme odası, 150'den çok kadın çalışanı olan işyerlerinde ise 0–6 yaş grubu çocuklar için çocuk bakım yurdu/kreş açılması zorunludur).",
+    "gold_citation": "Korpusta yer almayan mevzuat (20 belge kapsamı dışı)",
+    "supporting_passage": ""
   },
   {
     "question_id": "q48",
@@ -1298,7 +1439,10 @@
     "suggested_gold_2": "eeaf9bff5ce5:temporary_article:1 (37.21)",
     "suggested_gold_3": "eeaf9bff5ce5:article:27 (35.31)",
     "suggested_top1_snippet": "İşe başlama eğitimleri MADDE 7- (1) İşveren, çırak ve stajyerler de dâhil olmak üzere tüm çalışanların fiilen çalışmaya başlamadan önce işe başlama eğitimi almasını sağlar. (2) İşe başlama eğitimi; çalışanın yapacağı iş,",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik Madde 7 uyarınca; işe başlama eğitimi, çırak ve stajyerler dâhil tüm çalışanların fiilen çalışmaya başlamadan önce alması gereken, her çalışan için en az 2 saat süren, uygulamalı ve yüz yüze verilen eğitimdir. İşveren, iş güvenliği uzmanı, işyeri hekimi veya işverence görevlendirilen bilgi sahibi ve deneyimli çalışanlar tarafından verilebilir. İşe başlama eğitiminde geçen süre temel eğitim süresinden sayılmaz ve tutanakla özlük dosyasında saklanır.",
+    "gold_citation": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 7",
+    "supporting_passage": "İşe başlama eğitimleri\nMADDE 7- (1) İşveren, çırak ve stajyerler de dâhil olmak üzere tüm çalışanların fiilen çalışmaya başlamadan önce işe başlama eğitimi almasını sağlar.\n(2) İşe başlama eğitimi; çalışanın yapacağı iş, varsa kullanacağı iş ekipmanı, çalışma ortamından kaynaklanan riskler ve işyerine özgü iş sağlığı ve güvenliği tedbirlerine ilişkin konuları içerir.\n(3) İşe başlama eğitimi, çalışanın tehlike ve risklere karşı korunmasını sağlayacak nitelikte, uygulamalı ve yüz yüze olarak verilir.\n(4) İşe başlama eğitimleri; işveren, işyerinde sağlık ve güvenlik hizmetini yürüten iş güvenliği uzmanları ile işyeri hekimleri veya işveren tarafından görevlendirilen bilgi sahibi ve deneyimli çalışanlar tarafından verilir.\n(5) İşe başlama eğitimi her çalışan için en az iki saat olarak düzenlenir. Bu eğitimlerde geçen süre temel eğitim süresinden sayılmaz."
   },
   {
     "question_id": "q49",
@@ -1316,7 +1460,10 @@
     "suggested_gold_2": "7002b35f317b:temporary_article:1 (36.28)",
     "suggested_gold_3": "fad54922e43a:article:2 (35.01)",
     "suggested_top1_snippet": "(5) Kendi adına ve hesabına bağımsız çalışanlar ile tarımda kendi adına ve hesabına bağımsız çalışanlardan 2/9/1971 tarihli ve 1479 sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 2 ve 4857 sayılı İş Kanunu Madde 4 birlikte değerlendirildiğinde; (1) Çalışan istihdam etmeksizin kendi nam ve hesabına tek başına mal ve hizmet üretenler (bağımsız çalışan esnaf) ve (2) Ev hizmetlerinde çalışanlar her iki kanunun da kapsamı dışındadır. (3) Çıraklar ve stajyerler ise 4857 sayılı İş Kanunu kapsamı dışında olmakla birlikte, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına açıkça dâhil edilmiştir.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 2; 4857 sayılı İş Kanunu, Madde 4",
+    "supporting_passage": "Kapsam ve istisnalar\nMADDE 2 – (1) Bu Kanun; kamu ve özel sektöre ait bütün işlere ve işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine, çırak ve stajyerler de dâhil olmak üzere tüm çalışanlarına faaliyet konularına bakılmaksızın uygulanır.\n(2) Ancak aşağıda belirtilen faaliyetler ve kişiler hakkında bu Kanun hükümleri uygulanmaz:\na) Fabrika, bakım merkezi, dikimevi ve benzeri işyerlerindekiler hariç Türk Silahlı Kuvvetleri, genel kolluk kuvvetleri ve Milli İstihbarat Teşkilatı Müsteşarlığının faaliyetleri.\nb) Afet ve acil durum birimlerinin müdahale faaliyetleri.\nc) Ev hizmetleri.\nç) Çalışan istihdam etmeksizin kendi nam ve hesabına mal ve hizmet üretimi yapanlar.\nd) Hükümlü ve tutuklulara yönelik infaz hizmetleri sırasında, iyileştirme kapsamında yapılan işyurdu, eğitim, güvenlik ve meslek edindirme faaliyetleri.\ne) (Ek: 10/9/2014-6552/15 md.; İptal: Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.)\n\nİstisnalar\nMadde 4 -Aşağıda belirtilen işlerde ve iş ilişkilerinde bu Kanun hükümleri uygulanmaz;\na) Deniz ve hava taşıma işlerinde,\nb) 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde,\nc) Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,\nd) Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dahil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde,\ne) Ev hizmetlerinde,\nf) (…) çıraklar hakkında,\ng) Sporcular hakkında,\nh) Rehabilite edilenler hakkında,\nı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde."
   },
   {
     "question_id": "q50",
@@ -1342,7 +1489,10 @@
     "suggested_gold_2": "070595224074:article:5 (54.96)",
     "suggested_gold_3": "070595224074:article:14 (52.25)",
     "suggested_top1_snippet": "(Ek cümle: 10/9/2014-6552/16 md.) Belirlenen niteliklere ve gerekli belgeye sahip olmayan ancak 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyeri işverenleri veya işveren vekili tarafından Bakanlıkça ila",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 6 ve İSG Hizmetleri Yönetmeliği Madde 5 uyarınca; 50'den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerinde işveren veya işveren vekili, Bakanlıkça ilan edilen eğitimi tamamlamak şartıyla İSG hizmetlerini kendisi yürütebilir. Ancak bu yetki işe giriş ve periyodik sağlık muayeneleri ile tetkikleri kapsamaz; sağlık muayenelerinin işyeri hekimi veya kamu sağlık hizmet sunucuları / aile hekimleri tarafından yapılması zorunludur.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 6; İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği, Madde 5",
+    "supporting_passage": "İş sağlığı ve güvenliği hizmetleri\nMADDE 6 – (1) Mesleki risklerin önlenmesi ve bu risklerden korunulmasına yönelik çalışmaları da kapsayacak, iş sağlığı ve güvenliği hizmetlerinin sunulması için işveren;\na) Çalışanları arasından iş güvenliği uzmanı, işyeri hekimi ve on ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli görevlendirir. Çalışanları arasında belirlenen niteliklere sahip personel bulunmaması hâlinde, bu hizmetin tamamını veya bir kısmını ortak sağlık ve güvenlik birimlerinden veya ÇASMER’lerden hizmet alarak yerine getirebilir. Ancak belirlenen niteliklere ve gerekli belgeye sahip olması hâlinde, tehlike sınıfı ve çalışan sayısı dikkate alınarak, bu hizmetin yerine getirilmesini kendisi üstlenebilir.\n\nİşverenin iş sağlığı ve güvenliği hizmetleri ile ilgili yükümlülükleri\nMADDE 5 – (1) (Değişik:RG-18/12/2014-29209) İşveren, işyerlerinde alınması gereken iş sağlığı ve güvenliği tedbirlerinin belirlenmesi ve uygulanmasının izlenmesi, iş kazası ve meslek hastalıklarının önlenmesi, çalışanların ilk yardım ve acil tedavi ile koruyucu sağlık ve güvenlik hizmetlerinin yürütülmesi amacıyla; çalışanları arasından ilgili yönetmeliklerde belirtilen nitelikleri haiz bir veya birden fazla işyeri hekimi, iş güvenliği uzmanı görevlendirir. On ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyeri işverenleri ayrıca diğer sağlık personeli görevlendirir. Gerekli nitelikleri haiz olması halinde tehlike sınıfı ve çalışan sayısını dikkate alarak bu hizmetin yerine getirilmesini kendisi üstlenebilir."
   },
   {
     "question_id": "q51",
@@ -1358,7 +1508,10 @@
     "suggested_gold_2": "da6c8e8ca63d:article:5 (41.15)",
     "suggested_gold_3": "569f2ec68e96:article:6 (37.79)",
     "suggested_top1_snippet": "Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde risk değerlendirmesi MADDE 15 – (1) Bir işyerinde bir veya daha fazla alt işveren bulunması halinde: a) Her alt işveren yürüttükleri işlerle ilgili olarak, b",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Risk Değerlendirmesi Yönetmeliği Madde 15 uyarınca bir işyerinde bir veya daha fazla alt işveren (taşeron) bulunması halinde; her alt işveren yürüttükleri işlerle ilgili olarak kendi risk değerlendirmesini yapar veya yaptırır ve hazırladığı risk değerlendirmesinin bir nüshasını asıl işverene verir. Asıl işveren ise bu çalışmaları denetler, koordine eder ve alt işverenlerin risk değerlendirmelerini kendi risk değerlendirmesi çalışmalarıyla bütünleştirir.",
+    "gold_citation": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği, Madde 15",
+    "supporting_passage": "Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde risk değerlendirmesi\nMADDE 15 – (1) Bir işyerinde bir veya daha fazla alt işveren bulunması halinde:\na) Her alt işveren yürüttükleri işlerle ilgili olarak, bu Yönetmelik hükümleri uyarınca gerekli risk değerlendirmesi çalışmalarını yapar veya yaptırır.\nb) Alt işverenlerin risk değerlendirmesi çalışmaları konusunda asıl işverenin sorumluluk alanları ile ilgili ihtiyaç duydukları bilgi ve belgeler asıl işverence sağlanır.\nc) Asıl işveren, alt işverenlerce yürütülen risk değerlendirmesi çalışmalarını denetler ve bu konudaki çalışmaları koordine eder.\n(2) Alt işverenler hazırladıkları risk değerlendirmesinin bir nüshasını asıl işverene verir. Asıl işveren; bu risk değerlendirmesi çalışmalarını kendi çalışmasıyla bütünleştirerek, risk kontrol tedbirlerinin uygulanıp uygulanmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar."
   },
   {
     "question_id": "q52",
@@ -1378,7 +1531,10 @@
     "suggested_gold_2": "eeaf9bff5ce5:article:4 (46.94)",
     "suggested_gold_3": "eeaf9bff5ce5:article:12 (43.72)",
     "suggested_top1_snippet": "İşe başlama eğitimleri MADDE 7- (1) İşveren, çırak ve stajyerler de dâhil olmak üzere tüm çalışanların fiilen çalışmaya başlamadan önce işe başlama eğitimi almasını sağlar. (2) İşe başlama eğitimi; çalışanın yapacağı iş,",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik Madde 7, 12 ve 16 uyarınca; 'İşe başlama eğitimi' mutlaka uygulamalı ve yüz yüze verilmelidir (uzaktan eğitimle verilemez). 'Temel eğitimler' ise çalışanların işe ilk girişlerinde yüz yüze verilir; ancak az tehlikeli işyerlerinde ilk temel eğitim ile tüm tehlike sınıflarında tekrarlanan (yenileme) temel eğitimler uzaktan eğitim yöntemiyle verilebilir.",
+    "gold_citation": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 7; Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 12; Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 16",
+    "supporting_passage": "İşe başlama eğitimleri\nMADDE 7- (1) İşveren, çırak ve stajyerler de dâhil olmak üzere tüm çalışanların fiilen çalışmaya başlamadan önce işe başlama eğitimi almasını sağlar.\n(2) İşe başlama eğitimi; çalışanın yapacağı iş, varsa kullanacağı iş ekipmanı, çalışma ortamından kaynaklanan riskler ve işyerine özgü iş sağlığı ve güvenliği tedbirlerine ilişkin konuları içerir.\n(3) İşe başlama eğitimi, çalışanın tehlike ve risklere karşı korunmasını sağlayacak nitelikte, uygulamalı ve yüz yüze olarak verilir.\n(4) İşe başlama eğitimleri; işveren, işyerinde sağlık ve güvenlik hizmetini yürüten iş güvenliği uzmanları ile işyeri hekimleri veya işveren tarafından görevlendirilen bilgi sahibi ve deneyimli çalışanlar tarafından verilir.\n(5) İşe başlama eğitimi her çalışan için en az iki saat olarak düzenlenir. Bu eğitimlerde geçen süre temel eğitim süresinden sayılmaz.\n\nTemel eğitimin düzenlenmesi\nMADDE 12- (1) Temel eğitimler, çalışanların kolayca anlayabileceği şekilde bireysel ya da gruplar halinde düzenlenir.\n(2) Ek-1’de yer alan birinci, ikinci ve üçüncü konu başlıkları tüm işyerleri için uzaktan, yüz yüze veya iki yöntemin bir arada kullanılmasıyla verilebilir. İşveren, teknik olanaklar ve çalışanların ihtiyacı doğrultusunda yöntemi belirler.\n(3) Ek-1’de yer alan dördüncü konu başlığı;\na) Az tehlikeli sınıfta yer alan işyerlerinde uzaktan, yüz yüze veya iki yöntemin bir arada kullanılmasıyla,\nb) Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde yüz yüze,\nverilir.\n(4) Eğitimlerin uzaktan eğitim yöntemi kullanılarak verilmesi halinde çalışanların uzaktan eğitim sistemine giriş ve çıkışları, eğitim tamamlama oranları, ölçüm ve değerlendirme sonuçları ve benzeri veriler kayıt altına alınır, izlenir ve raporlanır.\n\nTemel eğitimin ölçme ve değerlendirme usulleri\nMADDE 16- (1) İşveren tarafından belirlenecek bir yöntem ile çalışanların bireysel seviye tespiti yapılarak temel eğitim öncesi seviyeleri belirlenir.\n(2) Temel eğitimin sonunda ölçme ve değerlendirme yapılır. Ölçme ve değerlendirme kapsamındaki değerlendirme sınavları; uzaktan, yüz yüze veya iki yöntem bir arada kullanılarak yapılabilir.\n(3) Sınavlarda yüz puan üzerinden en az altmış puan alan katılımcılar başarılı sayılır. İlk sınavda başarısız olan katılımcılar en fazla iki defa daha ilgili sınavlara katılabilir. Bu sınavlarda başarısız olan katılımcılar temel eğitime yeniden katılmak zorundadır.\n(4) İşveren eğitimlerin etkinliğine dair değerlendirme yapar. Değerlendirme sonuçlarına göre ihtiyaç duyulması halinde, eğitim programında veya eğiticilerde değişiklik yapılır veya eğitim tekrarlanır."
   },
   {
     "question_id": "q53",
@@ -1407,7 +1563,10 @@
     "suggested_gold_2": "5c5255eb260d:article:7 (51.06)",
     "suggested_gold_3": "fad54922e43a:temporary_article:4 (43.27)",
     "suggested_top1_snippet": "b) İş sağlığı ve güvenliği hizmetleri ile ilgili olarak; 1) Çalışan sayısı ve tehlike sınıfı göz önünde bulundurularak hangi işyerlerinde işyeri sağlık ve güvenlik biriminin kurulacağı, bu birimlerin fiziki şartları ile",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 8 uyarınca kural olarak C sınıfı iş güvenliği uzmanları az tehlikeli sınıfta, B sınıfı uzmanlar az tehlikeli ve tehlikeli sınıfta, A sınıfı uzmanlar ise tüm tehlike sınıflarında görev yapabilir. Ayrıca sektörel/geçici düzenlemeler veya ilgili alanda mesleki tecrübe/prim günü şartlarının sağlanması ve tam süreli uzman yanında görevlendirilme gibi istisnai hallerde bir üst tehlike sınıfında görevlendirme yapılabilmektedir.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 8; İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 7; İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 8",
+    "supporting_passage": "İşyeri hekimleri ve iş güvenliği uzmanları\nMADDE 8 – (1) İşyeri hekimi ve iş güvenliği uzmanlarının hak ve yetkileri, görevlerini yerine getirmeleri nedeniyle kısıtlanamaz. Bu kişiler, görevlerini mesleğin gerektirdiği etik ilkeler ve mesleki bağımsızlık içerisinde yürütür.\n(2) (Değişik: 4/4/2015-6645/1 md.) İşverene iş sağlığı ve güvenliği ile ilgili konularda rehberlik ve danışmanlık yapmak üzere görevlendirilen işyeri hekimi ve iş güvenliği uzmanı, görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde bulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve tavsiyeleri belirler ve işverene yazılı olarak bildirir. Eksiklik ve aksaklıkların düzeltilmesinden, tedbir ve tavsiyelerin yerine getirilmesinden işveren sorumludur.\n\nİş güvenliği uzmanlarının nitelikleri ve görevlendirilmeleri\nMADDE 7 – (1) İşverence iş güvenliği uzmanı olarak görevlendirilecekler, bu Yönetmeliğe göre geçerli iş güvenliği uzmanlığı belgesine sahip olmak zorundadır.\n(2) İş güvenliği uzmanlarından; (C) sınıfı belgeye sahip olanlar az tehlikeli sınıfta, (B) sınıfı belgeye sahip olanlar az tehlikeli ve tehlikeli sınıflarda, (A) sınıfı belgeye sahip olanlar ise bütün tehlike sınıflarında yer alan işyerlerinde çalışabilirler.\n(3) Birden fazla iş güvenliği uzmanının görevlendirilmesinin gerektiği işyerlerinde, (Danıştay Onuncu Dairesinin 28/3/2019 tarihli ve E.: 2016/1110; K. :2019/2521 sayılı kararı ile iptal ibare; Danıştay İDDK’nın 17/12/2020 tarihli E.:2019/2291; K.:2020/3203 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.), işyerinin tehlike sınıfına uygun belgeye sahip olması yeterlidir.\n\nİş güvenliği uzmanlığı belgesi\nMADDE 8 – (1) (Değişik:RG-11/10/2013-28792) İş güvenliği uzmanlığı belgesinin sınıfları aşağıda belirtilmiştir:\na) (A) sınıfı iş güvenliği uzmanlığı belgesi;\n1) (B) sınıfı iş güvenliği uzmanlığı belgesiyle en az dört yıl fiilen görev yaptığını iş güvenliği uzmanlığı sözleşmesi ile belgeleyen ve (A) sınıfı iş güvenliği uzmanlığı eğitimine katılarak yapılacak (A) sınıfı iş güvenliği uzmanlığı sınavında başarılı olanlara,\n2) Mühendislik veya mimarlık eğitimi veren fakülte mezunları ile teknik elemanlardan; iş sağlığı ve güvenliği veya iş güvenliği programında doktora yapmış olanlara,\n3) Genel Müdürlük veya bağlı birimlerinde en az on yıl görev yapmış mühendislik veya mimarlık eğitimi veren fakülte mezunları ile teknik elemanlara,\n4) İş sağlığı ve güvenliği alanında müfettiş yardımcılığı süresi dâhil en az on yıl görev yapmış mühendis, mimar veya teknik eleman olan iş müfettişlerine,\n5) Genel Müdürlük ve bağlı birimlerinde uzman yardımcılığı süresi dâhil en"
   },
   {
     "question_id": "q54",
@@ -1423,7 +1582,10 @@
     "suggested_gold_2": "905c347cc31e:article:12 (41.21)",
     "suggested_gold_3": "905c347cc31e:article:18 (33.48)",
     "suggested_top1_snippet": "Birden fazla işveren olması durumunda acil durum planları MADDE 17 – (1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda, yürütülen işler için diğer işverenlerin yürüttüğü işler de göz önünde bulundurula",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik Madde 17 uyarınca; aynı çalışma alanını veya binayı birden fazla işverenin paylaşması durumunda, yürütülen işler için diğer işverenlerin yürüttüğü işler de göz önünde bulundurularak acil durum planı işverenlerce ortaklaşa veya yönetim tarafından koordineli olarak hazırlanır ve tahliye tatbikatları koordinasyon içinde birlikte gerçekleştirilir.",
+    "gold_citation": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik, Madde 17",
+    "supporting_passage": "Birden fazla işveren olması durumunda acil durum planları\nMADDE 17 – (1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda, yürütülen işler için diğer işverenlerin yürüttüğü işler de göz önünde bulundurularak acil durum planı işverenlerce ortaklaşa hazırlanır.\n(2) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları, sanayi bölgeleri veya sitelerinin işyerlerince hazırlanan acil durum planlarının koordinasyonu yönetim tarafından yürütülür."
   },
   {
     "question_id": "q55",
@@ -1444,7 +1606,10 @@
     "suggested_gold_2": "672c4073d152:article:12 (57.29)",
     "suggested_gold_3": "905c347cc31e:article:11 (55.32)",
     "suggested_top1_snippet": "Diğer sağlık personelinin çalışma süreleri MADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar: a) (Değişik:RG-18/12/2014-29209)",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "6331 sayılı Kanun Madde 6 ve İşyeri Hekimi ve DSP Yönetmeliği Madde 19 uyarınca; (1) Az tehlikeli ve tehlikeli sınıftaki işyerlerinde (ve 10'dan az çalışanı olan çok tehlikeli işyerlerinde) Diğer Sağlık Personeli (DSP) görevlendirme zorunluluğu yoktur; DSP zorunluluğu yalnızca 10 ve daha fazla çalışanı olan çok tehlikeli işyerleri için geçerlidir. (2) Tam süreli işyeri hekimi görevlendirilen işyerlerinde ise ayrıca DSP görevlendirilmesi zorunlu değildir.",
+    "gold_citation": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 6; İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, Madde 19",
+    "supporting_passage": "İş sağlığı ve güvenliği hizmetleri\nMADDE 6 – (1) Mesleki risklerin önlenmesi ve bu risklerden korunulmasına yönelik çalışmaları da kapsayacak, iş sağlığı ve güvenliği hizmetlerinin sunulması için işveren;\na) Çalışanları arasından iş güvenliği uzmanı, işyeri hekimi ve on ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli görevlendirir. Çalışanları arasında belirlenen niteliklere sahip personel bulunmaması hâlinde, bu hizmetin tamamını veya bir kısmını ortak sağlık ve güvenlik birimlerinden veya ÇASMER’lerden hizmet alarak yerine getirebilir. Ancak belirlenen niteliklere ve gerekli belgeye sahip olması hâlinde, tehlike sınıfı ve çalışan sayısı dikkate alınarak, bu hizmetin yerine getirilmesini kendisi üstlenebilir.\n\nDiğer sağlık personelinin çalışma süreleri\nMADDE 19 – (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:\na) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.\nb) (Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.\nc) (Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.\n(2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir."
   },
   {
     "question_id": "q56",
@@ -1463,7 +1628,10 @@
     "suggested_gold_2": "7655229a277b:annex:1 (57.86)",
     "suggested_gold_3": "44c7f586ce82:annex:4 (54.20)",
     "suggested_top1_snippet": "Bu fıkra hükümlerinden yararlanılan süre içerisinde süt iznine ilişkin hükümler uygulanmaz. Yukarıda öngörülen süreler işçinin sağlık durumuna ve işin özelliğine göre doğumdan önce ve sonra gerekirse artırılabilir. Bu sü",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "4857 sayılı İş Kanunu Madde 74 ve ilgili mevzuat uyarınca gebe veya emziren kadın çalışanlar günde 7,5 saatten fazla çalıştırılamazlar. Kadın işçilere bir yaşından küçük çocuklarını emzirmeleri için günde toplam 1,5 saat süt izni verilir; bu sürenin hangi saatler arasında ve kaça bölünerek kullanılacağını işçi kendisi belirler ve bu süre günlük çalışma süresinden sayılır.",
+    "gold_citation": "4857 sayılı İş Kanunu, Madde 74",
+    "supporting_passage": "Analık halinde çalışma ve süt izni\nMadde 74 - Kadın işçilerin doğumdan önce sekiz ve doğumdan sonra onaltı hafta olmak üzere toplam yirmidört haftalık süre için çalıştırılmamaları esastır. Çoğul gebelik halinde doğumdan önce çalıştırılmayacak sekiz haftalık süreye iki hafta süre eklenir. Ancak, sağlık durumu uygun olduğu takdirde, doktorun onayı ile kadın işçi isterse doğumdan önceki iki haftaya kadar işyerinde çalışabilir. Bu durumda, kadın işçinin çalıştığı süreler doğum sonrası sürelere eklenir. (Ek cümle: 13/2/2011-6111/76 md.) Kadın işçinin erken doğum yapması halinde ise doğumdan önce kullanamadığı çalıştırılmayacak süreler, doğum sonrası sürelere eklenmek suretiyle kullandırılır. (Ek cümleler: 29/1/2016-6663/22 md.) Doğumda veya doğum sonrasında annenin ölümü hâlinde, doğum sonrası kullanılamayan süreler babaya kullandırılır."
   },
   {
     "question_id": "q57",
@@ -1483,7 +1651,10 @@
     "suggested_gold_2": "944abf247108:article:4 (29.98)",
     "suggested_gold_3": "944abf247108:article:9 (28.89)",
     "suggested_top1_snippet": "Kurulun oluşumu MADDE 6 – (1) Kurul aşağıda belirtilen kişilerden oluşur: a) İşveren veya işveren vekili, b) İş güvenliği uzmanı, c) İşyeri hekimi, ç) İnsan kaynakları, personel, sosyal işler veya idari ve mali işleri yü",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "İSG Kurulları Hakkında Yönetmelik Madde 6 uyarınca kurulun başkanı işveren veya işveren vekilidir. Kurulun sekreteri ise iş güvenliği uzmanıdır; ancak iş güvenliği uzmanının tam zamanlı çalışma zorunluluğu olmayan (kısmi süreli uzman çalıştıran) işyerlerinde kurul sekreterliği; insan kaynakları, personel, sosyal işler veya idari ve mali işleri yürütmekle görevli kişi tarafından yürütülür.",
+    "gold_citation": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik, Madde 6; İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik, Madde 9",
+    "supporting_passage": "Kurulun oluşumu\nMADDE 6 – (1) Kurul aşağıda belirtilen kişilerden oluşur:\na) İşveren veya işveren vekili,\nb) İş güvenliği uzmanı,\nc) İşyeri hekimi,\nç) İnsan kaynakları, personel, sosyal işler veya idari ve mali işleri yürütmekle görevli bir kişi,\nd) Bulunması halinde sivil savunma uzmanı,\ne) Bulunması halinde formen, ustabaşı veya usta,\nf) Çalışan temsilcisi, işyerinde birden çok çalışan temsilcisi olması halinde baş temsilci.\n(2) Kurulun başkanı işveren veya işveren vekili, kurulun sekreteri ise iş güvenliği uzmanıdır. İş güvenliği uzmanının tam zamanlı çalışma zorunluluğu olmayan işyerlerinde ise kurul sekretaryası; insan kaynakları, personel, sosyal işler veya idari ve mali işleri yürütmekle görevli bir kişi tarafından yürütülür.\n(3) Bu maddenin birinci fıkrasının (b), (c), (ç) ve (d) bentlerinde gösterilen üyeler işveren veya işveren vekili tarafından atanırlar.\n\nÇalışma usulleri\nMADDE 9 – (1) Kurul inceleme, izleme ve uyarmayı öngören bir düzen içinde ve aşağıdaki esasları göz önünde bulundurarak çalışır. a) Kurullar ayda en az bir kere toplanır. Ancak kurul, işyerinin tehlike sınıfını dikkate alarak, tehlikeli işyerlerinde bu sürenin iki ay, az tehlikeli işyerlerinde ise üç ay olarak belirlenmesine karar verebilir. b) Toplantının gündemi, yeri, günü ve saati toplantıdan en az kırk sekiz saat önce kurul üyelerine bildirilir. Gündem, sorunların ve varsa iş sağlığı ve güvenliğine ilişkin projelerin önem sırasına göre belirlenir. Kurul üyeleri gündemde değişiklik isteyebilirler. Bu istek kurulca uygun görüldüğünde gündem buna göre değiştirilir. c) Ölümlü, uzuv kayıplı veya ağır iş kazası halleri veya özel bir tedbiri gerektiren önemli hallerde kurul üyelerinden herhangi biri kurulu olağanüstü toplantıya çağırabilir. Bu konudaki tekliflerin kurul başkanına veya sekreterine yapılması gerekir."
   },
   {
     "question_id": "q58",
@@ -1501,7 +1672,10 @@
     "suggested_gold_2": "7002b35f317b:additional_article:9 (24.94)",
     "suggested_gold_3": "7002b35f317b:temporary_article:96 (24.44)",
     "suggested_top1_snippet": "İş kazasının tanımı, bildirilmesi ve soruşturulması MADDE 13- İş kazası; a) Sigortalının işyerinde bulunduğu sırada, b) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan iş nedeniyle sigortalı kendi ad",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "5510 sayılı Kanun Madde 13/2 uyarınca; 4/a (SSK) çalışanlarının iş kazası işveren tarafından kazadan sonraki 3 iş günü içinde SGK'ya bildirilirken, 4/b (Bağ-Kur / kendi adına ve hesabına bağımsız çalışan) sigortalılarının geçirdiği iş kazasının, kazanın meydana geldiği tarihten itibaren bir ayı geçmemek şartıyla rahatsızlığının bildirim yapmaya engel olmadığı günden sonra 3 iş günü içinde bizzat sigortalının kendisi tarafından SGK'ya bildirilmesi gerekir.",
+    "gold_citation": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Madde 13",
+    "supporting_passage": "İş kazasının tanımı, bildirilmesi ve soruşturulması\nMADDE 13- İş kazası;\na) Sigortalının işyerinde bulunduğu sırada,\nb) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan iş nedeniyle sigortalı kendi adına ve hesabına bağımsız çalışıyorsa yürütmekte olduğu iş nedeniyle,\nc) Bir işverene bağlı olarak çalışan sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,\nd) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt vermek için ayrılan zamanlarda,\ne) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,\nmeydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle getiren olaydır."
   },
   {
     "question_id": "q59",
@@ -1518,7 +1692,10 @@
     "suggested_gold_2": "bba00c499372:article:6 (61.20)",
     "suggested_gold_3": "7655229a277b:annex:1 (45.85)",
     "suggested_top1_snippet": "Maruziyet eylem değerleri ve maruziyet sınır değerleri MADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet eylem değerleri ve maruziyet sınır değerleri aşağıda verilmiştir: a) En düşük maruziyet eylem değerle",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik Madde 5/2 uyarınca; (1) Maruziyet sınır değerleri (87 dB(A)) uygulanırken, çalışanların maruziyetinin tespitinde kullanıldığı kişisel kulak koruyucu donanımların (KKD) koruyucu etkisi dikkate alınır. (2) En düşük (80 dB(A)) ve en yüksek (85 dB(A)) maruziyet eylem değerlerinde ise kulak koruyucularının etkisi dikkate alınmaz.",
+    "gold_citation": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Madde 5",
+    "supporting_passage": "Maruziyet eylem değerleri ve maruziyet sınır değerleri\nMADDE 5 – (1) Bu Yönetmeliğin uygulanması bakımından, maruziyet eylem değerleri ve maruziyet sınır değerleri aşağıda verilmiştir:\na) En düşük maruziyet eylem değerleri: (LEX, 8saat) = 80 dB(A) veya (Ptepe) = 112 Pa [135 dB(C) re. 20 µPa] (20 µPa referans alındığında 135 dB (C) olarak hesaplanan değer).\nb) En yüksek maruziyet eylem değerleri: (LEX, 8saat) = 85 dB(A) veya (Ptepe) = 140 Pa [137 dB(C) re. 20 µPa].\nc) Maruziyet sınır değerleri: (LEX, 8saat) = 87 dB(A) veya (Ptepe) = 200 Pa [140 dB(C) re. 20 µPa].\n(2) Maruziyet sınır değerleri uygulanırken, çalışanların maruziyetinin tespitinde, çalışanın kullandığı kişisel kulak koruyucu donanımların koruyucu etkisi de dikkate alınır.\n(3) Maruziyet eylem değerlerinde kulak koruyucularının etkisi dikkate alınmaz."
   },
   {
     "question_id": "q60",
@@ -1536,6 +1713,9 @@
     "suggested_gold_2": "eeaf9bff5ce5:article:25 (38.13)",
     "suggested_gold_3": "eeaf9bff5ce5:article:27 (35.06)",
     "suggested_top1_snippet": "Geçerli eğitimler GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinden önce 27 nci madde ile yürürlükten kaldırılan Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik kapsamında veri",
-    "labeler": "evrim"
+    "labeler": "evrim",
+    "reference_answer": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik Madde 6 ve 17 uyarınca; aynı işverene ait başka bir işyerine nakledilen veya işyeri değişen çalışanın daha önce aldığı temel İSG eğitimi, önceki eğitim belgesinin ibraz edilmesi ve yeni işyerinin tehlike sınıfına uygun olması kaydıyla geçerlilik süresi boyunca kabul edilir; ancak yeni işyerine ve ekipmanlara özgü fark ve işe başlama eğitimleri ayrıca verilir.",
+    "gold_citation": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 6; Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, Madde 17",
+    "supporting_passage": "Çalışanların yükümlülükleri\nMADDE 6- (1) Çalışanların, iş sağlığı ve güvenliği eğitimleri ile ilgili yükümlülükleri şunlardır:\na) Uygulamaya konulan eğitim programları çerçevesinde iş sağlığı ve güvenliği eğitimlerine katılmak.\nb) Eğitimleri düzenli takip etmek.\nc) Eğitimlerin verimli olması için gereken dikkat ve özeni göstermek.\nç) İşveren tarafından uygulanan ölçme ve değerlendirmelere katılmak.\nd) Eğitimlerde edindiği bilgileri yaptığı iş ve işlemlerde uygulamak ve bu konudaki talimatlara uymak.\n\nTemel eğitimin belgelendirilmesi\nMADDE 17- (1) İşveren yüz yüze verilen temel eğitimlerde çalışanların katılımlarını; eğitimin düzenlendiği yer ve tarih, katılımcıların adı, soyadı ve imzası, eğiticinin adı, soyadı ve imzası ile eğitimin süresi, eğitimde yer alan konu başlıklarını içerecek şekilde eğitim katılım tutanakları ile kayıt altına alır.\n(2) İşveren, temel eğitimlerin uzaktan eğitim yöntemi kullanılarak verilmesi halinde çalışanların katılımlarını 12 nci maddenin dördüncü fıkrasında belirtilen verilerle kayıt altına alır.\n(3) İşveren, düzenlenen temel eğitimleri başarıyla tamamlayan çalışanlara, Ek-2’de yer alan örneğine uygun temel eğitim belgesi düzenler ve bu belgeleri çalışanın özlük dosyasında muhafaza eder.\n(4) Çalışanın işten ayrılırken talep etmesi halinde temel eğitim belgesinin bir örneği işveren tarafından imzalanarak çalışana teslim edilir. Belgenin mümkün olan en kısa sürede verilmesinden ve belgede yer alan bilgilerin doğruluğundan işveren sorumludur."
   }
 ]
