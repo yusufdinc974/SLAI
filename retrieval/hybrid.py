@@ -131,11 +131,26 @@ class HybridRetriever:
             sec_type = str(meta.get("section_type") or "").strip()
             title = str(meta.get("title") or "").strip()
 
-            if sec_num and sec_num in refs["articles"]:
-                if not refs["section_types"] or not sec_type or sec_type in refs["section_types"]:
-                    bonus += article_boost
+            law_match = bool(
+                title and any(title.endswith(law) for law in refs["laws"])
+            )
+            art_match = bool(
+                sec_num
+                and sec_num in refs["articles"]
+                and (
+                    not refs["section_types"]
+                    or not sec_type
+                    or sec_type in refs["section_types"]
+                )
+            )
 
-            if title and any(title.endswith(law) for law in refs["laws"]):
+            if art_match and law_match:
+                bonus += article_boost * 2.5
+            elif art_match and not refs["laws"]:
+                bonus += article_boost
+            elif art_match and refs["laws"]:
+                bonus += article_boost * 0.25
+            elif law_match:
                 bonus += article_boost * 0.5
 
             boosted.append(RetrievalResult(res.passage_id, res.score + bonus))
